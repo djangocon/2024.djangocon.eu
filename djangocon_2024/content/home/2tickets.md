@@ -1,13 +1,25 @@
 title: tickets
 layout: home_tickets
 
+<div class="ticket_soon">
+    <p> More information coming soon! </p>
+</div>
 
-> #### march
->
-> > 🎫 16th - Super Early Bird  [Ticket sales](/tickets/ ) open (SOLD OUT)
-> >
-> > ✈️ 18th - [Grants](/information/grants/) applications' form opens
-> >
-> > 🎤 23rd - [Call for Participation](/talks/cfp/) opens
+<!--
+<div class="image-container" id="ticket_containers">
+    
+    <div class="image-wrapper">
+        <div id="tickets_menu"></div>
+        <div class="button-overlay button1">
+            <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+        </div>
+        <div class="button-overlay button2">
+            <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+        </div>
+        <div class="button-overlay button3">
+            <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+        </div>
+    </div>
+</div>
+  -->
 
-<span></span>

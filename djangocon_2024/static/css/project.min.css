@@ -143,8 +143,8 @@
   .right-side p {
     color:#863b35;
     text-align: left;
-    font: Montserrat;
-    font-weight:100;
+    font-family: 'Montserrat';
+    font-weight: 400;
     font-size: 1rem;
     letter-spacing: 0px;
     opacity: 1;
@@ -156,7 +156,7 @@
     background-color: #863b35;
     border-color: #863b35;
     text-decoration: none;
-    font: Montserrat;
+    font-family: 'Montserrat';
     font-weight:100;
     font-size: 1rem;
   }
@@ -168,8 +168,6 @@
   .sponsors_content .left-side h2{
     color:#863b35;
     text-align: left;
-    font: Montserrat;
-    font-weight:bolder;
     font-size: 3.5rem;
     letter-spacing: 0px;
     opacity: 1;
@@ -178,9 +176,9 @@
 .sponsors_content .left-side p{
     color:#863b35;
     text-align: left;
-    font: Montserrat;
-    font-weight:450;
-    font-size: 2rem;
+    font-family: 'Montserrat';
+    font-weight:700;
+    font-size: 1.8rem;
     line-height: 2.5rem;
     letter-spacing: 0px;
     opacity: 1;
@@ -200,7 +198,7 @@
 
 .got_questions h2 {
     text-align: center;
-    font: Montserrat;
+    font-family: 'Montserrat';
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
@@ -212,7 +210,7 @@
 
 .got_questions p {
     text-align: center;
-    font: Montserrat;
+    font-family: 'Montserrat';
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
@@ -233,45 +231,45 @@
     font-size:1.3rem;
 }
 
-#ticket123 {
+#ticket_containers {
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
 }
 
-#ticket123 .image-wrapper {
+#ticket_containers .image-wrapper {
     display: inline-block;
     position: relative;
 }
 
-#ticket123 .button-overlay {
+#ticket_containers .button-overlay {
     position: absolute;
     z-index: 1;
 }
 .button{
     text-decoration: none !important;
 }
-#ticket123 .button1 {
+#ticket_containers .button1 {
     font-size: large;
     top: 85%;
     left: 6.5%;
 }
 
-#ticket123 .button2 {
+#ticket_containers .button2 {
     font-size: large;
     top: 85%;
     left: 50%;
     transform: translateX(-50%);
 }
 
-#ticket123 .button3 {
+#ticket_containers .button3 {
     font-size: large;
     top: 85%;
     right: 6.5%;
 }
 
-#ticket123 .button {
+#ticket_containers .button {
     background-color: #863b35;
     color: #ffffff;
     border-radius: 11px;
@@ -282,7 +280,7 @@
     cursor: pointer;
 }
 
-#ticket123 .button:hover {
+#ticket_containers .button:hover {
     background-color: #af6b66;
 }
 
@@ -904,7 +902,7 @@ img.hotel{
     font-weight: 300;
     text-transform: uppercase;
     color: #3A1240;
-    animation: animate_text 20s linear infinite; /* The animation property */
+    animation: animate_text 30s linear infinite; /* The animation property */
 }
 
 
@@ -1461,20 +1459,20 @@ img.hotel{
         height: 2000px;
     }
 
-    #ticket123 .button1 {
+    #ticket_containers .button1 {
         font-size: large;
         top: 27.5%;
         left: 26.5%;
     }
 
-    #ticket123 .button2 {
+    #ticket_containers .button2 {
         font-size: large;
         top: 61%;
         left: 50.5%;
         transform: translateX(-50%);
     }
 
-    #ticket123 .button3 {
+    #ticket_containers .button3 {
         font-size: large;
         top: 94%;
         left: 26.5%;
@@ -1495,24 +1493,25 @@ img.hotel{
         height: 1180px;
     }
 
-    #ticket123 .button1 {
+    #ticket_containers .button1 {
         width: 240px;
         left: 13.5%;
     }
 
-    #ticket123 .button2 {
+    #ticket_containers .button2 {
         width: 240px;
     }
 
-    #ticket123 .button3 {
+    #ticket_containers .button3 {
         width: 240px;
         left: 13.5%;
     }
 
     .home-subheader {
         max-height: 700px;
-      
-
+    }
+    .ticket_soon{
+        left: 4% !important;
     }
 
     .follow_us_fotter img{
@@ -1536,4 +1535,12 @@ img.hotel{
     top: 0.6%;
     margin-left: 25%;
 
+}
+
+.ticket_soon{
+    position: relative;
+    left: 18%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #863b35;
 }
