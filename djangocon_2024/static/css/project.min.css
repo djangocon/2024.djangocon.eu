@@ -1,15 +1,15 @@
-@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lato:100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 .home-text,.important-dates .dates blockquote blockquote p{
-    font:normal normal normal 18px/24px Ubuntu,sans-serif;
-    font:normal normal normal 1.125rem/1.5rem Ubuntu,sans-serif
+    font:normal normal normal 18px/24px Montserrat,sans-serif;
+    font:normal normal normal 1.125rem/1.5rem Montserrat,sans-serif
 }
 .home-sponsors .sponsors-content h5,.home-title,.important-dates .dates h4{
-    font:normal normal normal 24px/28px Ubuntu,sans-serif;
-    font:normal normal normal 1.5rem/1.75rem Ubuntu,sans-serif
+    font:normal normal normal 24px/28px Montserrat,sans-serif;
+    font:normal normal normal 1.5rem/1.75rem Montserrat,sans-serif
 }
 @media (max-width:991.98px){
     .home-header{
@@ -410,8 +410,10 @@
     padding-bottom:2.5rem;
     padding-top:2.5rem
 }
-.content-container .content-title h1{
-    color:#863b35
+.content-container .content-title h1{  
+    color: #863b35;
+    font-size: 2.5rem;
+    text-transform: uppercase !important;
 }
 .content-container .content-title h1.parent-title{
     color:#030507;
@@ -420,8 +422,8 @@
 }
 .content-container .simple-content{
     color:#030507;
-    font:18px/24px Ubuntu,sans-serif;
-    font:1.125rem/1.5rem Ubuntu,sans-serif;
+    font:18px/24px Montserrat,sans-serif;
+    font:1.125rem/1.5rem Montserrat,sans-serif;
     overflow-x:auto!important;
     text-decoration:none
 }
@@ -445,10 +447,17 @@
 h1.title,h2.title,h3.title,h4.title,h5.title,h6.title{
     font-weight:700
 }
+
 .inner-content-width{
     max-width:1144px;
-    max-width:71.5rem
+    max-width:75rem
 }
+
+#pages{
+    max-width:1144px;
+    max-width:50rem !important
+}
+
 body,html{
     height:100%
 }
@@ -481,14 +490,12 @@ body,html{
     color:transparent
 }
 .title-lg{
-    font:normal normal 700 38px/44px Ubuntu;
-    font:normal normal 700 2.375rem/2.75rem Ubuntu
+    font:normal normal 700 38px/44px Montserrat;
+    font:normal normal 700 2.375rem/2.75rem Montserrat
 }
-.bg-grey{
-    background:#ededeb
-}
-.bg-light-grey{
-    background:#f2f2f0
+.bottom-line{
+    border-bottom: 1px solid rgba(127,52,46, 0.3);
+    max-width: 71.5rem;
 }
 .header-margin{
     padding-left:0px;
@@ -723,7 +730,7 @@ body,html{
     overflow-x:hidden
 }
 body{
-    font-family:Ubuntu,sans-serif
+    font-family:Montserrat,sans-serif
 }
 .alert-debug{
     background-color:#fff;
