@@ -1,11 +1,8 @@
 title: tickets
 layout: home_tickets
 
-<div class="ticket_soon">
-    <p> More information coming soon! </p>
-</div>
 
-<!--
+
 <div class="image-container" id="ticket_containers">
     
     <div class="image-wrapper">
@@ -21,5 +18,5 @@ layout: home_tickets
         </div>
     </div>
 </div>
-  -->
+
 

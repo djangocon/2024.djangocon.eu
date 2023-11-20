@@ -1445,7 +1445,7 @@ img.hotel{
 
 
 #tickets_menu {
-    background-image: url('../images/other/tickets_menu.png');
+    background-image: url('../images/other/tickets_soon.png');
     background-size: cover;
     width: 1200px;
     height: 480px;
@@ -1454,7 +1454,7 @@ img.hotel{
 
 @media screen and (max-width: 1199px) {
     #tickets_menu {
-        background-image: url('../images/other/tickets_menu_vertical.png') !important;
+        background-image: url('../images/other/tickets_soon_vertical.png') !important;
         width: 500px !important;
         height: 2000px;
     }
