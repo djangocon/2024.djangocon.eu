@@ -1275,6 +1275,9 @@ img.hotel{
     .header-logo{
         padding-right:0
     }
+    .follow_us_fotter img{
+        height: 1.5rem !important;
+    }
 }
 
 
@@ -1378,6 +1381,15 @@ img.hotel{
     .got_questions h2, p{
         text-align: center !important;
     }
+    .sponsors_content .left-side h2{
+        text-align: center;
+    }
+
+    .title-container {
+        display: flex;
+        justify-content: center;
+      }
+
 }
 
 @media (max-width: 750px){
@@ -1407,6 +1419,10 @@ img.hotel{
     .tab {
         width: 80px;
       }
+    
+    .title-container .sponsors_image, .dates_logo, .tickets_image {
+        height: 30px !important;
+    }
       
 }
 @media (max-width: 400px){
@@ -1494,13 +1510,23 @@ img.hotel{
     }
 
     .home-subheader {
-        max-height: 750px;
+        max-height: 700px;
       
 
     }
 
+    .follow_us_fotter img{
+        height: 2rem;
+    }
+
 }
 
+
+@media screen and (max-width: 406px) {
+    .home-subheader {
+        max-height: 850px;
+    }
+}
 
 #dates_title {
     font-weight: 400;
