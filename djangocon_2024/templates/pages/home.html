@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+
+{# HOME-HEADER #}
+
+<div class="container">
+  <div id="dates_title"> WE'RE BACK - JUNE 5TH-9TH</div>
+</div>
+<div class="centered-logo">
+  <div id="main_logo">
+    <img src="{% static 'images/logo/main_logo.png' %}" alt="Djangocon 2024 logo" class="img-fluid">
+  </div>
+</div>
+  
+{# SLIDE TEXT #}
+{% include 'modules/default.html' with content=files.0 %}
+
+{# HOME-ABOUT #}
+{% include 'modules/default.html' with content=files.1 %}
+
+{# TICKETS #}
+{% include 'modules/default.html' with content=files.2 %}
+
+{# IMPORTANT DATES #}
+{% include 'modules/default.html' with content=files.3 %}
+
+{# HOME-SPEAKERS #} 
+<!--<div class="container-fluid speakers py-5">
+  <div class="container">
+    <div class="title-container">
+      <img src="{% static 'images/other/speakers.png' %}" class="speakers_image" alt="speakers">
+      <div class="swiper-buttons d-none d-sm-block">
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+    </div>
+    <div class="swiper">
+      {% include 'modules/home_speakers.html' %}
+    </div>
+  </div>
+
+</div>-->
+
+{# HOME-SPONSORS #}
+<div class="container-fluid sponsors py-5">
+  <div class="container">
+    <div class="title-container">
+      <img src="{% static 'images/other/sponsors.png' %}" class="sponsors_image" alt="sponsors">
+    </div>
+    <div class="sponsors_content">
+      <div class="become_sponsor">
+        <div class="sponsor-container">
+          <div class="left-side">
+            <h2>Become a Sponsor</h2>
+            <p>Gain valuable exposure for your brand and help us ensure the success of DjangoCon Europe by becoming a sponsor or exhibitor!</p>
+          </div>
+          <div class="right-side">
+            <p>By tapping into this community, your brand can leverage value. We deliver stock sponsorship packages and/or custom sponsorship opportunities with high impact in terms of increased visibility and lead generation, such as prime booth locations, speaking opportunities, and branding exposure.</p>
+            <a type="button" class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase" href="/sponsors/sponsorship/" target="_blank">DISCOVER THE AVAILABLE SPONSORSHIP OPPORTUNITIES</a>
+          </div>
+        </div>        
+    </div>
+  </div>
+</div>
+
+
+{#  ABOUT#}
+{#  {% include 'templates/default.html' with content=files.0 %}#}
+{#  <hr/>#}
+
+{#  LATEST-NEWS#}
+{#  {% include 'modules/home/news.html' %}#}
+
+{#  PORTO-INFO#}
+{% comment %} {% include 'modules/default.html' with content=files.1 %} {% endcomment %}
+
+{#  SPONSORS#}
+{#  {% include 'modules/default.html' with content=files.2 %}#}
+
+{#  MAILING-LIST#}
+{#  {% include 'modules/home/mailing.html' %}#}
+
+{% endblock content %}

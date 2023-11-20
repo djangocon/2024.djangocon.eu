@@ -1,0 +1,4 @@
+title: 
+layout: slide_info
+
+JOIN US FOR FIVE DAYS OF TALKS, SPRINTS AND TUTORIALS.

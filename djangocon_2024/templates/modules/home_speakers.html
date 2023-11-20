@@ -1,0 +1,21 @@
+{% load markdown_extras %}
+
+<div class="col-12 swiper-wrapper">
+  {% with content=files.4|markdown %}
+        {{ content.html | safe }}
+  {% endwith %}
+
+</div>
+
+<script>
+  window.addEventListener("DOMContentLoaded", function(){
+    const swiper = new Swiper('.swiper', {
+      slidesPerView: "auto",
+      grabCursor: true,
+      navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+  },
+    });
+  });
+</script>

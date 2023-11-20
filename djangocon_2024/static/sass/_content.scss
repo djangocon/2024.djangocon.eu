@@ -1,0 +1,50 @@
+// content page
+
+@use "base";
+
+.content-container {
+  flex: 1;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+
+  .content-title {
+    h1 {
+      color: base.$TxtBlue;
+
+      &.parent-title {
+        opacity: 30%;
+        color: #003C80;
+        margin-bottom: 0;
+      }
+    }
+  }
+  .simple-content {
+    font: 1.125rem/1.5rem Ubuntu, sans-serif;
+    color: base.$BgBlue;
+    text-decoration: none;
+    overflow-x: auto !important;
+
+    p {
+      margin-bottom: 1.5rem;
+    }
+    ul {
+      margin-bottom: 1.5rem;
+    }
+    a {
+      color: base.$BgBlue;
+    }
+    .btn {
+      color: base.$BgBlue;
+      border: .0625rem base.$BgBlue solid;
+      background-color: base.$BtnGolden;
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+
+  h2 {
+    margin-bottom: 1rem;;
+  }
+}

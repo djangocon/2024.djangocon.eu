@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+
+  {% for file in files %}
+    <div class="container-fluid content-container {% cycle 'bg-grey' 'bg-light-grey' %}">
+      {% include 'modules/default.html' with content=file %}
+    </div>
+  {% endfor %}
+
+{% endblock content %}

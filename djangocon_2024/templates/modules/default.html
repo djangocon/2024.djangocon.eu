@@ -1,0 +1,7 @@
+{% load markdown_extras %}
+
+{% with content=content|markdown %}
+  <div class="{{ content.meta.layout.0|add:'-content' }}">
+    {% include 'modules/'|add:content.meta.layout.0|add:'.html' %} {# simple.html #}
+  </div>
+{% endwith %}

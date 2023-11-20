@@ -1,0 +1,90 @@
+// header
+
+@use "base";
+
+.header-margin {
+  width: 0px;
+  padding-left: 1vw;
+}
+
+
+
+.header-logo-container {
+  width: auto;
+  padding-left: 50px;
+  padding-right: 0rem;
+}
+.header-logo {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+@media (max-width: 991.98px) {
+  .header-logo {
+    padding-left: 0rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (max-width: 359.98px) {
+  .header-margin {
+    display: none !important;
+  }
+  .header-logo {
+    padding-right: 0px;
+  }
+}
+
+.header {
+  background: base.$BgBlue; //#003C80;
+  @media (max-width: 767.98px) {
+    padding: 1rem .5rem;
+
+  }
+  padding: 1rem 0;
+
+  a:hover{
+    text-decoration: none;
+  }
+  .dropdown-item:hover {
+    background-color: base.$BgBlue;
+  }
+  .nav-sm {
+    padding-right: 0rem;
+    padding-left: 0rem;
+    display: block;
+  }
+
+
+
+  .nav-item-lg {
+    display: contents;
+    padding-left: 2.5rem;
+  }
+  .nav-link-lg {
+    display: inline-block;
+    padding-left: 2rem;
+  }
+  .btn-primary {
+    background: transparent;
+    border: none;
+  }
+  .subnav {
+    background: base.$BgLightBlue; //#863b35;
+  }
+  .container-fluid {
+    padding: 0rem;
+  }
+  .dropdown-menu {
+    background: base.$BgLightBlue; //#863b35;
+  }
+  .dropdown-item {
+    color: white;
+  }
+}
+
+.top-banner {
+  background-color: base.$BtnGolden;
+  a {
+    color: base.$BgBlue;
+  }
+}

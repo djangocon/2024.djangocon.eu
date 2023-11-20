@@ -1,0 +1,220 @@
+// homepage
+
+@use "base";
+
+%HOME-TEXT {
+  font: normal normal normal 1.125rem/1.5rem Ubuntu, sans-serif;
+}
+
+%HOME-TITLE {
+  font: normal normal normal 1.5rem/1.75rem Ubuntu, sans-serif;
+}
+
+.home-text {
+  @extend %HOME-TEXT;
+}
+
+.home-title {
+  @extend %HOME-TITLE;
+}
+
+@media (max-width: 991.98px) {
+  .home-header {
+    background-position: 0 !important;
+
+    .home-title {
+      h3 {
+        margin-top: 2rem;
+        text-align: end;
+      }
+    }
+  }
+}
+
+.home-header {
+  height:  80vh;
+  min-height: 20rem;
+  background-position: center bottom;
+  background-size: auto 100%;
+  background-color: base.$BgBlue;
+  background-image: url("/static/images/background/homepage.png");
+  background-repeat: no-repeat;
+
+  h3 {
+    color: #FFA300;
+  }
+  .home-title {
+    padding: 5rem 2vw;
+  }
+  img {
+    max-width: 750px;
+    width: 100%;
+    min-width: 520px;
+    padding-top: 1.875rem;
+  }
+}
+
+
+
+.home-subheader {
+  background: base.$BgBlue;
+  border: none;
+  padding-top: 3rem;
+  color: white;
+  padding-bottom: 4rem;
+
+  .btn-tickets {
+    height: auto;
+    background: white;
+    color: base.$BgBlue;
+    border-radius: 23px;
+    max-width: 331px;
+    padding: .625rem 2.875rem;
+    margin-top: 1.125rem;
+    margin-bottom: 4rem;
+    @extend %HOME-TEXT;
+  }
+
+  h4 {
+    @extend %HOME-TEXT;
+  }
+  .home-about {
+    p {
+      @extend %HOME-TEXT;
+      margin-top: 1rem;
+    }
+  }
+}
+
+
+@media (max-width: 767.98px) {
+  .important-dates {
+    .dates {
+      blockquote {
+        display: block !important;
+        width: 100%;
+        max-width: 100%;
+        padding-right: 2%;
+
+        h4 {
+          display: block;
+          width: auto;
+          flex: 1 0 0%;
+          padding-bottom: 0rem;
+        }
+
+        blockquote {
+          display: block !important;
+          width: auto;
+          padding: .875rem 1rem;
+
+          span {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+.important-dates {
+  background-color: base.$BgLightBlue;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+  .title{
+    padding-bottom: 2rem;
+  }
+  .dates {
+    text-align: start;
+
+    h4 {
+      @extend %HOME-TITLE;
+      font-weight: bold;
+      padding-top: 1.125rem;
+      border-top: 0.125rem solid white;
+      text-align: start;
+      margin: .875rem;
+      min-width: 12rem;
+    }
+    blockquote {
+      display: flex;
+      justify-self: center;
+      width: 100%;
+
+      blockquote {
+        display: flex;
+        flex-wrap: wrap;
+        flex: 1 0 0%;
+        padding: .875rem 0rem;
+        margin: 0rem .875rem;
+        p {
+          @extend %HOME-TEXT;
+          margin-top: .875rem;
+          text-align: start;
+          display: block;
+          width: 100%;
+          margin-bottom: 0px;
+        }
+      }
+    }
+    p {
+      display: none;
+    }
+  }
+}
+
+.home-sponsors {
+  background: base.$BgGrey;
+  color: base.$BgDarkBlue;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+  .content-title {
+    display: none;
+    width: 0%;
+  }
+
+  .title {
+    padding-bottom: 2rem;
+    color: base.$TxtBlue;
+
+    strong {
+      color: base.$BgDarkBlue;
+    }
+  }
+
+  .margin-right {
+    display: block;
+  }
+  .margin-left {
+    display: block;
+  }
+
+
+  .sponsors-content {
+    h5 {
+      @extend %HOME-TITLE;
+      text-align: start;
+      border-top: 0.125rem solid base.$BgDarkBlue;
+      max-width: 12rem;
+      margin-top: 2rem;
+      padding-top: .75rem;
+      margin-right: .875rem;
+      margin-left: .875rem;
+    }
+    p {
+      padding-top: .75rem;
+      margin-right: .875rem;
+      margin-left: .875rem;
+    }
+  }
+}
+
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+ 
+}
+

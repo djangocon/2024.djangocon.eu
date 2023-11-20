@@ -1,0 +1,40 @@
+{% load static %}
+
+<div class="container-fluid footer custom-footer">
+  <div class="container container-footer inner-content-width">
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-4 footer-links align-self-center">
+        <a class="nav-link follow_us_fotter" href="{{ home }}"><img src="{% static 'images/other/follow_us.svg' %}" alt="Logo" height="50rem;"></a>
+      </div>
+      <div class="col row row-cols-5 social_media">
+        {% for smedia, smedia_href in social_media.items %}
+          {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.svg' %}
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="{{ smedia_href }}" target="_blank"><img src="{% static smedia_logo %}" alt="{{ smedia }}" height="33rem;"></a>
+            </div>
+          {% endwith %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <hr class="w-100 mt-4" style="margin: 0px; padding: 0px; border-top: 1px solid rgba(255, 255, 255, .5);"/>
+
+    <div class="row footer-site-map">
+      <div class="col-12 col-lg-4 footer-links align-self-center">
+        <a class="nav-link" href="{{ home }}"><img src="{% static 'images/logo/logo_white.png' %}" alt="Logo" height="60rem;"></a>
+      </div>
+      <div class="col got_questions">
+        <h2>Got any questions?</h2>
+        <p>2024@djangocon.eu</p>
+      </div>
+    </div>
+  </div>
+  <div class="row justify-content-center footer-end">
+    <div class="col row text-center align-self-center justify-content-center inner-content-width">
+      <p class="col-12">© 2024 DjangoCon Europe </p>
+      <p class="col-12"><span class="d-none d-md-inline">·</span> developed in <a href="https://djangoproject.com">django</a> with ♥ by <a href="https://evolutio.pt/">evolutio</a> <span class="d-none d-md-inline">·</span></p>
+      <p class="col-12"> help us improve on <a href="{{ social_media.github }}">GitHub</a></p>
+    </div>
+  </div>
+</div>
+

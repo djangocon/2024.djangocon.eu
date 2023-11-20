@@ -1,0 +1,121 @@
+@use "base";
+
+@import "homepage";
+
+@import "content";
+
+h1, h2, h3, h4, h5, h6 {
+  &.title {
+    font-weight: bold;
+  }
+}
+
+.inner-content-width {
+  max-width: base.$ContentWidth;
+}
+
+// force footer to the bottom
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.innerBody {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto;
+  a {
+    text-decoration: underline;
+  }
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+//
+.text-blue {
+  color: base.$TxtBlue;
+}
+
+.text-hidden {
+  color: transparent;
+}
+
+.title-lg {
+  font: normal normal bold 2.375rem/2.75rem Ubuntu;
+}
+
+.bg-grey {
+  background: base.$BgGrey;
+}
+
+.bg-light-grey {
+  background: base.$BgLightGrey;
+}
+
+@import "header";
+
+@import "footer";
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.margin-right {
+  display: none;
+}
+.margin-left {
+  display: none;
+}
+
+.important-dates a{
+  color: white;
+  text-decoration: underline;
+}
+
+table {
+  margin: 1rem 0;
+}
+
+th, td {
+  padding: 1rem;
+}
+
+table, th, td {
+  border: 1px solid base.$BgBlue;
+  border-collapse: collapse;
+}
+
+img.sponsor {
+  width: unset;
+  height: 50px;
+  margin: 15px 30px 15px 0;
+}
+img.sponsor.huge {
+  height: 70px;
+}
+img.sponsor.large {
+  height: 60px;
+}
+img.sponsor.small {
+  height: 40px;
+}
+img.sponsor.tiny {
+  height: 25px;
+}
+
+img.hotel {
+  max-width: 200px;
+  max-height: 100px;
+  width: auto;
+  height: auto;
+}

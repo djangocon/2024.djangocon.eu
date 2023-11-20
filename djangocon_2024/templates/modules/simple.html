@@ -1,0 +1,15 @@
+<div class="container inner-content-width">
+  <div class="row {{ content.meta.title.0 | safe |add:'-row' }}">
+    <div class="col-lg-3 col-12 content-title pb-4">
+      <a id="{{ content.meta.title.0 | escape }}">
+        <h1 class="parent-title title title-lg">{{ content.meta.parent.0 | safe }}</h1>
+        <h1 class="title title-lg">{{ content.meta.title.0 | safe }}</h1>
+      </a>
+    </div>
+    <div class="col margin-right"></div>
+    <div class="col-lg-9 col-12 {{ content.meta.title.0|add:'-content' }} simple-content">
+      {{ content.html | safe }}
+    </div>
+    <div class="col margin-left"></div>
+  </div>
+</div>
