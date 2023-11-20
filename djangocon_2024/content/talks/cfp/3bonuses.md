@@ -1,4 +1,4 @@
-title: bonuses 🎁
+title: bonuses
 layout: simple
 class: bg-grey
 

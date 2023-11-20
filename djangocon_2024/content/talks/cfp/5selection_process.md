@@ -1,4 +1,4 @@
-title: selection process 👁️
+title: selection process
 layout: simple
 class: bg-grey
 

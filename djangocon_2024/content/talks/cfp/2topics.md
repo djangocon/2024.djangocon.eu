@@ -1,4 +1,4 @@
-title: topics 🎯
+title: topics
 layout: simple
 
 * Django internals and challenges in modern web development.

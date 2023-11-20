@@ -1,4 +1,4 @@
-title: schedule 🗓️
+title: schedule
 layout: simple
 class: bg-grey
 
