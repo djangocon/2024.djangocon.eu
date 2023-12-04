@@ -112,7 +112,11 @@
 .title-container .sponsors_image, .dates_logo {
     left:73px;
     height: 55px;
-      margin-top: 50px;
+    margin-top: 120px;
+}
+
+#collapseNavigation .nav-link{
+    color:#863b35 !important;
 }
 
 .sponsors_content{
@@ -206,6 +210,10 @@
     font-weight: bold;
     margin: 0px;
     text-align: right;
+}
+
+.got_questions a {
+    color: #FFFFFF;
 }
 
 .got_questions p {
@@ -913,13 +921,13 @@ img.hotel{
 }
 
 
-.custom-centered-content {
+.custom-left-content {
     width: 100%;
     padding-top: 50px;
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     max-width: 20000px; /* Adjust the width as needed */
-    text-align: center; /* Center text within the element */
+    text-align: left; /* Center text within the element */
     height: 2000px;
     padding-bottom: 1000px;
   }
@@ -1095,9 +1103,6 @@ img.hotel{
           justify-content: center;
           align-items: center;
         }
-      
-
-        
   }
 
 
@@ -1193,7 +1198,7 @@ img.hotel{
   }
   
   .warpper {
-    margin-top: 100px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1220,7 +1225,6 @@ img.hotel{
   
   .panels {
     font-size: x-large;
-    min-height: 200px;
     overflow: hidden;
     padding: 20px;
     margin-right: 40px;
@@ -1532,16 +1536,6 @@ img.hotel{
     .home-subheader {
         max-height: 850px;
     }
-}
-
-#dates_title {
-    font-weight: 400;
-    font-size: 2rem;
-    margin-top: 0.5rem;
-    position: relative;
-    top: 0.6%;
-    margin-left: 25%;
-
 }
 
 .ticket_soon{
