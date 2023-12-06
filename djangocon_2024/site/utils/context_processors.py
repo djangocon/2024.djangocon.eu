@@ -36,6 +36,7 @@ def links(request):
                 'submenu': {
                     'Contact': '/about/contact/',
                     'Credits': '/about/credits/',
+                    'Information': '/about/information/',
                 },
             },
         },
