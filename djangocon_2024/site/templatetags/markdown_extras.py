@@ -22,3 +22,8 @@ def markdown(value):
     r['html'] = m.convert(f)
     r['meta'] = m.Meta
     return r
+
+
+@register.filter
+def get_bg_type(counter):
+    return counter % 2 == 0 and 'dark-background' or 'light-background'

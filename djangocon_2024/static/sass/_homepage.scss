@@ -117,7 +117,7 @@
   }
 }
 .important-dates {
-  background-color: base.$BgLightBlue;
+  background-color: $DarkBrown;
   padding-top: 3rem;
   padding-bottom: 3rem;
 
@@ -165,7 +165,7 @@
 
 .home-sponsors {
   background: base.$BgGrey;
-  color: base.$BgDarkBlue;
+  color: $LightBrown;
   padding-top: 3rem;
   padding-bottom: 3rem;
 
@@ -176,10 +176,10 @@
 
   .title {
     padding-bottom: 2rem;
-    color: base.$TxtBlue;
+    color: $DarkBrown;
 
     strong {
-      color: base.$BgDarkBlue;
+      color: $LightBrown;
     }
   }
 
@@ -195,7 +195,7 @@
     h5 {
       @extend %HOME-TITLE;
       text-align: start;
-      border-top: 0.125rem solid base.$BgDarkBlue;
+      border-top: 0.125rem solid $LightBrown;
       max-width: 12rem;
       margin-top: 2rem;
       padding-top: .75rem;

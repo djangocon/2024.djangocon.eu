@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.inner-content-width {
+. {
   max-width: base.$ContentWidth;
 }
 
@@ -39,7 +39,7 @@ body {
 
 //
 .text-blue {
-  color: base.$TxtBlue;
+  color: $DarkBrown;
 }
 
 .text-hidden {

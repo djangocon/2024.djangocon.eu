@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="839.358" height="60.146" viewBox="0 0 839.358 60.146">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_110" data-name="Retângulo 110" width="839.358" height="60.147" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_78" data-name="Grupo 78" transform="translate(0 0)">
+    <rect id="Retângulo_107" data-name="Retângulo 107" width="16.357" height="57.833" transform="translate(0 1.157)" fill="#f5f4f4"/>
+    <g id="Grupo_77" data-name="Grupo 77" transform="translate(0 0)">
+      <g id="Grupo_76" data-name="Grupo 76" clip-path="url(#clip-path)">
+        <path id="Caminho_525" data-name="Caminho 525" d="M75.783,30.074C75.783,12.725,89.415,0,107.921,0s32.14,12.725,32.14,30.074-13.632,30.074-32.14,30.074S75.783,47.423,75.783,30.074m47.754,0c0-10-6.856-16.525-15.616-16.525S92.308,20.078,92.308,30.074,99.164,46.6,107.921,46.6s15.616-6.528,15.616-16.525" transform="translate(80.771 0)" fill="#f5f4f4"/>
+        <path id="Caminho_526" data-name="Caminho 526" d="M136.249,43.025h-8.922V58.393H110.969V.56h26.436c15.781,0,25.695,8.179,25.695,21.4,0,8.511-4.132,14.789-11.319,18.26l12.476,18.175H146.741Zm.165-29.576h-9.088V30.386h9.088c6.774,0,10.164-3.14,10.164-8.429,0-5.369-3.39-8.509-10.164-8.509" transform="translate(118.274 0.596)" fill="#f5f4f4"/>
+        <path id="Caminho_527" data-name="Caminho 527" d="M157.363,13.531H139.6V.56h51.8V13.531H173.72V58.393H157.363Z" transform="translate(148.788 0.596)" fill="#f5f4f4"/>
+        <path id="Caminho_528" data-name="Caminho 528" d="M208.567,47.157H184.112l-4.545,11.236H162.879L188.408.56h16.109L230.13,58.393H213.112Zm-4.793-12.062-7.435-18.506L188.9,35.094Z" transform="translate(173.601 0.596)" fill="#f5f4f4"/>
+        <path id="Caminho_529" data-name="Caminho 529" d="M249.042,13.531H231.278V.56h51.8V13.531H265.4V58.393H249.042Z" transform="translate(246.502 0.596)" fill="#f5f4f4"/>
+        <path id="Caminho_530" data-name="Caminho 530" d="M346.762,13.531H329V.56h51.8V13.531H363.119V58.393H346.762Z" transform="translate(350.654 0.596)" fill="#f5f4f4"/>
+        <path id="Caminho_531" data-name="Caminho 531" d="M403.468,45.752V58.393H357.037V.56h45.357V13.2H373.231v9.749h25.695V35.177H373.231V45.752Z" transform="translate(380.539 0.596)" fill="#f5f4f4"/>
+        <rect id="Retângulo_108" data-name="Retângulo 108" width="15.764" height="58.124" transform="translate(104.004 1.551)" fill="#af0161"/>
+        <path id="Caminho_532" data-name="Caminho 532" d="M87.723,17.529C87.723,8.39,78.689.972,67.462.78V.763H60.473V34.289h6.549V34.3c.05,0,.1,0,.149-.006h.291v-.01c11.228-.192,20.262-7.61,20.262-16.75" transform="translate(64.454 0.813)" fill="#005e83"/>
+        <path id="Caminho_533" data-name="Caminho 533" d="M74.986,18.389H15.433l-2.88,21.487H78.566Z" transform="translate(13.379 19.599)" fill="#bda712"/>
+        <path id="Caminho_534" data-name="Caminho 534" d="M31.96.6H21.373L14.211,34.319H40.835Z" transform="translate(15.146 0.641)" fill="#38b0c9"/>
+        <path id="Caminho_535" data-name="Caminho 535" d="M37.865.6H48.452l7.162,33.716H28.99Z" transform="translate(30.899 0.641)" fill="#38b0c9"/>
+        <path id="Caminho_536" data-name="Caminho 536" d="M298.886,58.74,323.249.68H335.39L360.46,58.74Z" transform="translate(318.561 0.725)" fill="#005e83"/>
+        <path id="Caminho_537" data-name="Caminho 537" d="M335.6,58.74,310.642.864,310.72.68h12.139l25.063,58.037.01.023Z" transform="translate(331.09 0.725)" fill="#38b0c9"/>
+        <path id="Caminho_538" data-name="Caminho 538" d="M275.732.654h15.5a26.435,26.435,0,0,1,11.174,2.4,30.469,30.469,0,0,1,9.125,6.379,29.6,29.6,0,0,1,6.148,9.28,28.614,28.614,0,0,1,.037,22.115,29.537,29.537,0,0,1-6.109,9.317,30.1,30.1,0,0,1-9.123,6.419,26.627,26.627,0,0,1-11.252,2.4h-15.5Z" transform="translate(293.882 0.697)" fill="#af0161"/>
+        <rect id="Retângulo_109" data-name="Retângulo 109" width="14.969" height="57.884" transform="translate(453.583 1.105)" fill="#d49702"/>
+        <path id="Caminho_539" data-name="Caminho 539" d="M256.635,58.342H198.829V.536h15.045Z" transform="translate(211.917 0.571)" fill="#bda712"/>
+        <path id="Caminho_540" data-name="Caminho 540" d="M404.8,17.37l4.956-5.456,9.608,8.728-.012.014a15.114,15.114,0,0,1-19.8,22.827c-.18-.151-.339-.314-.51-.469l-.012.014L389.416,34.3l4.952-5.45Z" transform="translate(415.05 12.698)" fill="#d49702"/>
+        <path id="Caminho_541" data-name="Caminho 541" d="M406.8,30.274l-4.956,5.456L392.237,27l.012-.014a15.114,15.114,0,0,1,19.8-22.827c.18.151.339.314.51.469l.012-.014,9.608,8.728-4.952,5.45Z" transform="translate(412.784 0.73)" fill="#38b0c9"/>
+      </g>
+    </g>
+  </g>
+</svg>
