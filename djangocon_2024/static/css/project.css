@@ -1694,3 +1694,20 @@ object[type="application/pdf"] {
         display: none;
     }
 }
+
+#home-images-carousel {
+    .carousel-indicators {
+        .indicator {
+            width: 15px;
+            height: 15px;
+            background-color: transparent;
+            border-radius: 50%;
+            border: 1px solid var(--dark-brown);
+            opacity: 1;
+
+            &.active {
+                background-color: var(--dark-brown);
+            }
+        }
+    }
+}
