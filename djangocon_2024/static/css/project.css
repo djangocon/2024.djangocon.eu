@@ -562,6 +562,10 @@ body, html {
         align-items: center;
         color: white;
 
+        &.button0 {
+            background-color: #AF0161;
+        }
+
         &.button1 {
             background-color: #38B0C9;
         }
@@ -579,12 +583,16 @@ body, html {
         height: 85%;
         background-color: white;
         color: var(--dark-brown);
-        padding: 30px 0;
+        padding: 30px 0 0;
         font: normal normal normal 16px/24px var(--main-font);
         border-radius: 0 0 8px 8px;
 
         .small-top-text {
             margin-bottom: 10px;
+        }
+
+        .ticket-description {
+            margin-top: 60px;
         }
 
         .price-container, .button, .ticket-description {
@@ -595,22 +603,27 @@ body, html {
             font: normal normal 800 64px/24px Montserrat;
         }
 
-        .ticket-divider {
-            background: center / cover no-repeat url(../images/other/ticket-divider.png);
-            height: 50px;
-            margin-bottom: -40px;
+        .button-container {
+            width: 100%;
+            height: 30%;
+            margin-top: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            padding: 15px 0;
 
-            @media (max-width: 768px) {
-                height: 42px !important;
+            .ticket-divider {
+                width: 100%;
+                position: absolute;
+                top: -30%;
             }
         }
 
         .button {
-            min-height: 42px;
             border-radius: 8px;
             align-self: center;
             width: 80%;
-            /*background-color: var(--dark-brown);*/
             background-color: lightgrey;
             color: white;
             padding: 10px 20px;

@@ -42,7 +42,7 @@ def links(request):
             },
             'Tickets': {
                 'dropdown': 'false',
-                'href': '/tickets/',
+                'href': 'https://pretix.evolutio.pt/evolutio/djceu2024/',
             },
             'About': {
                 'dropdown': 'true',
