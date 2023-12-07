@@ -1,9 +1,9 @@
 <div class="container composed-page" id="pages">
   <div class="row {{ content.meta.title.0 | safe |add:'-row' }}">
-    <div class="col-3">
+    <div class="col-10 col-lg-3">
       <h2 class="section-title">{{ content.meta.section.0 }}</h2>
     </div>
-    <div class="{{ content.meta.title.0|add:'-content' }} simple-content col-9">
+    <div class="{{ content.meta.title.0|add:'-content' }} simple-content col-12 col-lg-9">
       {{ content.html | safe }}
     </div>
   </div>

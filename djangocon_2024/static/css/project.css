@@ -76,7 +76,6 @@ body {
     padding-left: 0;
     padding-right: 0;
     background-color: var(--bg-color);
-    max-height: 450px; /* 1230 px*/
     border: none;
     color: black;
 }
@@ -259,7 +258,6 @@ body {
 }
 
 #ticket_containers {
-    height: 500px;
     position: relative;
 }
 
@@ -287,16 +285,6 @@ body {
 }
 
 
-.home-subheader .btn-tickets {
-    position: relative;
-    background: white;
-    border-radius: 23px;
-    color: #003c80;
-    height: auto;
-    left: -90%;
-    max-width: 331px;
-    padding: .625rem 2.875rem
-}
 
 .home-subheader .home-about p {
     margin-top: 1rem
@@ -439,7 +427,7 @@ body {
     -ms-flex: 1;
     flex: 1;
     padding-bottom: 2.5rem;
-    padding-top: 2.5rem
+    padding-top: 1.5rem
 }
 
 .content-container .content-title h1 {
@@ -561,7 +549,7 @@ body, html {
 }
 
 .button-overlay-container {
-    height: 100%;
+    height: 500px;
     display: flex;
     flex-direction: column;
 
@@ -611,10 +599,14 @@ body, html {
             background: center / cover no-repeat url(../images/other/ticket-divider.png);
             height: 50px;
             margin-bottom: -40px;
+
+            @media (max-width: 768px) {
+                height: 42px !important;
+            }
         }
 
         .button {
-            height: 42px;
+            min-height: 42px;
             border-radius: 8px;
             align-self: center;
             width: 80%;
@@ -1457,6 +1449,10 @@ h2 {
     top: 0.6%;
     margin-left: 25%;
 
+    @media (max-width: 768px) {
+        margin-left: 0 !important;
+    }
+
 }
 
 
@@ -1641,12 +1637,6 @@ h2 {
     }
 }
 
-@media screen and (max-width: 406px) {
-    .home-subheader {
-        max-height: 850px;
-    }
-}
-
 #dates_title {
     font-weight: 400;
     font-size: 2rem;
@@ -1683,4 +1673,24 @@ h2 {
 
 .dark-background {
     background-color: var(--bg-color-dark);
+}
+
+.mobile-navbar-btn {
+    &:focus {
+        outline: none;
+        box-shadow: 0 0 1px 1px var(--dark-brown);
+    }
+}
+
+#collapseNavigation {
+    .nav-link:focus {
+        outline: none;
+        box-shadow: 0 0 1px 1px var(--dark-brown);
+    }
+}
+
+object[type="application/pdf"] {
+    @media (max-width: 768px) {
+        display: none;
+    }
 }

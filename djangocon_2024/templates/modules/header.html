@@ -6,14 +6,18 @@
 
       <!-- small screens -->
       <div class="d-flex d-lg-none col align-self-center justify-content-center">
-        <div class="nav w-100 justify-content-end">
-          <button class="btn button-primary navbar-light bg-white" type="button"
+        <div class="nav w-100 justify-content-between">
+          <button class="btn navbar-light mobile-navbar-btn" type="button"
                   data-bs-toggle="collapse" data-bs-target="#collapseNavigation"
                   aria-expanded="false" aria-controls="collapseNavigation">
             <span class="navbar-toggler-icon"></span>
           </button>
+            <a class="nav-link header-logo w-50" href="{{ home }}">
+                <img src="{% static 'images/logo/logo_coloured.png' %}" alt="Logo" class="img-fluid">
+            </a>
         </div>
       </div>
+
       <div class="collapse container-fluid text-center" id="collapseNavigation">
         <ul class="nav nav-sm">
           {% for menu, menu_dict in site_menu.items %}
