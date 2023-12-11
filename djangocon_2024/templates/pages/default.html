@@ -1,11 +1,14 @@
 {% extends "base.html" %}
+{% load markdown_extras %}
 {% load static %}
 {% block content %}
 
   {% for file in files %}
-    <div class="container-fluid content-container {% cycle 'bottom-line' 'bottom-line' %}">
-      {% include 'modules/default.html' with content=file %}
+    {% with content=file|markdown %}
+    <div class="container-fluid content-container {% if content.meta.layout.0 == 'composed' %}{{ forloop.counter|get_bg_type }}{% else %} {% cycle 'bottom-line' 'bottom-line' %} {% endif %}">
+      {% include 'modules/default.html' %}
     </div>
+    {% endwith %}
   {% endfor %}
 
 {% endblock content %}

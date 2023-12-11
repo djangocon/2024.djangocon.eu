@@ -1,10 +1,61 @@
 {% load static %}
 
-<div class="container-fluid home-subheader">
-  <div class="container inner-content-width justify-content-center home-about">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-12 custom-left-content text-left">
-        {{ content.html | safe }}
+<div class="container">
+  <div class="container-fluid home-subheader">
+    <div class=" justify-content-center home-about">
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-12 custom-left-content text-left">
+          {{ content.html | safe }}
+        </div>
+        <div class="col-12">
+          <div id="home-images-carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button class="indicator active" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="0" aria-current="true"
+                      aria-label="Slide 1"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="2" aria-label="Slide 3"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="3" aria-label="Slide 4"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="4" aria-label="Slide 5"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="5" aria-label="Slide 6"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="6" aria-label="Slide 7"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="7" aria-label="Slide 8"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-1.jpg' %}" class="d-block w-100" alt="DJCEU 2023 Breakroom">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-2.jpg' %}" class="d-block w-100" alt="DJCEU 2023 Talk">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-3.jpg' %}" class="d-block w-100" alt="DJCEU 2023 Party">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-4.jpg' %}" class="d-block w-100" alt="DJCEU 2023 Group Picture">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-5.jpg' %}" class="d-block w-100" alt="DJCEU 2022 Party">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-6.jpg' %}" class="d-block w-100" alt="DJCEU 2022 Boat Trip">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-7.jpg' %}" class="d-block w-100" alt="DJCEU 2022 Talk">
+              </div>
+              <div class="carousel-item">
+                <img src="{% static 'images/home_carousel/hp-carousel-img-8.jpg' %}" class="d-block w-100" alt="DJCEU 2022 Group Picture">
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

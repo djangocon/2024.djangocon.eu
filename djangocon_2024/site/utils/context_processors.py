@@ -11,6 +11,19 @@ def links(request):
                     'Schedule': '/talks/schedule/',
                 },
             },
+            'Information': {
+                'dropdown': 'true',
+                'submenu': {
+                    'Vigo': '/information/vigo/',
+                    'Venue': '/information/venue/',
+                    'Grants': '/information/grants/',
+                    'Sprints': '/information/sprints/',
+                    'Hospitality': '/information/hospitality/',
+                    'Social Events': '/information/social_events/',
+                    'T-Shirts': '/information/tshirts/',
+                    'Announcements': '/information/announcements/',
+                },
+            },
             'Sponsors & Jobs': {
                 'dropdown': 'true',
                 'submenu': {
@@ -29,7 +42,7 @@ def links(request):
             },
             'Tickets': {
                 'dropdown': 'false',
-                'href': '/tickets/',
+                'href': 'https://pretix.evolutio.pt/evolutio/djceu2024/',
             },
             'About': {
                 'dropdown': 'true',

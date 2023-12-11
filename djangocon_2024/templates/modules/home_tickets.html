@@ -1,11 +1,88 @@
 {% load static %}
 
 <div class="container">
-    <div class="title-container">
-        <img src="{% static 'images/other/tickets.png' %}" class="tickets_image" alt="tickets">
-    </div>
-</div>
+  <div class="title-container">
+    <img src="{% static 'images/other/tickets.png' %}" class="tickets_image"
+         alt="tickets">
+  </div>
 
-<div>
-    {{ content.html | safe }}
+  <div>
+
+    <div class="image-container" id="ticket_containers">
+      <div id="tickets_menu" class="row h-100 g-4">
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button0">
+          <div class="button-overlay-header button0">
+            <span>Virtual</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button1">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€55</span>
+            </div>
+            <span class="ticket-description">If you wish to attend DjangoCon Europe from the comfort of your place.</span>
+            <div class="button-container">
+              <img src="{% static 'images/other/ticket-divider.png' %}" alt=""
+                   class="ticket-divider">
+              <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+          </div>
+        </div>
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button1">
+          <div class="button-overlay-header button1">
+            <span>Student</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button1">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€150</span>
+            </div>
+            <span class="ticket-description">If you are currently enrolled as a full-time student or if you are currently without regular income.</span>
+            <div class="button-container">
+              <img src="{% static 'images/other/ticket-divider.png' %}" alt=""
+                   class="ticket-divider">
+              <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+
+          </div>
+        </div>
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button2">
+          <div class="button-overlay-header button2">
+            <span>Individual</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button2">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€285</span>
+            </div>
+            <span class="ticket-description">If you are paying your ticket from your personal money and are not being reimbursed by your employer.</span>
+            <div class="button-container">
+              <img src="{% static 'images/other/ticket-divider.png' %}" alt=""
+                   class="ticket-divider">
+              <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+
+          </div>
+        </div>
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button3">
+          <div class="button-overlay-header button3">
+            <span>Business</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button3">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€385</span>
+            </div>
+            <span class="ticket-description">If your employer is paying for the ticket or reimbursing you for your conference expenses.</span>
+            <div class="button-container">
+              <img src="{% static 'images/other/ticket-divider.png' %}" alt=""
+                   class="ticket-divider">
+              <a href="/tickets" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
 </div>

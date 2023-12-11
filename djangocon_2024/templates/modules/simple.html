@@ -1,4 +1,4 @@
-<div class="container inner-content-width" id="pages">
+<div class="container " id="pages">
   <div class="row {{ content.meta.title.0 | safe |add:'-row' }}">
     <div class="content-title pb-4">
       <a id="{{ content.meta.title.0 | escape }}">
@@ -7,7 +7,7 @@
       </a>
     </div>
     <div class="col margin-right"></div>
-    <div class="{ content.meta.title.0|add:'-content' }} simple-content">
+    <div class="{{ content.meta.title.0|add:'-content' }} simple-content">
       {{ content.html | safe }}
     </div>
     <div class="col margin-left"></div>
