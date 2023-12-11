@@ -32,12 +32,6 @@ def links(request):
                     'Sponsorship': '/sponsors/sponsorship/',
                 },
             },
-            'Information': {
-                'dropdown': 'true',
-                'submenu': {
-                    'Vigo': '/information/vigo/',
-                },
-            },
             'Conduct': {
                 'dropdown': 'true',
                 'submenu': {
