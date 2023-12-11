@@ -285,7 +285,6 @@ body {
 }
 
 
-
 .home-subheader .home-about p {
     margin-top: 1rem
 }
@@ -624,13 +623,12 @@ body, html {
             border-radius: 8px;
             align-self: center;
             width: 80%;
-            background-color: lightgrey;
+            background-color: var(--dark-brown);
             color: white;
             padding: 10px 20px;
             border: none;
             cursor: pointer;
             text-align: center;
-            pointer-events: none;
         }
     }
 }
