@@ -10,9 +10,11 @@ The DjangoCon Europe 2024 organizers will endeavor to observe the principles of 
 
 #### Attendees
 
-For all attendees, we collect personal data when you voluntarily provide such information to the buy ticket services. 
+For all attendees, we collect personal data when you voluntarily provide such information to the buy ticket services, and as part of our [Code of Conduct](/conduct/code_of_conduct/) handling of any reports.
 
 The personal data we may collect includes without limitation your name, email address and any other information that attendees choose to provide and/or that enables attendees to be personally identified. In some cases, we may collect your credit card information (e.g., your credit card number and expiration date, billing address, etc.), some of which may constitute personal data, to secure certain payments.
+
+For code of conduct incident reports handling, we may collect additional information about individuals mentioned in any reports. We may share this information with the [Django Software Foundation Code of Conduct Committee](https://www.djangoproject.com/foundation/committees/#conduct) as needed. View our [Code of Conduct response guidelines](/conduct/response_guide/) for more information.
 
 <hr/>
 
