@@ -1,7 +1,7 @@
 title: about
 layout: home_about
 
-<span id ="about_title">RUN THE COMMUNITY FOR THE COMMUNITY</span>
+<span id ="about_title">RUN BY THE COMMUNITY FOR THE COMMUNITY</span>
 
 <br>
 

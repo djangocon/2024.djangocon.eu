@@ -1731,7 +1731,7 @@ object[type="application/pdf"] {
     justify-content: center;
 }
 
-.button-74 {
+.homebutton {
     background-color: #fbeee0;
     border: 2px solid #422800;
     border-radius: 30px;
@@ -1749,18 +1749,35 @@ object[type="application/pdf"] {
     touch-action: manipulation;
 }
 
-.button-74:hover {
+.homebutton:hover {
     background-color: #fff;
 }
 
-.button-74:active {
+.homebutton:active {
     box-shadow: #422800 2px 2px 0 0;
     transform: translate(2px, 2px);
 }
 
-@media (min-width: 768px) {
-    .button-74 {
-        min-width: 120px;
-        padding: 0 25px;
+@media (max-width: 767px) {
+    .container-button {
+        flex-direction: column;
+        align-items:flex-start;
+        
+    }
+
+    .homebutton {
+        min-width: unset; /* Remove the minimum width */
+        width: 100%; /* Take up 100% width of the container */
+        margin-bottom: 10px; /* Add spacing between stacked buttons */
+        justify-content: center;
+        text-align: center;
+        text-transform: capitalize;
+    }
+
+    .mainbutton .super{
+        margin-left: 10px;
+        
     }
 }
+
+
