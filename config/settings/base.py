@@ -2,8 +2,9 @@
 Base settings to build other settings files upon.
 """
 from pathlib import Path
-
+import os
 import environ
+from dotenv import load_dotenv
 
 ROOT_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
 # djangocon_2024/
@@ -39,11 +40,23 @@ LOCALE_PATHS = [str(ROOT_DIR / "locale")]
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#databases
 
+# DATABASES = {
+#     "default": env.db(
+#         "DATABASE_URL",
+#         default="postgres:///djangocon_2024",
+#     ),
+# }
+load_dotenv()
+
 DATABASES = {
-    "default": env.db(
-        "DATABASE_URL",
-        default="postgres:///djangocon_2024",
-    ),
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.getenv('DB_NAME'),
+        'USER': os.getenv('DB_USER'),
+        'PASSWORD': os.getenv('DB_PASSWORD'),
+        'HOST': os.getenv('DB_HOST'),
+        'PORT': os.getenv('DB_PORT'),
+    }
 }
 
 DATABASES["default"]["ATOMIC_REQUESTS"] = True
@@ -66,7 +79,7 @@ DJANGO_APPS = [
     "django.contrib.sites",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "django.contrib.humanize", # Handy template tags
+    "django.contrib.humanize",  # Handy template tags
     "django.contrib.admin",
     "django.forms",
 ]
@@ -138,7 +151,7 @@ MIDDLEWARE = [
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.common.BrokenLinkEmailsMiddleware",
     # "allauth.account.middleware.AccountMiddleware",
-    #"django.middleware.clickjacking.XFrameOptionsMiddleware",
+    # "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
 # STATIC
@@ -260,7 +273,8 @@ LOGGING = {
 
 # django-allauth
 # ------------------------------------------------------------------------------
-ACCOUNT_ALLOW_REGISTRATION = env.bool("DJANGO_ACCOUNT_ALLOW_REGISTRATION", True)
+ACCOUNT_ALLOW_REGISTRATION = env.bool(
+    "DJANGO_ACCOUNT_ALLOW_REGISTRATION", True)
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
 ACCOUNT_AUTHENTICATION_METHOD = "username"
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
@@ -268,13 +282,13 @@ ACCOUNT_EMAIL_REQUIRED = True
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
 ACCOUNT_EMAIL_VERIFICATION = "mandatory"
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
-#ACCOUNT_ADAPTER = "djangocon_2024.users.adapters.AccountAdapter"
+# ACCOUNT_ADAPTER = "djangocon_2024.users.adapters.AccountAdapter"
 # https://django-allauth.readthedocs.io/en/latest/forms.html
-#ACCOUNT_FORMS = {"signup": "djangocon_2024.users.forms.UserSignupForm"}
+# ACCOUNT_FORMS = {"signup": "djangocon_2024.users.forms.UserSignupForm"}
 # https://django-allauth.readthedocs.io/en/latest/configuration.html
-#SOCIALACCOUNT_ADAPTER = "djangocon_2024.users.adapters.SocialAccountAdapter"
+# SOCIALACCOUNT_ADAPTER = "djangocon_2024.users.adapters.SocialAccountAdapter"
 # https://django-allauth.readthedocs.io/en/latest/forms.html
-#SOCIALACCOUNT_FORMS = {"signup": "djangocon_2024.users.forms.UserSocialSignupForm"}
+# SOCIALACCOUNT_FORMS = {"signup": "djangocon_2024.users.forms.UserSocialSignupForm"}
 
 
 # Your stuff...

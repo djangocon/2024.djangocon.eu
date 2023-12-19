@@ -10,16 +10,18 @@
 ## Running
 
 First, make sure to have all requirements installed using:
+
 ```bash
 > pip install -r requirements/[ local | production ].txt
 ```
 
 And create a PostgreSQL database 'djangocon_2024'
-* On Debian-based 10+: 
+
+- On Debian-based 10+:
+
 ```bash
 sudo su - postgres -c "createdb djangocon_2024"
 ```
-
 
 ## Code of Conduct
 
@@ -30,8 +32,19 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelines.
 
+## How to Contribute to DjangoConEu website
+
+To contribute to this project, please follow these steps:
+
+1. Fork the Repo
+2. Clone the Repo to your local machine
+3. cd into Repo and create a virtual env (python -m venv env)
+4. Install base dependencies (pip install -r requirement/base.txt)
+5. Install production dependencies(pip install -r requirement/production.txt)
+6. Create a Postgres DB, and then makemigrations
+7. make changes and submit a PR( we will review)
+
 ## Built With
 
-* [Python](https://docs.python.org/3/) - Programming language
-* [Django](https://docs.djangoproject.com/) - Web framework
-
+- [Python](https://docs.python.org/3/) - Programming language
+- [Django](https://docs.djangoproject.com/) - Web framework
