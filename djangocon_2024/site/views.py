@@ -5,9 +5,11 @@ from config.settings.base import APPS_DIR
 
 
 def default_view(request, menu='home', submenu=None):
-    path = APPS_DIR.__str__() + '/content/' + menu + ('/' + submenu if submenu else '')
+    path = APPS_DIR.__str__() + '/content/' + menu + \
+        ('/' + submenu if submenu else '')
     page = ''
-    ctx = dict(menu=(menu if not submenu else submenu).capitalize().replace('_', ' '))
+    ctx = dict(
+        menu=(menu if not submenu else submenu).capitalize().replace('_', ' '))
     files = []
 
     for dirpath, dirname, filenames in walk(path):
@@ -21,7 +23,8 @@ def default_view(request, menu='home', submenu=None):
 
     if menu == 'home':
         page += 'pages/' + menu
-        ctx['files'].append(f'{APPS_DIR.__str__()}/content/sponsors/sponsors/sponsors.md')
+        ctx['files'].append(
+            f'{APPS_DIR.__str__()}/content/sponsors/sponsors/sponsors.md')
     elif len(files) == 0:
         page += '404'
     else:
