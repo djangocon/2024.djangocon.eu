@@ -6,21 +6,30 @@
 
 [![built-with](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-blue.svg)](https://github.com/pydanny/cookiecutter-django/)
 [![code-style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 ## Running
 
-First, make sure to have all requirements installed using:
+### with venv
+
+_optional_ - Create a virtual environment
 
 ```bash
+python -m venv env
+```
+
+install requirements:
+
+```bash
+
 > pip install -r requirements/[ local | production ].txt
 ```
 
-And create a PostgreSQL database 'djangocon_2024'
-
-- On Debian-based 10+:
+## with Docker
 
 ```bash
-sudo su - postgres -c "createdb djangocon_2024"
+docker compose build
+docker compose up
 ```
 
 ## Code of Conduct
@@ -38,13 +47,14 @@ To contribute to this project, please follow these steps:
 
 1. Fork the Repo
 2. Clone the Repo to your local machine
-3. cd into Repo and create a virtual env (python -m venv env)
-4. Install base dependencies (pip install -r requirement/base.txt)
-5. Install production dependencies(pip install -r requirement/production.txt)
-6. Create a Postgres DB, and then makemigrations
-7. make changes and submit a PR( we will review)
+3. Follow Running or Running with docker
+4. make changes and submit a PR( we will review)
 
 ## Built With
 
 - [Python](https://docs.python.org/3/) - Programming language
 - [Django](https://docs.djangoproject.com/) - Web framework
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
