@@ -14,7 +14,19 @@
       <img src="{% static 'images/logo/main_logo.png' %}" alt="Djangocon 2024 logo"
            class="img-fluid px-4 px-lg-0">
     </div>
+   
   </div>
+  <div class="row px-5 mainbutton">
+    <div class="container-button pt-5 px-3">
+      <!-- HTML !-->
+     <a href=""> <button class="homebutton" role="button">Submit your CFP📢</button></a>
+     <a href="https://pretix.evolutio.pt/evolutio/djceu2024/"> <button class="homebutton super" role="button" style="margin-left: 20px;">Buy Tickets  🎫</button></a>
+   
+      
+  </div>
+
+  </div>
+ 
 
 
   {# SLIDE TEXT #}
@@ -30,6 +42,9 @@
 
   {# IMPORTANT DATES #}
   {% include 'modules/default.html' with content=files.3|markdown %}
+
+ 
+
 
   {# HOME-SPEAKERS #}
   <!--<div class="container-fluid speakers py-5">
@@ -50,6 +65,10 @@
 
   {# HOME-SPONSORS #}
   {% include 'modules/default.html' with content=files.5|markdown %}
+
+
+  {# LATEST NEWS #}
+  {% include 'modules/default.html' with content=files.6|markdown %}
 
   {#  ABOUT#}
   {#  {% include 'templates/default.html' with content=files.0 %}#}
