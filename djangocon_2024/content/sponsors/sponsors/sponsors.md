@@ -7,6 +7,15 @@ layout: simple
 
 [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor large'}](https://kolo.app/){:target="_blank"}
 
+[![Foxley Talent](/static/images/sponsors/foxley.png){:class='sponsor large'}](https://kolo.app/){:target="_blank"}
+
+---
+
+##### Bronze
+
+
+[![Monit](/static/images/sponsors/monit.png){:class='sponsor large'}](https://kolo.app/){:target="_blank"}
+
 ---
 
 ##### Grants
