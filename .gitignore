@@ -158,14 +158,14 @@ typings/
 !.vscode/extensions.json
 *.code-workspace
 
-# Local History for Visual Studio Code
-.history/
+# Local History for devcontainer
+.devcontainer/bash_history
 
 
 # Provided default Pycharm Run/Debug Configurations should be tracked by git
 # In case of local modifications made by Pycharm, use update-index command
 # for each changed file, like this:
-# git update-index --assume-unchanged .idea/pycon_portugal_2023.iml
+# git update-index --assume-unchanged .idea/djangocon_2024.iml
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
@@ -327,8 +327,11 @@ djangocon_2024/media/
 
 .pytest_cache/
 .ipython/
+project.css
+project.min.css
+vendors.js
+*.min.js
+*.min.js.map
 .env
 .envs/*
 !.envs/.local/
-pytest_cache/
-.idea/

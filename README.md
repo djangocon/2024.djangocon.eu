@@ -10,16 +10,18 @@
 ## Running
 
 First, make sure to have all requirements installed using:
+
 ```bash
 > pip install -r requirements/[ local | production ].txt
 ```
 
 And create a PostgreSQL database 'djangocon_2024'
-* On Debian-based 10+: 
+
+- On Debian-based 10+:
+
 ```bash
 sudo su - postgres -c "createdb djangocon_2024"
 ```
-
 
 ## Code of Conduct
 
@@ -32,6 +34,5 @@ Get started contributing by reading our [Contributing](CONTRIBUTING.md) guidelin
 
 ## Built With
 
-* [Python](https://docs.python.org/3/) - Programming language
-* [Django](https://docs.djangoproject.com/) - Web framework
-
+- [Python](https://docs.python.org/3/) - Programming language
+- [Django](https://docs.djangoproject.com/) - Web framework
