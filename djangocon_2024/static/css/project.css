@@ -1758,6 +1758,22 @@ object[type="application/pdf"] {
     transform: translate(2px, 2px);
 }
 
+
+.latest_news_content p{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 auto;
+    
+}
+
+
+.latest-news-page .news_logo {
+    max-width: 30%; /* Set your desired max-width for larger screens */
+    height: auto;
+  }
+  
+
+
 @media (max-width: 767px) {
     .container-button {
         flex-direction: column;
@@ -1766,9 +1782,9 @@ object[type="application/pdf"] {
     }
 
     .homebutton {
-        min-width: unset; /* Remove the minimum width */
-        width: 100%; /* Take up 100% width of the container */
-        margin-bottom: 10px; /* Add spacing between stacked buttons */
+        min-width: unset; 
+        width: 100%; 
+        margin-bottom: 10px; 
         justify-content: center;
         text-align: center;
         text-transform: capitalize;
@@ -1778,6 +1794,20 @@ object[type="application/pdf"] {
         margin-left: 10px;
         
     }
+    .latest_news_content{
+        text-align: center;
+        text-transform: capitalize;
+        justify-content: center;
+    }
+    .latest_news_content p {
+        font-size: 20px;
+    }
+
+    .latest-news-page .news_logo {
+        max-width: 80%; 
+    }
 }
+
+
 
 
