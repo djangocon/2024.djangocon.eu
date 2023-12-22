@@ -1066,6 +1066,7 @@ img.hotel {
     overflow: hidden;
     display: flex;
     white-space: nowrap;
+    text-transform: capitalize;
 }
 
 .text {
@@ -1722,3 +1723,61 @@ object[type="application/pdf"] {
         }
     }
 }
+
+
+
+.container-button {
+    display: flex;
+    justify-content: center;
+}
+
+.homebutton {
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.homebutton:hover {
+    background-color: #fff;
+}
+
+.homebutton:active {
+    box-shadow: #422800 2px 2px 0 0;
+    transform: translate(2px, 2px);
+}
+
+@media (max-width: 767px) {
+    .container-button {
+        flex-direction: column;
+        align-items:flex-start;
+        
+    }
+
+    .homebutton {
+        min-width: unset; /* Remove the minimum width */
+        width: 100%; /* Take up 100% width of the container */
+        margin-bottom: 10px; /* Add spacing between stacked buttons */
+        justify-content: center;
+        text-align: center;
+        text-transform: capitalize;
+    }
+
+    .mainbutton .super{
+        margin-left: 10px;
+        
+    }
+}
+
+
