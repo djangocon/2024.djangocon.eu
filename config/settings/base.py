@@ -41,6 +41,17 @@ LOCALE_PATHS = [str(BASE_DIR / "locale")]
 # No database used
 # DATABASES = {"default": env.db("DATABASE_URL")}
 # DATABASES["default"]["ATOMIC_REQUESTS"] = True
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'djangocon_2024',
+        'USER': 'postgres',
+        'PASSWORD': '#3Ewoksss',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
+DATABASES["default"]["ATOMIC_REQUESTS"] = True
 
 # https://docs.djangoproject.com/en/stable/ref/settings/#std:setting-DEFAULT_AUTO_FIELD
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"

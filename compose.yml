@@ -10,7 +10,7 @@ services:
     volumes:
       - .:/app:z
     env_file:
-      - ./.envs/.django
+      - ./.env
     ports:
       - '8000:8000'
     command: /start
