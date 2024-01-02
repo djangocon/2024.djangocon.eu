@@ -1069,6 +1069,10 @@ img.hotel {
     text-transform: capitalize;
 }
 
+.scrolling_text a {
+  color: #F2E7DC;
+}
+
 .text {
     font-size: 80px;
     font-weight: 200;
@@ -1763,7 +1767,7 @@ object[type="application/pdf"] {
     font-size: 25px;
     font-weight: bold;
     margin: 0 auto;
-    
+
 }
 
 
@@ -1771,20 +1775,20 @@ object[type="application/pdf"] {
     max-width: 30%; /* Set your desired max-width for larger screens */
     height: auto;
   }
-  
+
 
 
 @media (max-width: 767px) {
     .container-button {
         flex-direction: column;
         align-items:flex-start;
-        
+
     }
 
     .homebutton {
-        min-width: unset; 
-        width: 100%; 
-        margin-bottom: 10px; 
+        min-width: unset;
+        width: 100%;
+        margin-bottom: 10px;
         justify-content: center;
         text-align: center;
         text-transform: capitalize;
@@ -1792,7 +1796,7 @@ object[type="application/pdf"] {
 
     .mainbutton .super{
         margin-left: 10px;
-        
+
     }
     .latest_news_content{
         text-align: center;
@@ -1804,7 +1808,7 @@ object[type="application/pdf"] {
     }
 
     .latest-news-page .news_logo {
-        max-width: 80%; 
+        max-width: 80%;
     }
 }
 
