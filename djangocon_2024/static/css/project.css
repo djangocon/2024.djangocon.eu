@@ -1572,6 +1572,27 @@ h2 {
 
 }
 
+.home-btn {
+    background-color: #863B35;
+    color: white;
+    border: none; /* Removes the border */
+}
+
+.home-btn:hover {
+    background-color: var(--light-brown); /* 30% opaque white */
+    color: #863B35; /* Changes the text color on hover */
+}
+
+@media (max-width: 768px) {
+    .home-btn {
+        display: inline-block; /* Changes from block to inline-block */
+        width: auto; /* Changes from 100% to auto */
+        margin-left: 0;
+        margin-top: 10px;
+        border: none;
+        text-decoration: none;
+    }
+}
 
 @media (max-width: 992px) {
     .header-logo {
@@ -1733,6 +1754,7 @@ object[type="application/pdf"] {
 .container-button {
     display: flex;
     justify-content: center;
+    color: var(--dark-brown);
 }
 
 .homebutton {
@@ -1776,6 +1798,10 @@ object[type="application/pdf"] {
     height: auto;
   }
 
+
+  .submit_talk{
+    text-decoration: none;
+  }
 
 
 @media (max-width: 767px) {
