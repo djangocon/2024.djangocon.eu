@@ -3,95 +3,98 @@
 {% load static %}
 {% block content %}
 
-  {# HOME-HEADER #}
+{# HOME-HEADER #}
 
-  <div class="container">
-    <div id="dates_title"> WE'RE BACK - JUNE 5TH-9TH</div>
+<div class="container">
+  <div id="dates_title"> WE'RE BACK - JUNE 5TH-9TH</div>
+</div>
+
+<div class="centered-logo">
+  <div id="main_logo">
+    <img src="{% static 'images/logo/main_logo.png' %}" alt="Djangocon 2024 logo"
+         class="img-fluid px-4 px-lg-0">
   </div>
 
-  <div class="centered-logo">
-    <div id="main_logo">
-      <img src="{% static 'images/logo/main_logo.png' %}" alt="Djangocon 2024 logo"
-           class="img-fluid px-4 px-lg-0">
-    </div>
-   
-  </div>
-  <div class="row px-5 mainbutton">
-    <div class="container-button pt-5 px-3">
-      <!-- HTML !-->
-     <!-- <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/cfp"> <button class="homebutton" role="button">Submit your CFP📢</button></a>
-     <a href="https://pretix.evolutio.pt/evolutio/djceu2024/"> <button class="homebutton super" role="button" style="margin-left: 20px;">Buy Tickets  🎫</button></a>
-    -->
+</div>
+<div class="row px-5 mainbutton">
+  <div class="container-button pt-5 px-3">
+    <!-- HTML !-->
+    <!-- <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/cfp"> <button class="homebutton" role="button">Submit your CFP📢</button></a>
+    <a href="https://pretix.evolutio.pt/evolutio/djceu2024/"> <button class="homebutton super" role="button" style="margin-left: 20px;">Buy Tickets  🎫</button></a>
+   -->
 
     <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/cfp" target="_blank">
-      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn" role="button" style="margin-left: 20px;">Submit your CFP📢</button>
-  </a>
-        
-  <a href="https://pretix.evolutio.pt/evolutio/djceu2024/">
-      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn" role="button" style="margin-left: 20px;">Buy Tickets🎫</button>
-  </a>
+      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn"
+              role="button" style="margin-left: 20px;">Submit your CFP 📢
+      </button>
+    </a>
+
+    <a href="https://pretix.evolutio.pt/evolutio/djceu2024/">
+      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn"
+              role="button" style="margin-left: 20px;">Buy Tickets 🎫
+      </button>
+    </a>
 
   </div>
 
-  </div>
- 
+</div>
 
 
-  {# SLIDE TEXT #}
-  {% include 'modules/default.html' with content=files.0|markdown %}
+{# SLIDE TEXT #}
+{% include 'modules/default.html' with content=files.0|markdown %}
 
 
-    {# HOME-ABOUT #}
-    {% include 'modules/default.html' with content=files.1|markdown %}
+{# HOME-ABOUT #}
+{% include 'modules/default.html' with content=files.1|markdown %}
 
 
-    {# TICKETS #}
-    {% include 'modules/default.html' with content=files.2|markdown %}
+{# TICKETS #}
+{% include 'modules/default.html' with content=files.2|markdown %}
 
-  {# IMPORTANT DATES #}
-  {% include 'modules/default.html' with content=files.3|markdown %}
-
- 
+{# IMPORTANT DATES #}
+{% include 'modules/default.html' with content=files.3|markdown %}
 
 
-  {# HOME-SPEAKERS #}
-  <!--<div class="container-fluid speakers py-5">
-  <div class="container">
-    <div class="title-container">
-      <img src="{% static 'images/other/speakers.png' %}" class="speakers_image" alt="speakers">
-      <div class="swiper-buttons d-none d-sm-block">
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-      </div>
-    </div>
-    <div class="swiper">
-      {% include 'modules/home_speakers.html' %}
+{# HOME-SPEAKERS #}
+<!--<div class="container-fluid speakers py-5">
+<div class="container">
+  <div class="title-container">
+    <img src="{% static 'images/other/speakers.png' %}" class="speakers_image" alt="speakers">
+    <div class="swiper-buttons d-none d-sm-block">
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
     </div>
   </div>
+  <div class="swiper">
+    {% include 'modules/home_speakers.html' %}
+  </div>
+</div>
 
 </div>-->
 
-  {# HOME-SPONSORS #}
-  {% include 'modules/default.html' with content=files.5|markdown %}
+{# HOME-SPONSORS #}
+{% include 'modules/default.html' with content=files.5|markdown %}
 
 
-  {# LATEST NEWS #}
-  {% include 'modules/default.html' with content=files.6|markdown %}
+{# LATEST NEWS #}
+{% include 'modules/default.html' with content=files.6|markdown %}
+<br class="my-4">
 
-  {#  ABOUT#}
-  {#  {% include 'templates/default.html' with content=files.0 %}#}
-  {#  <hr/>#}
+{#  ABOUT#}
+{#  {% include 'templates/default.html' with content=files.0 %}#}
+{# <hr/> #}
 
-  {#  LATEST-NEWS#}
-  {#  {% include 'modules/home/news.html' %}#}
+{#  LATEST-NEWS#}
+{#  {% include 'modules/home/news.html' %}#}
 
-  {#  PORTO-INFO#}
-  {% comment %} {% include 'modules/default.html' with content=files.1 %} {% endcomment %}
 
-  {#  SPONSORS#}
-  {#  {% include 'modules/default.html' with content=files.2 %}#}
+{#  PORTO-INFO#}
+{% comment %} {% include 'modules/default.html' with content=files.1 %} {% endcomment %}
 
-  {#  MAILING-LIST#}
-  {#  {% include 'modules/home/mailing.html' %}#}
+{#  SPONSORS#}
+{#  {% include 'modules/default.html' with content=files.2 %}#}
+
+{#  MAILING-LIST#}
+{#  {% include 'modules/home/mailing.html' %}#}
 
 {% endblock content %}
