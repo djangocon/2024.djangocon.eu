@@ -1572,27 +1572,77 @@ h2 {
 
 }
 
-.home-btn {
-    background-color: #863B35;
-    color: white;
-    border: none; /* Removes the border */
+@media (max-width: 768px) {
+    .container-button {
+        text-align: left; /* Align the buttons to the left */
+    }
+
+    .home-btn {
+        display: inline-block; /* Make the buttons inline-block */
+        width: auto; /* Auto width based on content */
+        margin: 5px 2%; /* Adjust margins on small screens */
+        padding: 5px; /* Reduce padding on small screens */
+        font-size: 0.7em; /* Reduce font size on small screens */
+    }
+
+    .home-btn span {
+        display: none; /* Hide the emojis on small screens */
+    }
 }
 
+@media (min-width: 769px) {
+    .home-btn span {
+        display: inline; /* Show the emojis on larger screens */
+    }
+}
+
+/* home button  */
+.container-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 15px; /* Add horizontal padding to the container */
+}
+
+.home-btn {
+    margin: 10px;
+    padding: 18px 40px; /* Increase padding around the text */
+    background-color: #863B35;
+    color: white;
+    border: none;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    font-size: 1.2em; /* Increase font size */
+    border-radius: 5px; /* Add rounded corners */
+}
+
+.home-btn:first-child {
+    margin-right: 20px; /* Increase right margin on the first button */
+}
+
+.home-btn:last-child {
+    margin-left: 0px; /* Increase left margin on the second button */
+}
+
+
 .home-btn:hover {
-    background-color: var(--light-brown); /* 30% opaque white */
-    color: #863B35; /* Changes the text color on hover */
+    background-color: rgba(134, 59, 53, 0.8);
+    color: white;
 }
 
 @media (max-width: 768px) {
+    .container-button {
+        flex-direction: column;
+    }
+
     .home-btn {
-        display: inline-block; /* Changes from block to inline-block */
-        width: auto; /* Changes from 100% to auto */
-        margin-left: 0;
-        margin-top: 10px;
-        border: none;
-        text-decoration: none;
+        width: 100%; /* Make the buttons full width on small screens */
+        box-sizing: border-box; /* Make sure padding and border are included in the button's total width */
     }
 }
+/* end home button  */
 
 @media (max-width: 992px) {
     .header-logo {
@@ -1680,7 +1730,7 @@ h2 {
     margin-top: 0.5rem;
     position: relative;
     top: 0.6%;
-    margin-left: 25%;
+    margin-left: -14%;
 
 }
 
@@ -1841,3 +1891,23 @@ object[type="application/pdf"] {
 
 
 
+
+
+@media (max-width: 768px) {
+    #dates_title {
+        font-weight: 400;
+        font-size: 1.3em; /* Reduce font size on small screens */
+        text-align: center;
+    }
+
+   
+}
+
+
+@media (max-width: 769px) {
+    #dates_title {
+        text-align: center;
+    }
+
+   
+}
