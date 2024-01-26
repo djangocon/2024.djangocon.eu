@@ -19,9 +19,6 @@ layout: simple
 
 ##### Grants
 
-<img src="{% static 'images/sponsors/eps.png' %}" class='sponsor large'
-           alt="EPS Logo">
-
 [![dsf](/static/images/sponsors/dsf.png){:class='sponsor large'}](https://evolutio.pt/){:target="\_blank"}
 
 [![Eps](/static/images/sponsors/eps.png){:class='sponsor large'}](https://europython-society.org/){:target="\_blank"}
