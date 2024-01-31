@@ -25,10 +25,10 @@ get the virtual ticket here [Virtual Tickets](https://pretix.evolutio.pt/evoluti
 
 **Where is the exact venue for the event**
 The venue is located at the very heart of Vigo, on the seafront, facing the Cíes Islands and Mar de Vigo.
-to know more about how to get to the place vist the venue page here.👉[Venue](https://2024.djangocon.eu/information/venue/)
+to know more about how to get to the place vist the venue page here. [Venue](https://2024.djangocon.eu/information/venue/)
 
 **My company doesn't allow traveling by plane anymore**
-Vigo has two railway stations: URZAIZ where departs the AVE (Spain's high-speed train), and GUIXAR, located in Areal St., both of them right in the city centre.
+Vigo has two railway stations: URZAIZ where departs the AVE (Spain's high-speed train), and GUIXAR, located in Areal St., both of them right in the city centre. [Know More](https://2024.djangocon.eu/information/vigo/)
 
 #### More...
 
