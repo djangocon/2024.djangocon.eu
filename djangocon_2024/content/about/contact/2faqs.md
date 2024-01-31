@@ -13,7 +13,7 @@ For everything concerning ticket kinldy check it here [Tickets](https://pretix.e
 Yes you can.
 
 **How do i apply for grant for DjangoCon EU 2024**
-Currently grant application is not yet opened, the application form will be opened on the 15th of March, kindly keep an eye on our socials and website, as it will be updated frequently. [Grants](https://2024.djangocon.eu/information/grants/)
+Currently grant application is not yet opened, the application form will be opened on the **15th of March**, kindly keep an eye on our socials and website, as it will be updated frequently. [Grants](https://2024.djangocon.eu/information/grants/)
 
 **What do i do if i am refused visa but still bought tickets**
 Sorry, hopfully that doesn't happen , but if does send an email to our email here [2024@djangocon.eu](mailto:2024@djangocon.eu)
