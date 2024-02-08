@@ -62,3 +62,14 @@ window.onclick = function(event) {
       modal.style.display = "none";
     }
   }
+
+
+
+  // venue carousel 
+let index = 0;
+const items = document.querySelectorAll('.carousel-item');
+setInterval(() => {
+    items[index].classList.remove('active');
+    index = (index + 1) % items.length;
+    items[index].classList.add('active');
+}, 3000);
