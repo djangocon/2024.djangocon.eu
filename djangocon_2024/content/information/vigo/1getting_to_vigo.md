@@ -3,16 +3,17 @@ layout: simple
 
 Getting to Vigo is very easy; you can reach the city’s centre from Madrid, A Coruña, Santiago de Compostela or the north of Portugal. It has motorway and train connections with Madrid and other cities, like Bilbao. Moreover, the Peinador Airport has connections with Spain’s main cities and several international destinations.
 
+<!--
 <div>
     <img id="myImg" src="/static/images/other/vigo.jpeg" style="width: 100%;"/>
-    
-</div>
+
+</div> -->
 <!-- Pop up when click -->
-<div id="myModal" class="modal">
+<!-- <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
   <div id="caption"></div>
-</div>
+</div> -->
 
 ### By plane, Vigo's Airport
 
