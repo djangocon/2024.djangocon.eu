@@ -1996,3 +1996,16 @@ object[type="application/pdf"] {
 
 
 /* venue carousel */
+.image-row {
+    display: flex;
+    justify-content: space-between;
+}
+.image-row div {
+    width: 45%;
+    text-align: center;
+}
+.image-row img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
