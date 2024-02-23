@@ -35,7 +35,7 @@ We're dedicated to making our conference accessible to all. Find details and res
 - Wheelchair accessibility: Both the venue and Mar De Vigo auditorium have wheelchair accessibility to all conference spaces.
 - Step-free access: You have step-free access to all areas of the conference.
 - Elevator: Mar De Vigo have elevators that are accessible and operational during the conference.
-- Restrooms: Mar De Vigo have accessible and clearly labeled restrooms.
+- Restrooms: The Organizers of DjangoCon has reserved a room for resting.
 
 ###### _Do not forget DjangoCon Europe space is the Terrace and Muiltpurpose hall_
 
