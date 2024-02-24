@@ -53,15 +53,15 @@ Creating an inclusive experience is essential! We offer reserved seating for tho
 
 ###### Location: Multipurpose hall - 3rd floor for the building
 
-VIDEO AND MAP OF VENUE LAYOUT WILL BE RELEASED IN March.
+VIDEO AND MAP OF VENUE LAYOUT WILL BE RELEASED IN MARCH.
 
 #### Seating
 
 Main Stage:
 
-- Make yourself at home! Grab any seat you like in the comfy auditorium on the 3rd floor.
+- Make yourself at home! Grab any seat you like in the Multipurpose Hall on the 3rd floor, you can use the elevator.
 - Reserved seating: Need to be close to the live captioning? Special seats are available on the 3rd floor.
-- Distant viewing: Prefer more space?.
+- Distant viewing: Prefer more space? Let us know, we will fix you something.
 
 #### Other Venue Spaces (open to attendees):
 
