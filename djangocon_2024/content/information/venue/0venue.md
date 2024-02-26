@@ -41,7 +41,7 @@ We're dedicated to making our conference accessible to all. Find details and res
 
 #### Audio and Translation
 
-- This room does not have integrated audiovisuals.
+- All Rooms does not have integrated audiovisuals.
 - 4 cabins for simultaneous translation.
 
 #### Low Vision or Hard of Hearing
@@ -71,7 +71,7 @@ The Vigo Conference Center Auditorium has its own catering service characterized
 
 - Coffee Break,
 - Cocktel,
-- business lunches or Gala dinners, we have flexible and exclusive solutions tailored to the needs of any event.
+- business lunches or Gala dinners, They have flexible and exclusive solutions tailored to the needs of DjangoCon Europe.
   Enjoy impeccable, professional, top quality service in a unique environment
 
 <!-- place for cood -->
