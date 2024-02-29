@@ -6,7 +6,7 @@ The following is a set of guidelines for contributing to DjangoCon Europe 2024.
 
 ## How Can I Help?
 
-Start looking through the [Issues](https://github.com/djangocon/2022.djangocon.eu/issues) and watch out for any issues with the green label [`up-for-grabs`](https://github.com/djangocon/2022.djangocon.eu/labels/up-for-grabs). Issues marked with this label haven't been assigned to anyone yet and we would love for you to work on them.
+Start looking through the [Issues](https://github.com/djangocon/2024.djangocon.eu/issues) and watch out for any issues with the green label [`up-for-grabs`](https://github.com/djangocon/2024.djangocon.eu/labels/up-for-grabs). Issues marked with this label haven't been assigned to anyone yet and we would love for you to work on them.
 
 ## Difficulty Levels
 
