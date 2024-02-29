@@ -26,9 +26,11 @@ layout: simple
 
 ##### Grants
 
-[![dsf](/static/images/sponsors/dsf.png){:class='sponsor large'}](https://evolutio.pt/){:target="\_blank"}
+[![Dsf](/static/images/sponsors/dsf.png){:class='sponsor large'}](https://evolutio.pt/){:target="\_blank"}
 
 [![Eps](/static/images/sponsors/eps.png){:class='sponsor large'}](https://europython-society.org/){:target="\_blank"}
+
+[![PSF](/static/images/sponsors/psf.png){:class='sponsor large'}](https://www.python.org/psf-landing/){:target="\_blank"}
 
 ---
 
