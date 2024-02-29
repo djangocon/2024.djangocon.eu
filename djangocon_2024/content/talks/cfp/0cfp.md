@@ -5,7 +5,7 @@ This page contains all information regarding the proposal process for DjangoCon 
 
 It's a new year. What better way to start it than submitting your talk or workshop for **DjangoCon Europe 2024**, in beautiful **Vigo, Spain?**
 
-The **Call for Proposals (CFP)** is open now, and will be until midnight on February 29th. That's two whole months, but you don't have to leave it to the last minute:
+The **Call for Proposals (CFP)** is open now, and will be until 23:59 (UTC) on February 29th. That's two whole months, but you don't have to leave it to the last minute:
 
 [DjangoCon Europe 2024, Vigo CFP](https://pretalx.evolutio.pt/djangocon-europe-2024/cfp)
 
