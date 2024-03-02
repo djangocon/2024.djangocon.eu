@@ -39,19 +39,16 @@ We're dedicated to making our conference accessible to all. Find details and res
 
 ###### _Do not forget DjangoCon Europe space is the Terrace and Muiltpurpose hall_
 
-#### Audio and Translation
-
-- All Rooms does not have integrated audiovisuals.
-- 4 cabins for simultaneous translation.
-
 #### Low Vision or Hard of Hearing
 
 Preferred seating will be provided for attendees who request it. Please [contact](mailto:2024@djangocon.eu) us about any lighting requirements you may have, and we will do our best to meet them.
 Creating an inclusive experience is essential! We offer reserved seating for those with visual impairments. Let us know if you have specific lighting, screen display, or assistive technology needs, and we'll do our best to accommodate them.
 
-#### Speaker Talks, Sponsor Expo, and Quiet Room
+#### Speaker Talks & Sponsor Expo
 
 ###### Location: Multipurpose hall - 3rd floor for the building
+
+The Sponsors Expo is situated on the top floor, right where the heart of the conference beats. It stretches along the corridors that connect the conference room to the elevators, creating a vibrant hub of activity and interaction.
 
 VIDEO AND MAP OF VENUE LAYOUT WILL BE RELEASED IN MARCH.
 
@@ -109,6 +106,11 @@ This room is intended to be a calm and quiet place for anyone who needs to have 
 ###### Location: Floor 2
 
 workshop sessions will be hosted in the spacious 100m² Rooms, two rooms located in floor 2, access by elevator or stairs - a perfect setting for innovation and learning, the room numbers are displayed on every door, navigation will be provided as well.
+
+##### Audio and Translation
+
+- This room does not have integrated audiovisuals.
+- 4 cabins for simultaneous translation.
 
 <!-- check around -->
 
