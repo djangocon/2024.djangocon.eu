@@ -2009,3 +2009,21 @@ object[type="application/pdf"] {
     height: auto;
     border-radius: 10px;
 }
+
+
+/* CFP IS CLOSED ON HOMEPAE CSS */
+.disabled {
+    background-color: #cccccc; /* Gray out the button */
+    border-color: #cccccc;
+    color: #666666; /* Optional: Change the text color to indicate it's disabled */
+    pointer-events: none; /* Prevents clicking on the button */
+    cursor: not-allowed; /* Changes cursor to indicate it can't be clicked */
+}
+
+.btn-primary.disabled {
+    background-color: #cccccc !important; /* Gray out the button */
+    border-color: #cccccc !important;
+    color: #666666 !important; /* Change the text color to indicate it's disabled */
+    pointer-events: none; /* Prevents clicking on the button */
+    cursor: not-allowed; /* Changes cursor to indicate it can't be clicked */
+}
