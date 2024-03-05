@@ -1,29 +1,27 @@
-title: call for participation
+title: Call for Proposals - Now Closed
 layout: simple
 
-This page contains all information regarding the proposal process for DjangoCon Europe – we will update it regularly as new information becomes available.
+Thank you to everyone who showed interest and submitted their talks and workshops for DjangoCon Europe 2024, set to take place in the beautiful city of Vigo, Spain. The Call for Proposals (CFP) officially closed at 23:59 (UTC) on February 29th, marking the end of an exciting submission phase.
 
-It's a new year. What better way to start it than submitting your talk or workshop for **DjangoCon Europe 2024**, in beautiful **Vigo, Spain?**
+We have been overwhelmed by the enthusiasm and diversity of the proposals received, covering a wide range of both technical and non-technical topics. It's inspiring to see such vibrant participation from both new and seasoned speakers, reflecting the inclusive and supportive spirit of the Django community.
 
-The **Call for Proposals (CFP)** is open now, and will be until 23:59 (UTC) on February 29th. That's two whole months, but you don't have to leave it to the last minute:
+**What Happens Next?**
+Our review team is now working diligently to evaluate all the submissions. We aim to craft a comprehensive program that caters to all skill levels and interests, ensuring a rewarding experience for all attendees. Selected speakers will be notified, and the full conference schedule will be announced shortly thereafter. Stay tuned for updates!
 
-[DjangoCon Europe 2024, Vigo CFP](https://pretalx.evolutio.pt/djangocon-europe-2024/cfp)
+**Missed the CFP Deadline**
+If you missed this year's CFP deadline but still wish to contribute, there are plenty of other ways to get involved. We encourage you to participate in the DjangoCon Europe [Slack channel](https://djangoconeurope.slack.com/), where you can engage with the community, offer support, or even find collaboration opportunities. Your involvement doesn't have to end with the CFP - the Django community thrives on continuous sharing and support.
 
-We're looking for a range of talks on technical and non-technical topics. We're looking for talks accessible to skill all levels, and we're looking for submissions from new and seasoned speakers.
+**Stay Connected**
+For the latest updates, remember to follow us on Twitter [DjangoCOn Europe](https://twitter.com/DjangoConEurope) and check our official website regularly. We'll be sharing more information about the conference schedule, speakers, and other exciting activities planned for DjangoCon Europe 2024 in Vigo.
 
-If you're asking, can I do this? The answer is yes. If you've got a topic that interest you, then it interests us.
+**Questions or Suggestions?**
+Our team is here to assist you. Should you have any questions or suggestions, please feel free to reach out to us at content@djangocon.eu. We're committed to making DjangoCon Europe 2024 an inclusive, engaging, and memorable event for everyone.
 
-If you've got half an idea, or aren't sure in any way, and want to chat, you can jump on the DjangoCon Europe Slack, and find us there.
-
-Don't be shy, we want to hear from you!
-
-[DjangoCon Europe 2024, Vigo CFP](https://pretalx.evolutio.pt/djangocon-europe-2024/cfp)
+Thank you once again for your enthusiasm and participation. We can't wait to see you in Vigo and explore the amazing world of Django together!
 
 We'll see you in Vigo!
 
 If you have any questions, please do not hesitate to contact us at [content@djangocon.eu](mailto:content@djangocon.eu). Don't forget to follow us on Twitter [@DjangoConEurope](https://twitter.com/djangoconeurope){:target="\_blank"} for the latest up to date information!
-
-If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-1gjg5lqkz-qVQkNnhjztXVme7TQ7ziQA){:target="\_blank"} to find previous speakers and participants to discuss your idea with. **When in doubt, submit your talk 😉!**
 
 **CfP powered by:**
 
