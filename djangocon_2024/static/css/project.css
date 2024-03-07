@@ -2027,3 +2027,52 @@ object[type="application/pdf"] {
     pointer-events: none; /* Prevents clicking on the button */
     cursor: not-allowed; /* Changes cursor to indicate it can't be clicked */
 }
+
+
+
+/* credits css */
+.creditlogo {
+    position: relative;
+    right: 135px; /* adjust as needed */
+    width: 37px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.headtext{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.mainname{
+    font-size: 40px;
+    font-weight: bold;
+    color: #863b35
+}
+
+
+
+@media (max-width: 768px) {
+    .col-sm-3 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+
+    .creditlogo {
+        position: relative;
+        right: 5px; /* adjust as needed */
+        width: 37px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .mainname{
+        font-size: 40px;
+        font-weight: bold;
+        color: #863b35;
+        text-align: center;
+    }
+    .creditsmain{
+        text-align: center;
+    }
+  }
+

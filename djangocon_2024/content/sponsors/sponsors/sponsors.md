@@ -21,7 +21,7 @@ layout: simple
 
 [![Monit](/static/images/sponsors/monit.png){:class='sponsor large'}](https://monitdata.com/){:target="\_blank"}
 [![Ambient Innovation](/static/images/sponsors/ambient.svg){:class='sponsor large'}](https://ambient.digital/){:target="\_blank"}
-[![AppSignal](/static/images/sponsors/signal.svg){:class='sponsor large'}](https://ambient.digital/){:target="\_blank"}
+[![AppSignal](/static/images/sponsors/signal.svg){:class='sponsor large'}](https://www.appsignal.com/){:target="\_blank"}
 
 ---
 
