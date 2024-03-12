@@ -2030,7 +2030,7 @@ object[type="application/pdf"] {
 
 
 
-/* credits css */
+/* credits page css */
 .creditlogo {
     position: relative;
     right: 135px; /* adjust as needed */
@@ -2102,3 +2102,66 @@ object[type="application/pdf"] {
         text-align: center;
     }
 }
+
+
+/* sponsor page style */
+.sponsormain{
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #863b35
+
+}
+
+
+
+
+
+
+/* sponsor page resposiveness */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .sponsormain{
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #863b35;
+        text-align: center;
+
+    
+    }
+   
+    .sponsorspage_content{
+        margin-top: 10px;
+        padding-right: 120px;
+    }
+    
+    .title-container_sponsor{
+        justify-content: flex-start;
+        display: block;
+    }
+}
+  
+
+/* media query for 520 */
+@media (min-width: 520px) and (max-width:768){
+    .sponsormain{
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #863b35;
+        text-align: center;
+
+    
+    }
+   
+    .sponsorspage_content{
+        margin-top: 10px;
+        padding-right: 120px;
+    }
+    
+    .title-container_sponsor{
+        justify-content: flex-start;
+        display: block;
+    }
+}
+  

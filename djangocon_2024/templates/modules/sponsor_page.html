@@ -1,13 +1,14 @@
 {% load static %}
 <div class="container-fluid sponsors py-3">
   <div class="container">
-    <div class="title-container">
-
-      <img src="{% static 'images/other/sponsors.png' %}" class="sponsors_image"
-           alt="sponsors">
+    <div class="title-container_sponsor">
+        <!-- sponsor texts -->
+    <h1 class="sponsormain">Sponsors</h1>
+    <p style="font-size: 18px;"><span style="font-weight: bold;">Your logo can be here!</span> Discover the available sponsorship opportunities here.
+    </p>
     </div>
-    <div class="sponsors_content">
-    <!-- Platinum sponsors -->
+    <div class="sponsorspage_content">
+         <!-- Platinum sponsors -->
       <h3 class="sponsor-category-title">Platinum</h3>
       <!-- Platform Sh logo -->
       <img src="{% static 'images/sponsors/platformsh.png' %}" class='sponsor large'
@@ -19,7 +20,6 @@
 
       <!-- end of platinumsponsors  -->
       <hr class="sponsor-category-divider gold">
-
       <h3 class="sponsor-category-title">Gold</h3>
       <!--Kolo logo -->
       <img src="{% static 'images/sponsors/kolo.svg' %}" class='sponsor large'
@@ -66,28 +66,7 @@
       <!-- Evolutio logo -->
       <img src="{% static 'images/sponsors/evolutio.png' %}" class='sponsor large'
            alt="Evolutio Logo">
-      <div class="become_sponsor">
-        <div class="sponsor-container">
-          <div class="left-side">
-            <h2 class="fw-bolder">Become a Sponsor</h2>
-            <p class="mb-0">Gain valuable exposure for your brand and help us ensure the
-              success of
-              DjangoCon Europe by becoming a sponsor or exhibitor!</p>
-          </div>
-          <div class="right-side">
-            <p>By tapping into this community, your brand can leverage value. We
-              deliver stock sponsorship packages and/or custom sponsorship
-              opportunities with high impact in terms of increased visibility and lead
-              generation, such as prime booth locations, speaking opportunities, and
-              branding exposure.</p>
-            <a type="button"
-               class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase"
-               href="/sponsors/sponsorship/" target="_blank">DISCOVER THE AVAILABLE
-              SPONSORSHIP OPPORTUNITIES</a>
-          </div>
-        </div>
-        <!-- Become a mentor -->
-      </div>
+     
     </div>
   </div>
 </div>
