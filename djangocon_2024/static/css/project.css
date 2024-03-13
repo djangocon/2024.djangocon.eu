@@ -2030,7 +2030,7 @@ object[type="application/pdf"] {
 
 
 
-/* credits css */
+/* credits page css */
 .creditlogo {
     position: relative;
     right: 135px; /* adjust as needed */
@@ -2076,3 +2076,92 @@ object[type="application/pdf"] {
     }
   }
 
+
+  
+@media (min-width: 768px) and (max-width: 1024px) {
+    .col-sm-3 {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+
+    .creditlogo {
+        position: relative;
+        right: 5px; /* adjust as needed */
+        width: 50px; /* increased size */
+        height: 50px; /* increased size */
+        margin-bottom: 20px;
+    }
+
+    .mainname{
+        font-size: 24px; /* added font size */
+        font-weight: bold;
+        color: #863b35;
+        text-align: center;
+    }
+    .creditsmain{
+        text-align: center;
+    }
+}
+
+
+/* sponsor page style */
+.sponsormain{
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #863b35
+
+}
+
+
+
+
+
+
+/* sponsor page resposiveness */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .sponsormain{
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #863b35;
+        text-align: center;
+
+    
+    }
+   
+    .sponsorspage_content{
+        margin-top: 10px;
+        padding-right: 120px;
+    }
+    
+    .title-container_sponsor{
+        justify-content: flex-start;
+        display: block;
+    }
+}
+  
+
+/* media query for 520 */
+@media (min-width: 520px) and (max-width:768){
+    .sponsormain{
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #863b35;
+        text-align: center;
+
+    
+    }
+   
+    .sponsorspage_content{
+        margin-top: 10px;
+        padding-right: 120px;
+    }
+    
+    .title-container_sponsor{
+        justify-content: flex-start;
+        display: block;
+    }
+}
+  
