@@ -1,4 +1,4 @@
-title: Opportunity Grants
+title: Opportunity Grants - Now Open
 layout: simple
 
 **DjangoCon Europe 2024 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
@@ -7,24 +7,30 @@ We actively encourage you to apply for an opportunity grant. While we wish we co
 
 We try to do this in a number of ways:
 
-* Conferences are a meeting place for developers from all around the globe. Therefore, the selection process is designed to benefit people that we believe will make a difference, particularly speakers and tutorial presenters.
-* Additionally, the selection process attempts to promote a more diverse DjangoCon Europe. While encouraging diversity takes many forms, we're happy to use the opportunity grant program as a very direct method of supporting diversity within the Python community. In particular, our grant program prioritizes those who belong to under-represented or marginalized groups in our industry, as attending our event is likely to be more difficult and financially onerous for them.
-* When prioritizing grant applications, we try to get a feel for how much impact this grant will have on the applicant and the wider community and country, compared to others. In this, we consider things like involvement in a local community, social impact of the applicant's activities, and how accessible other conferences are to them.
+- Conferences are a meeting place for developers from all around the globe. Therefore, the selection process is designed to benefit people that we believe will make a difference, particularly speakers and tutorial presenters.
+- Additionally, the selection process attempts to promote a more diverse DjangoCon Europe. While encouraging diversity takes many forms, we're happy to use the opportunity grant program as a very direct method of supporting diversity within the Python community. In particular, our grant program prioritizes those who belong to under-represented or marginalized groups in our industry, as attending our event is likely to be more difficult and financially onerous for them.
+- When prioritizing grant applications, we try to get a feel for how much impact this grant will have on the applicant and the wider community and country, compared to others. In this, we consider things like involvement in a local community, social impact of the applicant's activities, and how accessible other conferences are to them.
 
 Our program prioritises anyone who is part of an under-represented or marginalized group. They include, but are not limited to:
 
-* women and other gender minorities of all expressions and identities; e.g. trans, agender and non-binary people
-* people of colour
-* sexuality minorities, including asexual people
-* people with disabilities, whether visible and invisible
-* neurodivergent people
-* people with chronic illnesses or diseases
-* religious and ethnic minorities
-* age minorities (under ~21, over ~60)
-* people experiencing poverty
-* homeless and home/food-insecure people
-* caregivers of children or other dependents
-* people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
-* people living with or recovering from substance abuse
+- women and other gender minorities of all expressions and identities; e.g. trans, agender and non-binary people
+- people of colour
+- sexuality minorities, including asexual people
+- people with disabilities, whether visible and invisible
+- neurodivergent people
+- people with chronic illnesses or diseases
+- religious and ethnic minorities
+- age minorities (under ~21, over ~60)
+- people experiencing poverty
+- homeless and home/food-insecure people
+- caregivers of children or other dependents
+- people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
+- people living with or recovering from substance abuse
 
-**The Grant Application Opening will be on March 15th. The closing date for grant applications will be April 15th, 23:59 UTC**. We aim to inform you of the results within a few days after closing the application window. Note that if you need a grant, you must apply before the deadline. Moreover, speakers are automatically entitled to a ticket.
+**The Grant Application is now open. The deadline for submitting applications is April 15th, at 23:59 UTC**. We aim to inform applicants of the results within a few days following the closure of the application window. Please be aware that you must apply before the deadline if you need a grant. Additionally, speakers are automatically entitled to receive a ticket.
+
+Kindly fill the grant form below, or click [here](https://docs.google.com/forms/d/e/1FAIpQLSf0gym2shcbIQtxIOFlMuH5UdhfStEDrt2sBbVlD8MLNbNoGw/viewform)
+
+<div class="cool-iframe">
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0gym2shcbIQtxIOFlMuH5UdhfStEDrt2sBbVlD8MLNbNoGw/viewform?embedded=true" width="640" height="3514" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
