@@ -2165,3 +2165,39 @@ object[type="application/pdf"] {
     }
 }
   
+
+  /* TALK SCHEDULE CSS FOR CHART VIEW */
+
+  .image-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+  .image-container img {
+    width: 30%;
+    border-radius: 10px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    .image-container {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .image-container img {
+      width: 90%;
+      padding-top: 10px;
+    }
+
+    .text-container {
+      text-align: justify;
+    }
+  }
+
+
+
+  /* modal code */
+
+  
