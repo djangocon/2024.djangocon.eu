@@ -2198,6 +2198,67 @@ object[type="application/pdf"] {
 
 
 
-  /* modal code */
+  /* charts table css */
+.table-flip {
+    font-family: Arial, sans-serif;
+    border-collapse: separate; /* Change to separate for spacing */
+    border-spacing: 10px; /* Add spacing between cells */
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 10px; /* Add border radius to table */
+}
 
-  
+.table-flip th, .table-flip td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-radius: 10px; /* Add border radius to cells */
+}
+
+.table-flip th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.table-flip tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+.table-flip tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table-flip tr:hover {
+    background-color: #ddd;
+}
+
+.table-flip td.text-center {
+    text-align: center;
+}
+
+.table-flip td.flip.text-right {
+    text-align: right;
+}
+
+
+
+/* charts backgorund and responsiveness */
+
+#question-stats {
+    align-items: center;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+}
+
+.table-responsive {
+    max-width: 100%;
+}
+
+
+
+/* charts */
+
+

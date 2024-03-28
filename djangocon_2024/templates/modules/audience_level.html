@@ -1,0 +1,79 @@
+{% load static%}
+<script defer src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script defer src="{% static 'js/question_stats.js'%}"></script>
+
+<div id="question-data-2" class="d-none"
+data-states='[{&quot;options&quot;: 14, &quot;options__answer&quot;: &quot;Intermediate&quot;, &quot;count&quot;: 109}, {&quot;options&quot;: 13, &quot;options__answer&quot;: &quot;Beginner&quot;, &quot;count&quot;: 55}, {&quot;options&quot;: 15, &quot;options__answer&quot;: &quot;Advanced&quot;, &quot;count&quot;: 10}]'
+data-url="/orga/event/djangocon-europe-2024/submissions/?&amp;question=95&amp;"
+>
+</div>
+<div class="col-md-4">
+    <div id="question-stats" class="d-flex flex-column mt-4 pt-4">
+        <div id="question-answers-2"></div>
+        <div class="table-responsive mt-4">
+            <table class="table table-flip w-100">
+           <thead>
+               <th>Answer</th>
+               <th>Count</th>
+               <th class="text-center">%</th>
+           </thead>
+           <tbody>
+               
+                   <tr>
+                       <td>
+                           
+                               <a href="/orga/event/djangocon-europe-2024/submissions/?&amp;question=95&amp;answer__options=14">
+                           
+                           Intermediate
+                           
+                               </a>
+                           
+                       </td>
+                       <td class="text-center">
+                           109
+                       </td>
+                       <td class="flip text-right">
+                           63&nbsp;%
+                       </td>
+                   </tr>
+               
+                   <tr>
+                       <td>
+                           
+                               <a href="/orga/event/djangocon-europe-2024/submissions/?&amp;question=95&amp;answer__options=13">
+                           
+                           Beginner
+                           
+                               </a>
+                           
+                       </td>
+                       <td class="text-center">
+                           55
+                       </td>
+                       <td class="flip text-right">
+                           32&nbsp;%
+                       </td>
+                   </tr>
+               
+                   <tr>
+                       <td>
+                           
+                               <a href="/orga/event/djangocon-europe-2024/submissions/?&amp;question=95&amp;answer__options=15">
+                           
+                           Advanced
+                           
+                               </a>
+                           
+                       </td>
+                       <td class="text-center">
+                           10
+                       </td>
+                       <td class="flip text-right">
+                           6&nbsp;%
+                       </td>
+                   </tr>
+               
+           </tbody>
+       </table>
+   </div>
+   </div>
