@@ -1,6 +1,6 @@
 type: dark-background 
 layout: composed
-section: 7 December 2024
+section: 7 December 2023
 
 So, DjangoCon Europe 2024 is back again and it’s going to be 5 full days of talks, tutorials and sprints - from June 5 to 9:
  
