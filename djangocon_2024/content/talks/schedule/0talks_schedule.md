@@ -31,9 +31,7 @@ Get a glance of the chart below,
                 <tbody>
                       <tr>
                                     <td>
-                                      <a href="/orga/event/djangocon-europe-2024/speakers/?&amp;question=91&amp;answer__options=12">
                                           Never attended
-                                          </a>
                                         </td>
                                     <td class="text-center">
                                         56
@@ -44,9 +42,7 @@ Get a glance of the chart below,
                                 </tr>
                             <tr>
                             <td>
-                                        <a href="/orga/event/djangocon-europe-2024/speakers/?&amp;question=91&amp;answer__options=10">
                                           Speaker
-                                        </a>
                                     </td>
                                     <td class="text-center">
                                         44
@@ -57,9 +53,7 @@ Get a glance of the chart below,
                                 </tr>
                                 <tr>
                                     <td>
-                                            <a href="/orga/event/djangocon-europe-2024/speakers/?&amp;question=91&amp;answer__options=11">
                                         Participant
-                                            </a>
                                     </td>
                                     <td class="text-center">
                                         32
