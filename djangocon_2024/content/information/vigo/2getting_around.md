@@ -1,13 +1,13 @@
 title: Getting around
 layout: simple
 
-Vigo is a small city and you can walk almost everywhere although Vigo is well know for its hills, so be prepared to walk up and down. Nowadays, there are a lot of electric ladder and escalators to help you with that.
+Vigo is a small city and you can walk almost everywhere, although Vigo is well know for its hills (so be prepared to walk up and down!). Nowadays, there are a lot of escalators to help you with that.
 To get around in Vigo and if you want to go to nearby beaches, the best option is public transportation, bus or taxi.
 
 
 ### By bus
 
-Vitrasa is the public urban bus in Vigo. You can use the [Moovit app](https://moovitapp.com/) to plan your trip. and to be informed.
+Vitrasa is the public urban bus in Vigo. You can use the [Moovit app](https://moovitapp.com/) to plan your trip and be informed.
 
 * [Urban bus - Vitrasa](https://www.vitrasa.es/en/)
 

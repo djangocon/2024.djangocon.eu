@@ -33,7 +33,6 @@ Vigo has two railway stations: URZAIZ where departs the AVE (Spain's high-speed 
 **How do i get to Vigo?**
 Kindly check this [page](https://2024.djangocon.eu/information/vigo/), it should answer all your questions
 
-#### More...
 
 <!-- **Can the organizers assist with visa applications for international attendees?**
 
