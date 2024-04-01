@@ -18,7 +18,7 @@ At DjangoCon Europe 2024, we're not just about code – we're about making a sta
 
 Whether you're a Django aficionado or a newcomer eager to dive in, these T-shirts are your badge of honor. And with our tailored production approach, every T-shirt is a promise of exclusivity and sustainability. Don't miss out on your chance to be part of this limited edition run – **order yours today and wear your Django pride with a blend of style and sustainability!**
 
-<img src="/static/images/tshirts/tshirt.png" alt="djangocon_shirt" style="width: 60%; border-radius: 10px;">
+<img src="/static/images/tshirts/t-shirt.png" alt="djangocon_shirt" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Design credit: Bia Rodriguez</em></p>
 
 - T-shirts purchased until May 10 will be provided during the check-in at the venue: €25
