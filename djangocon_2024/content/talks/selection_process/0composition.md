@@ -13,7 +13,7 @@ DjangoCon Europe has three conference days reserved for talks (followed by two d
 
 * 15 talks about **Django and working with Django**:
 
-    - 6 talks **accessible to beginners**, focussing on concepts, introductions, guides, and other material most useful to those new to Django, having used Django for about a year or less. Includes common workflows (like debugging and testing) and introductions to tools integrated with Django.
+    - 6 talks **accessible to beginners**, focusing on concepts, introductions, guides, and other material most useful to those new to Django, having used Django for about a year or less. Includes common workflows (like debugging and testing) and introductions to tools integrated with Django.
 
     - 6 more **advanced talks**, explaining concepts or implementation details in depth, for people who have used Django for more than a year. Includes uncommon workflows, and improvements on testing and debugging workflows.
     

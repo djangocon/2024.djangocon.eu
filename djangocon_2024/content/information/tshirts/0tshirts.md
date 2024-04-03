@@ -19,10 +19,10 @@ At DjangoCon Europe 2024, we're not just about code – we're about making a sta
 Whether you're a Django aficionado or a newcomer eager to dive in, these T-shirts are your badge of honor. And with our tailored production approach, every T-shirt is a promise of exclusivity and sustainability. Don't miss out on your chance to be part of this limited edition run – **order yours today and wear your Django pride with a blend of style and sustainability!**
 
 <img src="/static/images/tshirts/t-shirt.png" alt="djangocon_shirt" style="width: 60%; border-radius: 10px;">
-<p style=" font-family:roboto"><em>Design credit: Bia Rodriguez</em></p>
+<p style=" font-family:roboto"><em>Design credit: Bia Rodrigues</em></p>
 
 - T-shirts purchased until May 10 will be provided during the check-in at the venue: €25
 - T-shirts purchased after May 11 will be mailed after the conference: €35 (inc. international shipping flat fee)
 - T-shirts sold with online tickets will be mailed after the conference: €35 (inc. international shipping flat fee)
 
-To order for your T-shirt [2024@djangocon.eu](mailto:2024@djangocon.eu)
+To order your T-shirt [2024@djangocon.eu](mailto:2024@djangocon.eu)

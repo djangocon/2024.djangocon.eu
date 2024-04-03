@@ -28,14 +28,14 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 #### Accessibility
 
-We're dedicated to making our conference accessible to all. Find details and resources here. Need more info or specific accommodations? Contact us at [DjangoCon](mailto:2024@djangocon.eu).
+We're dedicated to making our conference accessible to all. Find details and resources here. Need more info or specific accommodations? Contact us at [2024@djangocon.eu](mailto:2024@djangocon.eu).
 
 #### Inclusive Conference
 
 - Wheelchair accessibility: Both the venue and Mar De Vigo auditorium have wheelchair accessibility to all conference spaces.
 - Step-free access: You have step-free access to all areas of the conference.
-- Elevator: Mar De Vigo have elevators that are accessible and operational during the conference.
-- Restrooms: The Organizers of DjangoCon has reserved a room for resting.
+- Elevators: Mar De Vigo has elevators that are accessible and operational during the conference.
+- Restrooms: The Organizers of DjangoCon have reserved a room for resting.
 
 ###### _Do not forget DjangoCon Europe space is the Terrace and Muiltpurpose hall_
 
@@ -67,23 +67,15 @@ Main Stage:
 The Vigo Conference Center Auditorium has its own catering service characterized by the good taste of its cuisine. Whether for a
 
 - Coffee Break,
-- Cocktel,
-- business lunches or Gala dinners, They have flexible and exclusive solutions tailored to the needs of DjangoCon Europe.
-  Enjoy impeccable, professional, top quality service in a unique environment
+- Cocktail,
+- Business lunches or Gala dinners, they have flexible and exclusive solutions tailored to the needs of DjangoCon Europe.
+  Enjoy impeccable, professional, top quality service in a unique environment.
 
 <!-- place for cood -->
 
 <img src="/static/images/venue/coffee.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
-###### Menus
-
-They have the following options:
-
-- Coffee Break.
-- Cocktel.
-- Working lunches.
-- Dinners.
 
 #### Dietary requirements
 
@@ -91,7 +83,7 @@ We aim to meet all dietary requirements. You will be able to specify these when 
 
 #### Parent and Rest Room
 
-For Parent and Rest Room, we have reserved the 50m² 2 Rooms, Two rooms located on Plant 1,Access by elevator or stairs.
+For Parent and Rest Room, we have reserved the 2 50m² rooms, located on the 1st floor. Access by elevator or stairs.
 
 <img src="/static/images/venue/50m.png" alt="50m m2" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
@@ -105,7 +97,7 @@ This room is intended to be a calm and quiet place for anyone who needs to have 
 
 ###### Location: Floor 2
 
-workshop sessions will be hosted in the spacious 100m² Rooms, two rooms located in floor 2, access by elevator or stairs - a perfect setting for innovation and learning, the room numbers are displayed on every door, navigation will be provided as well.
+Workshop sessions will be hosted in the spacious 100m² rooms, located on the 2nd floor, access by elevator or stairs - a perfect setting for innovation and learning. The room numbers are displayed on every door and directions will be provided as well.
 
 ##### Audio and Translation
 

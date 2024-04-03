@@ -36,7 +36,7 @@ Main national destinations:
 - Bilbao
 - Tenerife
 
-For updated and up-to-date information, we recommend that you visit the AENA website.
+For updated and up-to-date information, we recommend that you visit the [AENA website](https://www.aena.es/en/vigo-airport/index.html).
 
 Other nearby airports
 
@@ -44,7 +44,7 @@ Other nearby airports
 - Sá Carneiro International Airport in Porto - Portugal (approx. 150 Km.)
 
 Peinador, Vigo’s Airport, is Galicia’s southern airport and is only 20 minutes from the city centre. Flying is the fastest option when travelling to Vigo from Madrid, Barcelona, Bilbao, Tenerife Norte and Gran Canaria in Spain, but also internationally from London (Stansted), since these cities have direct flights to Vigo. Once you’ve landed, you can take a taxi or bus to the city centre.
-The quickest way to get to the city centre is by taxi, which costs around 25 euros. If you prefer to take the bus, you can take the L9A line, which runs every 30 minutes from 7:00 to 23:00. The bus stop is located in front of the airport’s main entrance. The ticket costs 1.35 euros and can be purchased on the bus. The bus will take you to the city centre in 40 minutes.
+The quickest way to get to the city centre is by taxi, which costs around 25 euros. If you prefer to take the bus, you can take the L9A line, which runs every 30 minutes from 7:00 to 23:00. The bus stop is located in front of the airport’s main entrance. The ticket costs 1.35 euro and can be purchased on the bus. The bus will take you to the city centre in 40 minutes.
 
 Website: [Vigo's Airport](https://www.aena.es/en/vigo-airport/index.html)
 

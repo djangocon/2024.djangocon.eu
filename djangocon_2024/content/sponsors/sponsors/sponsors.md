@@ -1,7 +1,7 @@
 title: sponsors
 layout: sponsor_page
 
-**Your logo can be here!** Discover the available sponsorship opportunities [here](/sponsors/sponsorship/).
+**Your logo can be here!** Discover the available sponsorship opportunities [here](https://2024.djangocon.eu/sponsors/sponsorship/).
 
 ##### Gold
 
