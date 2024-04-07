@@ -20,9 +20,9 @@ For code of conduct incident reports handling, we may collect additional informa
 
 #### Speakers
 
-If you are a proposal speaker we will need to collect additional personal data from you. And we will requered other information different from your personal data (e.g., a title, a description, abstract, a profile photo, etc.) when you do the submission. This information is essential to select the titles and defined the conference program. 
+If you are a proposal speaker we will need to collect additional personal data from you. And we will request other information different from your personal data (e.g., a title, a description, abstract, a profile photo, etc.) when you do the submission. This information is essential to select the titles and defined the conference program. 
 
-The DjangoCon Europe 2024 will publically share the slides from the presentations.
+DjangoCon Europe 2024 will publicly share the slides from the presentations.
 
 <hr/>
 
