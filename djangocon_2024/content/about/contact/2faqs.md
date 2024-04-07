@@ -1,13 +1,13 @@
 title: FAQs
 layout: simple
 
-These are some frequently asked questons, kindly contact us for further assistance if you can't find the answers to your questions here.
+These are some frequently asked questions, kindly contact us for further assistance if you can't find the answers to your questions here.
 
 **Do I need a visa to Vigo Spain?**
 This will depend on the country you will be coming from. Some countries don't need a visa to enter Spain, but others do. You can find out if you need a visa to enter Spain using this link. If your country is part of the list provided in the link given below then you need a visa to visit spain. If you don't find your country, then you don't need a visa. Check it here [Countries who needs visa ](https://www.schengenvisainfo.com/who-needs-schengen-visa/)
 
 **What are the ticket prices for DjangoCon Europe?**
-For everything concerning ticket kinldy check it here [Tickets](https://pretix.evolutio.pt/evolutio/djceu2024/)
+For everything concerning ticket kindly check it here [Tickets](https://pretix.evolutio.pt/evolutio/djceu2024/)
 
 **Do you provide Invitation to aid visa application?**
 The organizers of DjangoCon offer invitation letters to assist with your travel arrangements. Click [here](https://2024.djangocon.eu/information/hospitality/) to request one
@@ -16,11 +16,11 @@ The organizers of DjangoCon offer invitation letters to assist with your travel 
 Currently grant application is not yet opened, the application form will be opened on the **15th of March**, kindly keep an eye on our socials and website, as it will be updated frequently. [Grants](https://2024.djangocon.eu/information/grants/)
 
 **What do i do if i am refused visa but still bought tickets**
-Sorry, hopfully that doesn't happen , but if it does send an email to our email here [2024@djangocon.eu](mailto:2024@djangocon.eu)
+Sorry, hopefully that doesn't happen, but if it does send an email to our email here [2024@djangocon.eu](mailto:2024@djangocon.eu)
 and the team will get back you.
 
 **Are there options for virtual participation?**
-Yes there are, but you would need to purchase a ticket before getting access to the paltform , allowing you to stream live, you can
+Yes there are, but you would need to purchase a ticket before getting access to the platform , allowing you to stream live, you can
 get the virtual ticket here [Virtual Tickets](https://pretix.evolutio.pt/evolutio/djceu2024/)
 
 **Where is the exact venue for the event**
