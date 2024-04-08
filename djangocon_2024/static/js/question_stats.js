@@ -23,15 +23,7 @@ function createOptions(data, url, canvas) {
       width: 420,
       type: 'donut',
       events: {
-        dataPointSelection: (event, chartContext, config) => {
-          const clickedData = data[config.dataPointIndex];
-          if (clickedData.answer) {
-            url = url + "answer=" + encodeURIComponent(clickedData.answer);
-          } else {
-            url = url + "answer__options=" + encodeURIComponent(clickedData.options);
-          }
-          window.location.href = url;
-        },
+     
         dataPointMouseEnter: () => {
           canvas.style.cursor = "pointer";
         },
