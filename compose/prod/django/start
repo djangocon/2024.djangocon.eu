@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 python /app/manage.py collectstatic --noinput
-exec python manage.py runserver 0.0.0.0:8000
+/usr/local/bin/gunicorn config.wsgi --bind 0.0.0.0:8000 --chdir=/app
