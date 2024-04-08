@@ -1,4 +1,5 @@
 import logging
+import os
 
 import sentry_sdk
 from sentry_sdk.integrations.django import DjangoIntegration
@@ -21,18 +22,19 @@ ALLOWED_HOSTS = env.list("DJANGO_ALLOWED_HOSTS", default=["2024.djangocon.eu"])
 
 # CACHES
 # ------------------------------------------------------------------------------
-CACHES = {
-    "default": {
-        "BACKEND": "django_redis.cache.RedisCache",
-        "LOCATION": env("REDIS_URL"),
-        "OPTIONS": {
-            "CLIENT_CLASS": "django_redis.client.DefaultClient",
-            # Mimicing memcache behavior.
-            # https://github.com/jazzband/django-redis#memcached-exceptions-behavior
-            "IGNORE_EXCEPTIONS": True,
-        },
+if "REDIS_URL" in os.environ:
+    CACHES = {
+        "default": {
+            "BACKEND": "django_redis.cache.RedisCache",
+            "LOCATION": env("REDIS_URL"),
+            "OPTIONS": {
+                "CLIENT_CLASS": "django_redis.client.DefaultClient",
+                # Mimicing memcache behavior.
+                # https://github.com/jazzband/django-redis#memcached-exceptions-behavior
+                "IGNORE_EXCEPTIONS": True,
+            },
+        }
     }
-}
 
 # SECURITY
 # ------------------------------------------------------------------------------
@@ -65,9 +67,12 @@ STORAGES = {
     "default": {
         "BACKEND": "django.core.files.storage.FileSystemStorage",
     },
+    # "staticfiles": {
+    #     "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
+    # },
     "staticfiles": {
-        "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
-    },
+        "BACKEND": "django.contrib.staticfiles.storage.StaticFilesStorage"
+    }
 }
 # MEDIA
 # ------------------------------------------------------------------------------
