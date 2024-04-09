@@ -23,7 +23,7 @@ function createOptions(data, url, canvas) {
       width: 420,
       type: 'donut',
       events: {
-     
+      
         dataPointMouseEnter: () => {
           canvas.style.cursor = "pointer";
         },
