@@ -14,7 +14,7 @@
         {% for smedia, smedia_href in social_media.items %}
           {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.svg' %}
             <div class="col-2 text-center footer-social-media-link">
-              <a class="nav-link" href="{{ smedia_href }}" target="_blank">
+              <a class="nav-link" href="{{ smedia_href }}" target="_blank" rel="me">
                 <img src="{% static smedia_logo %}" alt="{{ smedia }}" height="33rem;">
               </a>
             </div>
