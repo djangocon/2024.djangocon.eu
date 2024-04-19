@@ -13,7 +13,7 @@ For everything concerning ticket kindly check it here [Tickets](https://pretix.e
 The organizers of DjangoCon offer invitation letters to assist with your travel arrangements. Click [here](https://2024.djangocon.eu/information/hospitality/) to request one
 
 **How do i apply for grant for DjangoCon EU 2024**
-Currently grant application is not yet opened, the application form will be opened on the **15th of March**, kindly keep an eye on our socials and website, as it will be updated frequently. [Grants](https://2024.djangocon.eu/information/grants/)
+Grant Application is closed.
 
 **What do i do if i am refused visa but still bought tickets**
 Sorry, hopefully that doesn't happen, but if it does send an email to our email here [2024@djangocon.eu](mailto:2024@djangocon.eu)
@@ -32,7 +32,6 @@ Vigo has two railway stations: URZAIZ where departs the AVE (Spain's high-speed 
 
 **How do i get to Vigo?**
 Kindly check this [page](https://2024.djangocon.eu/information/vigo/), it should answer all your questions
-
 
 <!-- **Can the organizers assist with visa applications for international attendees?**
 

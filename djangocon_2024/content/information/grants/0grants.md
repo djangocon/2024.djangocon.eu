@@ -1,4 +1,4 @@
-title: Opportunity Grants - Now Open
+title: Opportunity Grants - Closed
 layout: simple
 
 **DjangoCon Europe 2024 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
@@ -27,10 +27,4 @@ Our program prioritises anyone who is part of an under-represented or marginaliz
 - people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 - people living with or recovering from substance abuse
 
-**The Grant Application is now open. The deadline for submitting applications is April 15th, at 23:59 UTC**. We aim to inform applicants of the results within a few days following the closure of the application window. Please be aware that you must apply before the deadline if you need a grant. Additionally, speakers are automatically entitled to receive a ticket.
-
-Kindly fill the grant form below, or click [here](https://docs.google.com/forms/d/e/1FAIpQLSf0gym2shcbIQtxIOFlMuH5UdhfStEDrt2sBbVlD8MLNbNoGw/viewform)
-
-<div class="cool-iframe">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0gym2shcbIQtxIOFlMuH5UdhfStEDrt2sBbVlD8MLNbNoGw/viewform?embedded=true" width="640" height="3514" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
+**The Grant Application is now closed.**. We are currently reviewing all applications and will inform applicants of the results within a few days. Please note that if you missed the deadline, you will need to seek alternative funding sources. Additionally, speakers are reminded that they are automatically entitled to receive a ticket.
