@@ -2262,3 +2262,56 @@ object[type="application/pdf"] {
 /* charts */
 
 
+/* speaker home css */
+   
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.swiper-slide:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.speaker {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.speaker-name {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
+.speaker-logo{
+    width: 30%;
+    height: 30%;
+    padding-bottom:20px;
+}
+
+@media screen and (max-width: 600px) {
+    .speaker-logo {
+        width: 50%; /* Increase width */
+        height: 50%; /* Increase height */
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* speaker home end */
+
+/* icon size on speaker */
+.iconlogo {
+    width: 10%; /* Adjust as needed */
+  }
