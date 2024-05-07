@@ -1,24 +1,64 @@
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/BJWYLZ/','_blank')">
-![Speaker 1](/static/images/speakers/person.png){:class='speaker'} **Tom Forbes**{:class='speaker-name'}
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/MQF8UQ/','_blank')">
-![Speaker 2](/static/images/speakers/person_1.jpg){:class='speaker'} **Darya Petrashka**{:class='speaker-name'}
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/ELJJRP/','_blank')">
-![Speaker 3](/static/images/speakers/person_2.jpg){:class='speaker'} **Lucas**{:class='speaker-name'}
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/9NHRV8/','_blank')">
-![Speaker 4](/static/images/speakers/person_3.jpg){:class='speaker'} **Stefanie Molin**{:class='speaker-name'}
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/BK7CRH/','_blank')">
-![Speaker 5](/static/images/speakers/person_4-mino.jpg){:class='speaker'} **Felix Mino**{:class='speaker-name'}
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/8DMJYJ/','_blank')">
-![Speaker 6](/static/images/speakers/person_5.jpg){:class='speaker'} **Cristián Maureira-Fredes**{:class='speaker-name'} 
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/FDWJUP/','_blank')">
-![Speaker 7](/static/images/speakers/person.png){:class='speaker'} **Kushal Vijay**{:class='speaker-name'}
-</div>
-<div markdown="1" class="swiper-slide" style="cursor:pointer" onclick="window.open('https://pretalx.evolutio.pt/pycon-pt-2023/speaker/JUGPGE/','_blank')">
-![Speaker 8](/static/images/speakers/person_1.jpg){:class='speaker'} **Maxim Danilov**{:class='speaker-name'}
+title: Speakers
+layout: home_speakers
+
+<div class="container">
+<img src="/static/images/other/speakers.png" class="speaker-logo img-fluid" alt="speakers" />
+    <div class="row">
+        <!-- First Speaker -->
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/BJM3EY/','_blank')">
+                <img class='speaker' src="https://pretalx.evolutio.pt/media/anna_3.jpg" alt="Speaker 1">
+                <div class='speaker-name'>Anna Makarudze</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Django Girls: Decade in Review and Beyond </div>
+        <div style="display: flex; justify-content: center;">
+                <img src="/static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="/static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <!-- Second Speaker -->
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/3TG9VD/','_blank')">
+                <img class='speaker' src="https://pretalx.evolutio.pt/media/avatars/Antonis_Kalipetis_Platform_D3mrWrg.png" alt="Speaker 1">
+                <div class='speaker-name'>Antonis Kalipetis</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Up(sun) and running with Django description:..</div>
+        <div style="display: flex; justify-content: center;">
+                <img src="/static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="/static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <!-- Third Speaker -->
+         <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/DGGFQB/','_blank')">
+                <img class='speaker' src="https://pretalx.evolutio.pt/media/avatars/12b7e40ed1ebd4846746004c77020183_91b8QTD.jpg" alt="Speaker 1">
+                <div class='speaker-name'>Anze</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Django, SQLite, and Production</div>
+        <div style="display: flex; justify-content: center;">
+                <img src="/static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="/static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <!-- Fourth Speaker -->
+       <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/XWXU3M/','_blank')">
+                <img class='speaker' src="https://pretalx.evolutio.pt/media/avatars/Screenshot_2024-01-26_130522-min_KwTGpat.png" alt="Speaker 1">
+                <div class='speaker-name'>Dawn Michelle Wages</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Supercharging your Python Dev Environment...</div>
+        <div style="display: flex; justify-content: center;">
+                <img src="/static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="/static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <div class="row px-5 mainbutton">
+  <div class="container-button pt-5 px-3 d-flex justify-content-center">
+    <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/" class="mx-2">
+      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn" role="button">
+        ALL Speakers <span class="pl-2"></span>
+      </button>
+    </a>
+        <!-- More speakers can be added following the same pattern -->
+    </div>
 </div>
