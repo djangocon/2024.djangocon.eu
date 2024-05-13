@@ -5,7 +5,7 @@ layout: home_speakers
 <img src="/static/images/other/speakers.png" class="speaker-logo img-fluid" alt="speakers" />
     <div class="row">
         <!-- First Speaker -->
-        <div class="col-lg-3 col-md-4 col-sm-6">
+<div class="col-lg-3 col-md-6 col-sm-12">
             <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/BJM3EY/','_blank')">
                 <img class='speaker' src="https://pretalx.evolutio.pt/media/anna_3.jpg" alt="Speaker 1">
                 <div class='speaker-name'>Anna Makarudze</div>
@@ -17,7 +17,7 @@ layout: home_speakers
             </div>
         </div>
         <!-- Second Speaker -->
-        <div class="col-lg-3 col-md-4 col-sm-6">
+<div class="col-lg-3 col-md-6 col-sm-12">
             <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/3TG9VD/','_blank')">
                 <img class='speaker' src="https://pretalx.evolutio.pt/media/avatars/Antonis_Kalipetis_Platform_D3mrWrg.png" alt="Speaker 1">
                 <div class='speaker-name'>Antonis Kalipetis</div>
@@ -29,7 +29,7 @@ layout: home_speakers
             </div>
         </div>
         <!-- Third Speaker -->
-         <div class="col-lg-3 col-md-4 col-sm-6">
+ <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/DGGFQB/','_blank')">
                 <img class='speaker' src="https://pretalx.evolutio.pt/media/avatars/12b7e40ed1ebd4846746004c77020183_91b8QTD.jpg" alt="Speaker 1">
                 <div class='speaker-name'>Anze</div>
@@ -41,7 +41,7 @@ layout: home_speakers
             </div>
         </div>
         <!-- Fourth Speaker -->
-       <div class="col-lg-3 col-md-4 col-sm-6">
+ <div class="col-lg-3 col-md-6 col-sm-12">
             <div class="swiper-slide" onclick="window.open('https://pretalx.evolutio.pt/djangocon-europe-2024/speaker/XWXU3M/','_blank')">
                 <img class='speaker' src="https://pretalx.evolutio.pt/media/avatars/Screenshot_2024-01-26_130522-min_KwTGpat.png" alt="Speaker 1">
                 <div class='speaker-name'>Dawn Michelle Wages</div>
