@@ -33,6 +33,11 @@ Vigo has two railway stations: URZAIZ where departs the AVE (Spain's high-speed 
 **How do i get to Vigo?**
 Kindly check this [page](https://2024.djangocon.eu/information/vigo/), it should answer all your questions
 
+**Will there be breakfast, lunch and dinner**
+Lunch and Coffee breaks are included. Dinners are not included
+
+**Would all session be recorded, also the once under the workshop**
+
 <!-- **Can the organizers assist with visa applications for international attendees?**
 
 **What are the accommodation and travel options near the conference venue?**
