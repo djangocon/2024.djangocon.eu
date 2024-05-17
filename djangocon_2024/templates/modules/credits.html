@@ -89,4 +89,81 @@
       <h6>Maria Helena Machado</h6>
     </div>
   </div>
+
+  <!-- THIRD ROW  -->
+  <!-- Appreciations-->
+
+  <div class="row pt-5">
+    <div class="col-sm-6">
+      <div class="row pt-2" style="padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);">
+        <h5 style="color: #863B35; font-weight: bold;" class="pt-3"><strong>And also these wonderful individual
+            supporters</strong></h5>
+        <div class="col-sm-12 pt-3" style="height: 17vh;">
+          <h6 class=" supporter" style="transition: all 0.3s ease;">👉🏽Marco Silva</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Matthias Kestenholz</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Shai Berger</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Hanna Kollo</h6>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <!-- Add your new container here -->
+
+      <div class="row pt-2" style="padding: 20px; border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);">
+        <h5 style="color: #863B35; font-weight: bold;" class="pt-3"><strong>And these great companies:</strong></h5>
+        <div class="col-sm-6">
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Django CMS Association</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Django Stars</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Foxley Talent Limited</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Invictus AeroTech, LLC</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Noésis software technologies</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Kraken Labs LTD</h6>
+
+        </div>
+        <!-- secondst -->
+        <div class="col-sm-6">
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Kolo</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Maykin Media B.V</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Mecexis</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Platform.sh</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Silvr Group</h6>
+          <h6 class="supporter" style="transition: all 0.3s ease;">👉🏽Kition Software GmbH</h6>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="pt-5">
+    <h5>
+      <p><span style="font-weight: bold; color:#863B35; font-size: 20px; ">In addition, </span>the wonderful <a
+          href="https://2024.djangocon.eu/talks/schedule/" style="text-decoration: none;" s>speakers</a>,
+        our
+        amazing <a href="https://2024.djangocon.eu/sponsors/sponsors/">sponsors</a>, the
+        fantastic <a href="https://www.djangoproject.com/foundation/individual-members/"
+          style="text-decoration: none;">Django
+          Software
+          Foundation members</a>,
+        and to everyone who bought a ticket. </p>
+    </h5>
+  </div>`
+
+  <!-- comapnies -->
+
+  <script>
+    // Add a hover effect to the supporter names
+    document.querySelectorAll('.supporter').forEach(function (supporter) {
+      supporter.addEventListener('mouseover', function () {
+        this.style.color = '#863B35';
+        this.style.fontSize = '1.2em';
+        this.style.fontWeight = 'bold';
+      });
+      supporter.addEventListener('mouseout', function () {
+        this.style.color = 'initial';
+        this.style.fontSize = 'initial';
+        this.style.fontWeight = 'initial';
+      });
+    });
+  </script>
+
 </div>
