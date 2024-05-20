@@ -49,6 +49,7 @@ def links(request):
                 "submenu": {
                     "Contact": "/about/contact/",
                     "Credits": "/about/credits/",
+                    "Call for Proposals report": "/about/cfp_report/",
                 },
             },
         },
