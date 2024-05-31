@@ -14,12 +14,13 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 <img src="/static/images/venue/venue-2.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
-## Credentials <a name="credentials"></a>
+<a name="credentials"></a>
+## Credentials
 
 ---
 
 <div class="image-row">
-    <div style="txt-align: left">
+    <div style="text-align: left">
       <p>This year the badges are print-at-home, origami style and individual personalization with stickers.</p>
       <p> As usual two distinct lanyard colors for photo preferences.</p>
       <p>To speedup the process please bring your badge printed, we can cover any issues with a local printer, but it will be slower for you.</p>
