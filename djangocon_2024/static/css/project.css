@@ -2316,3 +2316,37 @@ object[type="application/pdf"] {
 .iconlogo {
     width: 10%; /* Adjust as needed */
   }
+
+/* social page css */
+.glow-text {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    animation: glow-animation 1s infinite alternate;
+  }
+  @keyframes glow-animation {
+    0% {
+      text-shadow: 0 0 10px #863b35, 0 0 20px #ffaa00, 0 0 30px #ff0000,
+        0 0 40px #863b35;
+    }
+
+    50% {
+      text-shadow: 0 0 20px #863b35, 0 0 30px #ffaa00, 0 0 40px #ff0000,
+        0 0 50px #863b35, 0 0 60px #ffaa00;
+    }
+
+    100% {
+      text-shadow: 0 0 10px #863b35, 0 0 20px #ffaa00, 0 0 30px #ff0000,
+        0 0 40px #863b35;
+    }
+  }
+
+
+  @media screen and (max-width: 600px) {
+    .glow-text {
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+        animation: glow-animation 1s infinite alternate;
+    }
+}
