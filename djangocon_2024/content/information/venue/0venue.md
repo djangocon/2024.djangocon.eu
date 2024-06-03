@@ -23,12 +23,10 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
       <p>This year the badges are print-at-home, origami style and individual personalization with stickers.</p>
       <p> As usual two distinct lanyard colors for photo preferences.</p>
       <p>To speedup the process please bring your badge printed, we can cover any issues with a local printer, but it will be slower for you.</p>
+        <img src="/static/images/venue/credentials.jpeg" alt="credentials" >
     </div>
-    <div>
-        <img src="/static/images/venue/credentials.jpeg" alt="credentials">
-    </div>
-</div>
 
+</div>
 
 ## Conference Arrangement
 
@@ -92,7 +90,6 @@ The Vigo Conference Center Auditorium has its own catering service characterized
 <img src="/static/images/venue/coffee.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
-
 #### Dietary requirements
 
 We aim to meet all dietary requirements. You will be able to specify these when purchasing your ticket.
@@ -115,10 +112,11 @@ This room is intended to be a calm and quiet place for anyone who needs to have 
 
 Workshop sessions will be hosted in the spacious 100m² rooms, located on the 2nd floor, access by elevator or stairs - a perfect setting for innovation and learning. The room numbers are displayed on every door and directions will be provided as well.
 
+<!--
 ##### Audio and Translation
 
 - This room does not have integrated audiovisuals.
-- 4 cabins for simultaneous translation.
+- 4 cabins for simultaneous translation. -->
 
 <!-- check around -->
 
