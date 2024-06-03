@@ -14,7 +14,7 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 <img src="/static/images/venue/venue-2.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
-## Credentials
+### Credentials
 
 ---
 
@@ -28,7 +28,7 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 </div>
 
-## Conference Arrangement
+### Conference Arrangement
 
 ---
 
