@@ -27,6 +27,14 @@ body {
     font-family: var(--main-font);
 }
 
+/* hack to fix anchors*/
+[id]::before {
+  content: '';
+  display: block;
+  height:      114px;
+  margin-top: -114px;
+  visibility: hidden;
+}
 
 .home-text, .important-dates .dates blockquote blockquote p {
     font: normal normal normal 1.125rem/1.5rem var(--main-font)
