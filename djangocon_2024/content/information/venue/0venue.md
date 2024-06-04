@@ -28,7 +28,7 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 </div>
 
-### Conference Arrangement
+## Conference Arrangement
 
 ---
 
