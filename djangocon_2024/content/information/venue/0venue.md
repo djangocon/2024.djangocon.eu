@@ -18,17 +18,18 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 ---
 
-<div class="image-row">
-    <div style="text-align: left">
+<div class="">
+    <div>
       <p>This year the badges are print-at-home, origami style and individual personalization with stickers.</p>
       <p> As usual two distinct lanyard colors for photo preferences.</p>
       <p>To speedup the process please bring your badge printed, we can cover any issues with a local printer, but it will be slower for you.</p>
-        <img src="/static/images/venue/credentials.jpeg" alt="credentials" >
+        <img src="/static/images/venue/credentials.jpeg" alt="credentials" style="width: 100%; height: auto; max-width: 600px; display: block; margin: auto;">
     </div>
-
 </div>
 
-## Conference Arrangement
+### Conference Arrangement
+
+---
 
 #### Welcome Reception & Registration
 
