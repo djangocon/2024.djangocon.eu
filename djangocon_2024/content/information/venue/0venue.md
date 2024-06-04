@@ -14,21 +14,20 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 <img src="/static/images/venue/venue-2.jpg" alt="Venue 1" style="width: 60%; border-radius: 10px;">
 <p style=" font-family:roboto"><em>Photo credit: <a href="https://auditoriomardevigo.com">Auditorio Mar de Vigo</a></em></p>
 
-## Credentials
+### Credentials
 
 ---
 
-<div class="image-row">
-    <div style="text-align: left">
+<div class="">
+    <div>
       <p>This year the badges are print-at-home, origami style and individual personalization with stickers.</p>
       <p> As usual two distinct lanyard colors for photo preferences.</p>
       <p>To speedup the process please bring your badge printed, we can cover any issues with a local printer, but it will be slower for you.</p>
-        <img src="/static/images/venue/credentials.jpeg" alt="credentials" >
+        <img src="/static/images/venue/credentials.jpeg" alt="credentials" style="width: 100%; height: auto; max-width: 600px; display: block; margin: auto;">
     </div>
-
 </div>
 
-## Conference Arrangement
+### Conference Arrangement
 
 ---
 
@@ -177,7 +176,6 @@ The multipurpose hall is where we will be having our conference
 </div> -->
 
 <!--
-![](/static/images/venue/venue-3.jpg)
 _Photo credit: [Auditorio Mar de Vigo](https://auditoriomardevigo.com)_ -->
 
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11816.786785078533!2d-8.7342827!3d42.2316106!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2f62106e4a114d%3A0xa76e1afac7bfcfc9!2sMar%20de%20Vigo%20Auditorium!5e0!3m2!1sen!2spt!4v1702916546015!5m2!1sen!2spt" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
