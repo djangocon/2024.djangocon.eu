@@ -30,8 +30,6 @@ Prepare to immerse yourself in cutting-edge Django developments, network with fe
 
 ## Conference Arrangement
 
----
-
 #### Welcome Reception & Registration
 
 ###### Location: Multipurpose hall - 3rd floor:
