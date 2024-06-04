@@ -18,7 +18,7 @@ If you're interested in sponsoring the event, please get in touch at [sponsors@d
  
  
 # Talk proposals
-You can already start to prepare your talk, and for that, we recommend that you watch the talk [“How To Get On This Stage (And What To Do When You Get There)”](https://www.youtube.com/watch?v=4rsL974kwsE) by Mark Smith. If you think you have something great to talk about – start to prepare your talk! If you are unsure, talk it over with somebody, or go to [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-28pe0wny8-OmCZyZavQ8UTbLlMN4Vbpg) to find previous speakers and participants to discuss your idea with. When in doubt, submit your talk!
+You can already start to prepare your talk, and for that, we recommend that you watch the talk [“How To Get On This Stage (And What To Do When You Get There)”](https://www.youtube.com/watch?v=4rsL974kwsE) by Mark Smith. If you think you have something great to talk about – start to prepare your talk! If you are unsure, talk it over with somebody, or go to [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg) to find previous speakers and participants to discuss your idea with. When in doubt, submit your talk!
  
  
 # Volunteers
@@ -38,7 +38,7 @@ Your location before and during the event is not significant, since it will be h
  
 We expect new challenges but pledge our hearts and minds to do the best DjangoCon Europe we can, never giving up under these strenuous conditions. Please consider volunteering and join us, we need you!
  
-We hope we'll see you all at DjangoCon Europe 2024, and don't forget to follow us [@DjangoConEurope](https://twitter.com/djangoconeurope) on Twitter, and also join our dedicated [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-28pe0wny8-OmCZyZavQ8UTbLlMN4Vbpg) channel.
+We hope we'll see you all at DjangoCon Europe 2024, and don't forget to follow us [@DjangoConEurope](https://twitter.com/djangoconeurope) on Twitter, and also join our dedicated [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg) channel.
  
 Hoping for the best,
 The DjangoCon Europe 2024 Organisers

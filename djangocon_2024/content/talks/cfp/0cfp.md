@@ -9,7 +9,7 @@ We have been overwhelmed by the enthusiasm and diversity of the proposals receiv
 Our review team is now working diligently to evaluate all the submissions. We aim to craft a comprehensive program that caters to all skill levels and interests, ensuring a rewarding experience for all attendees. Selected speakers will be notified, and the full conference schedule will be announced shortly thereafter. Stay tuned for updates!
 
 **Missed the CFP Deadline**
-If you missed this year's CFP deadline but still wish to contribute, there are plenty of other ways to get involved. We encourage you to participate in the DjangoCon Europe [Slack channel](https://djangoconeurope.slack.com/), where you can engage with the community, offer support, or even find collaboration opportunities. Your involvement doesn't have to end with the CFP - the Django community thrives on continuous sharing and support.
+If you missed this year's CFP deadline but still wish to contribute, there are plenty of other ways to get involved. We encourage you to participate in the DjangoCon Europe [Slack channel](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg/), where you can engage with the community, offer support, or even find collaboration opportunities. Your involvement doesn't have to end with the CFP - the Django community thrives on continuous sharing and support.
 
 **Stay Connected**
 For the latest updates, remember to follow us on Twitter [DjangoCon Europe](https://twitter.com/DjangoConEurope) and check our official website regularly. We'll be sharing more information about the conference schedule, speakers, and other exciting activities planned for DjangoCon Europe 2024 in Vigo.
