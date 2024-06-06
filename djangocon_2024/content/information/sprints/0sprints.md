@@ -28,7 +28,7 @@ On Saturday and Sunday, you have the opportunity to do exactly that. This is you
 
 The Sprints are free for all conference participants. However, as the Sprints venue does not have unlimited capacity, and we would like to prepare a precise amount of food and drinks, please keep your participation status updated on the ticketing website (after buying your ticket).
 
-As you already know, **Auditorio Mar de Vigo** will be the main conference venue for DjangoCon Europe 2024! :european_castle: Plus, **Hotel Bahia de Vigo** will be hosting our sprints. Get ready for an amazing conference experience in beautiful Vigo! :ocean::sparkles:
+As you already know, **Auditorio Mar de Vigo** will be the main conference venue for DjangoCon Europe 2024! 🏰 Plus, **Hotel Bahia de Vigo** will be hosting our sprints. Get ready for an amazing conference experience in beautiful Vigo! 🌊✨
 
 #### Check the map to the varius venues
 
