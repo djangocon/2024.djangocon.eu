@@ -16,7 +16,8 @@ $red: #b94a48;
 :root {
     --dark-brown: #863B35;
     --light-brown: #AC7870;
-    --bg-color: #F2E7DC;
+    --bg-color-full: #F2E7DC;
+    --bg-color: rgba(242, 231, 220, 0.6);
     --bg-color-dark: #ecdfd3;
     --golden: #FFA300;
 
