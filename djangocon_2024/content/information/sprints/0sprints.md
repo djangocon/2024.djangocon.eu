@@ -32,7 +32,6 @@ We will be hosting our sprints at **Hotel Bahia de Vigo**. Get ready for an amaz
         <div style="overflow:hidden;resize:none;max-width:100%;width:500px;height:500px;">
             <div id="canvas-for-googlemap" style="height:100%; width:100%;max-width:100%;">
             <h5><strong>Hotel Bahia de Vigo</strong></h5>
-            
                 <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Hotel+Bahía+de+Vigo&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
             </div>
             <a class="googlemaps-made" href="https://www.bootstrapskins.com/themes" id="grab-map-data">premium bootstrap themes</a>

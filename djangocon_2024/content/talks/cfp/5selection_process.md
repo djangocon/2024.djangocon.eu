@@ -9,6 +9,6 @@ We’d like to make our reviewing process and guidelines transparent to every su
 Moreover, we might **prioritize speakers from an under-represented or marginalised group in order to increase the social impact of the conference**.
 
 
-We will document our selection process on this website and announce it via [X (formerly known as Twitter)](https://twitter.com/DjangoConEurope) @DjangoConEurope, [Slack](https://djangoconeurope.slack.com) , or [LinkedIn](https://www.linkedin.com/company/djangocon-europe/).
+We will document our selection process on this website and announce it via [X (formerly known as Twitter)](https://twitter.com/DjangoConEurope) @DjangoConEurope, [Slack](https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg) , or [LinkedIn](https://www.linkedin.com/company/djangocon-europe/).
 
  
