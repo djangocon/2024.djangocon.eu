@@ -1,5 +1,5 @@
 title: talks schedule
-layout: schedule_talx
+layout: cfp_report
 
 ### **Call For Participation report**
 
@@ -8,7 +8,6 @@ We had a whopping total of **174** proposals from **138** submitters. Our conten
 #### Numbers breakout
 
 We had **156** talk and **18** workshop submissions
-
 
 From the **138** submitters, **51** were first time speakers and **43** felt part of an underrepresented group.
 
