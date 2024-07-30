@@ -27,7 +27,7 @@ DESCRIPTION:Use of regular expressions for searching and parsing text is ve
  t to be very slow on specially-crafted inputs\, and if such inputs can be 
  provided by users\, that is called a REDoS vulnerability. This talk is abo
  ut the causes of such slowness\, possible fixes and prevention.
-DTSTAMP:20240730T105431Z
+DTSTAMP:20240730T122143Z
 LOCATION:Auditorium
 SUMMARY:Careful what you search for! - or\, how to make a computation 20\,0
  00 times faster - Shai Berger

@@ -24,7 +24,7 @@ DTSTART;TZID=CET:20240606T112000
 DTEND;TZID=CET:20240606T115000
 DESCRIPTION:How can hundreds of engineers collaborate on the same codebase 
  without chaos and build a successful business?
-DTSTAMP:20240730T105445Z
+DTSTAMP:20240730T122657Z
 LOCATION:Auditorium
 SUMMARY:Layered Django project structure for large-scale collaboration - Ç
  ağıl Uluşahin Sönmez

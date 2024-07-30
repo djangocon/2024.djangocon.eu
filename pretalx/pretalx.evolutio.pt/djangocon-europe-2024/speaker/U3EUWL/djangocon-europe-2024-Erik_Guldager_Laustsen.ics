@@ -25,7 +25,7 @@ DTEND;TZID=CET:20240606T161500
 DESCRIPTION:ProBo: 1 Django App\, 4 admin sites\, 14 user groups\, 240.000+
   users as admin staff. \nMany say you shouldn't\, we did it by heavily ext
  ending the admin and lastly integrated HTMX.
-DTSTAMP:20240730T104621Z
+DTSTAMP:20240730T114254Z
 LOCATION:Auditorium
 SUMMARY:ProBo: 240.000+ Django Admin Staff Users in one SaaS (What you are 
  not supposed to do\, we did it!) - Erik Guldager Laustsen

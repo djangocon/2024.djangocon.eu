@@ -23,7 +23,7 @@ UID:pretalx-djangocon-europe-2024-FTJWJA@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240605T093000
 DTEND;TZID=CET:20240605T100000
 DESCRIPTION:Welcome Session
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Welcome Session - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/FTJWJA/
@@ -38,7 +38,7 @@ DESCRIPTION:On the 21st of July 2014\, the first day of EuroPython 2014 in
  oin us as we examine the transformational decade of Django Girls\, a globa
  l movement dedicated to empowering women in technology and strengthening t
  he Django community through fostering diversity.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Django Girls: Decade in Review and Beyond - Anna Makarudze\, Rachel
  l Calhoun
@@ -53,7 +53,7 @@ DESCRIPTION:Alpine.js and htmx have been creating quite a flurry of excitem
  nation holding up in the light of some years of real project experience? C
  ome to our talk to learn the impact this toolset has had on our productivi
  ty.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Django + Alpine.js + htmx Ups & Downs - Karen Tracey
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/HRRDK9/
@@ -78,7 +78,7 @@ DESCRIPTION:Django powers some of the world’s leading websites\, offering
  s\, weighing compromises and strategizing for success. Whether you’re sc
  aling your first project or optimizing an enterprise-level system\, this s
  ession will arm you with the knowledge to tackle these challenges head-on.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Django schema migrations and deployments minus the misery - Antonis
   Kalipetis
@@ -100,7 +100,7 @@ DESCRIPTION:Join me in a detailed exploration as we navigate the complexiti
  real-time notifications\, the session will encompass a spectrum of approac
  hes – from comprehensive payload delivery to streamlined references. Thi
  s will be achieved without the need for extensive code rewriting.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Django 5.0: Elevating Experiences with Server-Sent Events – A Jou
  rney from Polling to Real-Time Vibes - melhin
@@ -114,7 +114,7 @@ DESCRIPTION:The last couple of years seem to have changed everything. From
  "API First" we've gone to "API Maybe". This is the story of bootstrapping 
  a new application in these latter days\, the lessons we've learnt\, and wh
  at the future might bring.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:API Maybe: Bootstrapping a Web Application circa 2024 - Carlton Gib
  son
@@ -129,7 +129,7 @@ DESCRIPTION:Use of regular expressions for searching and parsing text is ve
  t to be very slow on specially-crafted inputs\, and if such inputs can be 
  provided by users\, that is called a REDoS vulnerability. This talk is abo
  ut the causes of such slowness\, possible fixes and prevention.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Careful what you search for! - or\, how to make a computation 20\,0
  00 times faster - Shai Berger
@@ -141,7 +141,7 @@ DTSTART;TZID=CET:20240605T141000
 DTEND;TZID=CET:20240605T150000
 DESCRIPTION:Master GraphQL with Strawberry & Django! Dive into efficient AP
  I design\, solve the N+1 issue\, and optimize with ease. #GraphQLTalk
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Building high-performance\, type-safe GraphQL APIs with Strawberry 
  and Django - Thiago Bellini Ribeiro
@@ -156,7 +156,7 @@ DESCRIPTION:In this talk\, we'll cover:\n\n1. How carbon emissions result f
  . How they are measured and estimated\, and common tools used to do so\, e
  specially for pythonistas\n3. Why Django is well placed to be the greenest
   framework out there\, with examples a leading django project
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Greening Digital With Django - Chris Adams
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/QP39VQ/
@@ -170,7 +170,7 @@ DESCRIPTION:I realise that many people who are ready and competent to make
  l they need to get them over that first bump is a bit of extra confidence\
  , and the blessing of someone who seems to have some authority.\n\nThat's 
  what I want to give\, in a short and practical workshop.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:The confidence and blessing to make Django documentation improvemen
  ts - Daniele Procida
@@ -190,7 +190,7 @@ DESCRIPTION:Imagine a world where you work on your own terms. Where you are
  y and a team of seven. We'll cover several practical tips including how to
   approach building a side project while working a full time job\, marketin
  g & distribution your project\, how to pick what to work on\, and more.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:How to monetize your side project for fun & profit - Wilhelm Klopp
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/QQGHXX/
@@ -204,7 +204,7 @@ DESCRIPTION:Thinking about non-English users is not the first thing that co
  ll be surprised by how simple considerations can highly affect non-English
   users' experiences. This talk is about UI choices and localization for Ar
  abic users (and other right-to-left languages).
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Django For Half A Billion People - Moe
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/PTVDBL/
@@ -215,7 +215,7 @@ DTSTART;TZID=CET:20240605T170000
 DTEND;TZID=CET:20240605T173000
 DESCRIPTION:The questions children asked me on the topic of privacy on the 
  web
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:How we can build web applications that respect the user’s privacy
   - Hanna Kollo
@@ -226,7 +226,7 @@ UID:pretalx-djangocon-europe-2024-XQFNCU@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240605T173500
 DTEND;TZID=CET:20240605T182000
 DESCRIPTION:Lightning Talks
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Lightning Talks - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/XQFNCU/
@@ -236,7 +236,7 @@ UID:pretalx-djangocon-europe-2024-LLCEKS@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240606T090000
 DTEND;TZID=CET:20240606T091500
 DESCRIPTION:Welcome 2 Day
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Welcome 2 Day - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/LLCEKS/
@@ -249,7 +249,7 @@ DESCRIPTION:Beyond the excitement about the new generation of LLMs\, AI is
  just an\necosystem inside the wider tech-biome. We are going to revisit th
  e\nfundamentals to examine sensible AI projects and systems that can healt
  hily\nbe integrated into the wider tech world.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:AI\, away from the hype - Meritxell Sardà Ventosa
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/LAFKT7/
@@ -264,7 +264,7 @@ DESCRIPTION:This presentation will explore the design\, development\, and d
  ity and scalability power robust and customizable LIMS platforms that stre
  amline workflows\, enhance data management and facilitate collaboration in
   the rapidly evolving genomics landscape.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Building a Django-Powered Laboratory Information Management Systems
   (LIMS) for the Genomics Era - Isaiah Olatunbosun
@@ -276,7 +276,7 @@ DTSTART;TZID=CET:20240606T112000
 DTEND;TZID=CET:20240606T115000
 DESCRIPTION:How can hundreds of engineers collaborate on the same codebase 
  without chaos and build a successful business?
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Layered Django project structure for large-scale collaboration - Ç
  ağıl Uluşahin Sönmez
@@ -290,7 +290,7 @@ DESCRIPTION:Companies crave LLM integrations. Have you built one in Django?
   \n\nThis workshop provides a step-by-step guide on how to let LLMs take c
  ontrol of your Django application\, both on the server-side and the client
  -side.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Functional LLM Chatbots - HTMX\, Function Calling & LLama 3 - Chris
  tian Tanul
@@ -302,7 +302,7 @@ DTSTART;TZID=CET:20240606T115500
 DTEND;TZID=CET:20240606T122500
 DESCRIPTION:Whilst Django is a web framework\, it doesn't have a good first
  -party story for background workers\, right now anyway...
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Empowering Django with Background Workers - Jake Howard
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/VDYCVB/
@@ -320,7 +320,7 @@ DESCRIPTION:We're programmers\, and we're full of *intention*\, programming
  . I think that by looking at other arts and disciplines we can discover so
  mething new that we can bring to programming\, to enrich it and make it de
  eper and more fulfilling - and possibly even better.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:The attentive programmer - Daniele Procida
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/JX9H3D/
@@ -331,7 +331,7 @@ DTSTART;TZID=CET:20240606T140000
 DTEND;TZID=CET:20240606T143000
 DESCRIPTION:Wondering how to blend sync and async frameworks together in Py
  thon? Join me on a journey where Django meets FastAPI.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Combining Django ORM & FastAPI in a Single App - Mia Bajić
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/NGXABE/
@@ -342,7 +342,7 @@ DTSTART;TZID=CET:20240606T140000
 DTEND;TZID=CET:20240606T145000
 DESCRIPTION:Exploring the role of Django Software Foundation\, and how Djan
  go governance works.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Diving into the DSF Rhythm: A session on Django Governance - Çağ
  ıl Uluşahin Sönmez\, Sarah Abderemane\, Kátia Nakamura\, Thibaud Colas
@@ -358,7 +358,7 @@ DESCRIPTION:Pair programming is used every day at our company\, Caktus\, to
  f as a teaching tool\, which it is\, we believe regular pair programming a
  lso helps establish a cultural standard within engineering organizations t
  hat breaks down silos and maximizes the amount of work not done.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Pair Programming after the Pandemic and Beyond - Keanya Phelps\, To
  bias McNulty
@@ -374,7 +374,7 @@ DESCRIPTION:VS Code is the most popular editor for Pythonistas. I'll teach
  s build extension packs and profiles to create team alignment\, onboard an
  d pair program\, and why contractors swear by VS Code's flexibility when j
  umping from one project to the next.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Supercharging your Python Development Environment with VS Code and 
  Dev Containers - Dawn Michelle Wages
@@ -389,7 +389,7 @@ DESCRIPTION:If you had told me a year ago that today I’d be actively cont
  ! As a newbie Django core contributor\, I’ve been reflecting on my contr
  ibuting journey\, and how I got here in the first place. This talk is my s
  tep-by-step guide to becoming a Django core contributor.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:My step-by-step guide to becoming a Django core contributor - Elian
  a Rosselli
@@ -402,7 +402,7 @@ DTEND;TZID=CET:20240606T161500
 DESCRIPTION:ProBo: 1 Django App\, 4 admin sites\, 14 user groups\, 240.000+
   users as admin staff. \nMany say you shouldn't\, we did it by heavily ext
  ending the admin and lastly integrated HTMX.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:ProBo: 240.000+ Django Admin Staff Users in one SaaS (What you are 
  not supposed to do\, we did it!) - Erik Guldager Laustsen
@@ -417,7 +417,7 @@ DESCRIPTION:Ever heard of the curb cut effect? It’s the idea that accessi
  lly intended. Let’s bring it to Django! We’ll look at specific accessi
  bility improvements for the Django admin\, which are guaranteed hits with 
  everyone from beginners to power users.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Ramping up the Django admin - Tom Carrick
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/YGMPZW/
@@ -427,7 +427,7 @@ UID:pretalx-djangocon-europe-2024-DWWRWX@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240606T171500
 DTEND;TZID=CET:20240606T180000
 DESCRIPTION:Lightning Talks
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Lightning Talks - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/DWWRWX/
@@ -437,7 +437,7 @@ UID:pretalx-djangocon-europe-2024-Z3YH9H@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240607T090000
 DTEND;TZID=CET:20240607T091500
 DESCRIPTION:Welcome 3 Day
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Welcome 3 Day - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/Z3YH9H/
@@ -457,7 +457,7 @@ DESCRIPTION:Most people don't dream of being a database administrator when
  per\, can navigate this new reality\, and what you actually need to know a
  bout databases.\n\nWho knows - maybe\, along the way\, I can even convince
   you to love databases just a little bit!
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:When I Grow up I Want to be a Database Administrator (said no one e
  ver) - Karen Jex
@@ -471,7 +471,7 @@ DESCRIPTION:SQLite is a capable database that can run production Django app
  s efficiently under the right conditions. In this talk\, we will explore t
  he strengths and weaknesses of SQLite to understand if it's a good fit for
   your production workload.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Django\, SQLite\, and Production - Anže
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/EGHBKP/
@@ -485,7 +485,7 @@ DESCRIPTION:Explore the transformative approach to CRUD operations in Djang
  nt and testing. This talk unveils a paradigm shift towards maintainable\, 
  efficient codebases ready for production-grade challenges without compromi
  ses.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Modernizing CRUD Operations in Django with a Declarative Interface 
  using Django Ninja CRUD - Hicham Bakri
@@ -498,7 +498,7 @@ DTEND;TZID=CET:20240607T121500
 DESCRIPTION:Improve your codebase and developer experience by using the nov
  el class-based emails from “django-pony-express” – shipped with a te
  st-suite – to finally have a DRY email setup and save the day!
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Tying up a loose end - How class-based emails will save your day - 
  Ronny Vedrilla
@@ -517,7 +517,7 @@ DESCRIPTION:In this session attendees will learn the basics of how carbon e
  rom digital services will be necessary from 2025 onwards\, so we’ll end 
  with some pointers on how to tell if the law might apply to your organisat
  ion\, and where to go to learn more.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Greening Digital - how to set up your django app with green coding 
  metrics in CI - Chris Adams
@@ -531,7 +531,7 @@ DESCRIPTION:Some love it\, some hate it but Django has a whole second docum
  entation site called CCBV. No matter what team you're in\, such documentat
  ion interface is very useful but... what if we could document whole Django
   projects that way?
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Django Classy All The Things!!! - Emma Delescolle
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/GYMVHC/
@@ -543,7 +543,7 @@ DTEND;TZID=CET:20240607T143000
 DESCRIPTION:Data-Oriented Design gives us principles for making fast\, hard
  ware-friendly software. This talk covers applications of those principles 
  in Django projects\, packgaes\, and even Django itself.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Data-Oriented Django Deux - Adam Johnson
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/FTQEBD/
@@ -557,7 +557,7 @@ DESCRIPTION:Do you want to build a personal site with Django? Give a go to
  ll give you a good mixture of blogging functionality out of the box. We’
  ll also showcase that there’s plenty of room to customize your models\, 
  views\, templates\, and everything else Django developers expect.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Blogging with Django: get started with Wagtail - Thibaud Colas
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/PNWU9L/
@@ -570,7 +570,7 @@ DESCRIPTION:Dive into the world of scalable Python testing with Django! Lea
  rn how to create robust tests\, leverage Faker for realistic data\, and ma
  ster Pytest for streamlined testing. Elevate your code quality and reliabi
  lity! #Python #Django #Testing
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Developing Scalable Tests in Python with Django - Abraão Állysson
   dos Santos Honório
@@ -589,7 +589,7 @@ DESCRIPTION:Accessibility is often thought of as a responsibility of fronte
  TAG. I will also briefly discuss about different aspects of the community 
  that also need us to be more attentive to accessibility: conferences\, mee
  tups\, online spaces\, documentation\, contributor tools\, and more
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Workshop
 SUMMARY:Accessibility for the Django Community - Saptak S
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/LBTVBN/
@@ -601,7 +601,7 @@ DTEND;TZID=CET:20240607T154000
 DESCRIPTION:Once your application accumulates more data\, you will inevitab
  ly run into performance issues that you are unable to reproduce on your de
  velopment machine. Let's look at strategies on solving these
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Fast on my machine: How to debug slow requests in production - Raph
  ael Michel
@@ -614,7 +614,7 @@ DTEND;TZID=CET:20240607T164000
 DESCRIPTION:Grab your SCUBA gear - it's time for a deep dive!! Building fro
  m the ground up\, we'll re-implement Django's URL routing machinery and le
  arn about best practices\, bugs\, and URL design along the way.
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Navigating the maze of Django's URL routing: a deep dive - Timothy 
  McCurrach
@@ -625,7 +625,7 @@ UID:pretalx-djangocon-europe-2024-MBUHHU@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240607T164500
 DTEND;TZID=CET:20240607T173000
 DESCRIPTION:Lightning Talks
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Lightning Talks - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/MBUHHU/
@@ -635,7 +635,7 @@ UID:pretalx-djangocon-europe-2024-YZJEAF@pretalx.evolutio.pt
 DTSTART;TZID=CET:20240607T173000
 DTEND;TZID=CET:20240607T174500
 DESCRIPTION:Closing Session
-DTSTAMP:20240730T104230Z
+DTSTAMP:20240730T112934Z
 LOCATION:Auditorium
 SUMMARY:Closing Session - 
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/YZJEAF/

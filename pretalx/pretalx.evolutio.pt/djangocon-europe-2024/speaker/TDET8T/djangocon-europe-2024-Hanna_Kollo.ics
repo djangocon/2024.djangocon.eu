@@ -24,7 +24,7 @@ DTSTART;TZID=CET:20240605T170000
 DTEND;TZID=CET:20240605T173000
 DESCRIPTION:The questions children asked me on the topic of privacy on the 
  web
-DTSTAMP:20240730T104623Z
+DTSTAMP:20240730T114306Z
 LOCATION:Auditorium
 SUMMARY:How we can build web applications that respect the user’s privacy
   - Hanna Kollo

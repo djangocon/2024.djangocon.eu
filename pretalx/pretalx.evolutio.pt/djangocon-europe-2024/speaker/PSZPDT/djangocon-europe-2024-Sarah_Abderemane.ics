@@ -24,7 +24,7 @@ DTSTART;TZID=CET:20240606T140000
 DTEND;TZID=CET:20240606T145000
 DESCRIPTION:Exploring the role of Django Software Foundation\, and how Djan
  go governance works.
-DTSTAMP:20240730T104751Z
+DTSTAMP:20240730T115136Z
 LOCATION:Workshop
 SUMMARY:Diving into the DSF Rhythm: A session on Django Governance - Thibau
  d Colas\, Çağıl Uluşahin Sönmez\, Sarah Abderemane\, Kátia Nakamura

@@ -26,7 +26,7 @@ DESCRIPTION:Companies crave LLM integrations. Have you built one in Django?
   \n\nThis workshop provides a step-by-step guide on how to let LLMs take c
  ontrol of your Django application\, both on the server-side and the client
  -side.
-DTSTAMP:20240730T105338Z
+DTSTAMP:20240730T120558Z
 LOCATION:Workshop
 SUMMARY:Functional LLM Chatbots - HTMX\, Function Calling & LLama 3 - Chris
  tian Tanul

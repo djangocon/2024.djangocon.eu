@@ -25,7 +25,7 @@ DTEND;TZID=CET:20240607T154000
 DESCRIPTION:Once your application accumulates more data\, you will inevitab
  ly run into performance issues that you are unable to reproduce on your de
  velopment machine. Let's look at strategies on solving these
-DTSTAMP:20240730T104715Z
+DTSTAMP:20240730T115015Z
 LOCATION:Auditorium
 SUMMARY:Fast on my machine: How to debug slow requests in production - Raph
  ael Michel

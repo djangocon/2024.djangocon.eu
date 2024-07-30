@@ -27,7 +27,7 @@ DESCRIPTION:Explore the transformative approach to CRUD operations in Djang
  nt and testing. This talk unveils a paradigm shift towards maintainable\, 
  efficient codebases ready for production-grade challenges without compromi
  ses.
-DTSTAMP:20240730T105404Z
+DTSTAMP:20240730T121121Z
 LOCATION:Auditorium
 SUMMARY:Modernizing CRUD Operations in Django with a Declarative Interface 
  using Django Ninja CRUD - Hicham Bakri

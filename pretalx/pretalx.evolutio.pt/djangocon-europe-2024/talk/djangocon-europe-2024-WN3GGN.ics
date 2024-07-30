@@ -24,7 +24,7 @@ DTSTART;TZID=CET:20240605T141000
 DTEND;TZID=CET:20240605T150000
 DESCRIPTION:Master GraphQL with Strawberry & Django! Dive into efficient AP
  I design\, solve the N+1 issue\, and optimize with ease. #GraphQLTalk
-DTSTAMP:20240730T105433Z
+DTSTAMP:20240730T122213Z
 LOCATION:Workshop
 SUMMARY:Building high-performance\, type-safe GraphQL APIs with Strawberry 
  and Django - Thiago Bellini Ribeiro

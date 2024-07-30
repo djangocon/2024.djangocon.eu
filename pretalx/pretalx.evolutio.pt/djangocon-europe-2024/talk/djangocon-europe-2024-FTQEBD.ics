@@ -25,7 +25,7 @@ DTEND;TZID=CET:20240607T143000
 DESCRIPTION:Data-Oriented Design gives us principles for making fast\, hard
  ware-friendly software. This talk covers applications of those principles 
  in Django projects\, packgaes\, and even Django itself.
-DTSTAMP:20240730T105330Z
+DTSTAMP:20240730T120331Z
 LOCATION:Auditorium
 SUMMARY:Data-Oriented Django Deux - Adam Johnson
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/FTQEBD/

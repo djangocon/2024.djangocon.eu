@@ -26,7 +26,7 @@ DESCRIPTION:SQLite is a capable database that can run production Django app
  s efficiently under the right conditions. In this talk\, we will explore t
  he strengths and weaknesses of SQLite to understand if it's a good fit for
   your production workload.
-DTSTAMP:20240730T104601Z
+DTSTAMP:20240730T113303Z
 LOCATION:Auditorium
 SUMMARY:Django\, SQLite\, and Production - Anže
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/EGHBKP/

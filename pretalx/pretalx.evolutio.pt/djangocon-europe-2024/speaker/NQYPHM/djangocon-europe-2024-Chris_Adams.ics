@@ -27,7 +27,7 @@ DESCRIPTION:In this talk\, we'll cover:\n\n1. How carbon emissions result f
  . How they are measured and estimated\, and common tools used to do so\, e
  specially for pythonistas\n3. Why Django is well placed to be the greenest
   framework out there\, with examples a leading django project
-DTSTAMP:20240730T104611Z
+DTSTAMP:20240730T113857Z
 LOCATION:Auditorium
 SUMMARY:Greening Digital With Django - Chris Adams
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/QP39VQ/
@@ -45,7 +45,7 @@ DESCRIPTION:In this session attendees will learn the basics of how carbon e
  rom digital services will be necessary from 2025 onwards\, so we’ll end 
  with some pointers on how to tell if the law might apply to your organisat
  ion\, and where to go to learn more.
-DTSTAMP:20240730T104611Z
+DTSTAMP:20240730T113857Z
 LOCATION:Workshop
 SUMMARY:Greening Digital - how to set up your django app with green coding 
  metrics in CI - Chris Adams

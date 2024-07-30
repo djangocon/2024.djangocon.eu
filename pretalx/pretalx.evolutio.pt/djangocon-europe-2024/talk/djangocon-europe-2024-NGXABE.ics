@@ -24,7 +24,7 @@ DTSTART;TZID=CET:20240606T140000
 DTEND;TZID=CET:20240606T143000
 DESCRIPTION:Wondering how to blend sync and async frameworks together in Py
  thon? Join me on a journey where Django meets FastAPI.
-DTSTAMP:20240730T105421Z
+DTSTAMP:20240730T121743Z
 LOCATION:Auditorium
 SUMMARY:Combining Django ORM & FastAPI in a Single App - Mia Bajić
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/NGXABE/

@@ -25,7 +25,7 @@ DTEND;TZID=CET:20240607T164000
 DESCRIPTION:Grab your SCUBA gear - it's time for a deep dive!! Building fro
  m the ground up\, we'll re-implement Django's URL routing machinery and le
  arn about best practices\, bugs\, and URL design along the way.
-DTSTAMP:20240730T105437Z
+DTSTAMP:20240730T122338Z
 LOCATION:Auditorium
 SUMMARY:Navigating the maze of Django's URL routing: a deep dive - Timothy 
  McCurrach

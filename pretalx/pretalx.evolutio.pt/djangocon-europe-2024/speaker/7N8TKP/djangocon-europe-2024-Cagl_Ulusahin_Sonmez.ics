@@ -24,7 +24,7 @@ DTSTART;TZID=CET:20240606T112000
 DTEND;TZID=CET:20240606T115000
 DESCRIPTION:How can hundreds of engineers collaborate on the same codebase 
  without chaos and build a successful business?
-DTSTAMP:20240730T104811Z
+DTSTAMP:20240730T115624Z
 LOCATION:Auditorium
 SUMMARY:Layered Django project structure for large-scale collaboration - Ç
  ağıl Uluşahin Sönmez
@@ -36,7 +36,7 @@ DTSTART;TZID=CET:20240606T140000
 DTEND;TZID=CET:20240606T145000
 DESCRIPTION:Exploring the role of Django Software Foundation\, and how Djan
  go governance works.
-DTSTAMP:20240730T104811Z
+DTSTAMP:20240730T115624Z
 LOCATION:Workshop
 SUMMARY:Diving into the DSF Rhythm: A session on Django Governance - Thibau
  d Colas\, Çağıl Uluşahin Sönmez\, Sarah Abderemane\, Kátia Nakamura

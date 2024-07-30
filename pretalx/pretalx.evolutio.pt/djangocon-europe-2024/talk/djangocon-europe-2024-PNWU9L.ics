@@ -27,7 +27,7 @@ DESCRIPTION:Do you want to build a personal site with Django? Give a go to
  ll give you a good mixture of blogging functionality out of the box. We’
  ll also showcase that there’s plenty of room to customize your models\, 
  views\, templates\, and everything else Django developers expect.
-DTSTAMP:20240730T105435Z
+DTSTAMP:20240730T122315Z
 LOCATION:Workshop
 SUMMARY:Blogging with Django: get started with Wagtail - Thibaud Colas
 URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/PNWU9L/

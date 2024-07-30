@@ -25,7 +25,7 @@ DTEND;TZID=CET:20240607T121500
 DESCRIPTION:Improve your codebase and developer experience by using the nov
  el class-based emails from “django-pony-express” – shipped with a te
  st-suite – to finally have a DRY email setup and save the day!
-DTSTAMP:20240730T104717Z
+DTSTAMP:20240730T115029Z
 LOCATION:Auditorium
 SUMMARY:Tying up a loose end - How class-based emails will save your day - 
  Ronny Vedrilla
