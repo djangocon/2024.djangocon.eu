@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//EGHBKP
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-EGHBKP@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240607T101500
+DTEND;TZID=CET:20240607T104500
+DESCRIPTION:SQLite is a capable database that can run production Django app
+ s efficiently under the right conditions. In this talk\, we will explore t
+ he strengths and weaknesses of SQLite to understand if it's a good fit for
+  your production workload.
+DTSTAMP:20240730T144806Z
+LOCATION:Auditorium
+SUMMARY:Django\, SQLite\, and Production - Anže
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/EGHBKP/
+END:VEVENT
+END:VCALENDAR

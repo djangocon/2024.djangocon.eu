@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//ZP9RWD
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-ZP9RWD@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240607T121500
+DTEND;TZID=CET:20240607T130500
+DESCRIPTION:In this session attendees will learn the basics of how carbon e
+ missions from digital services are currently measured\, what tooling exist
+ s to automate this measurement\, and how this can be integrated into conti
+ nuous integration pipelines using open source tooling\, including a worked
+  example of a set up for a real-world open source Django project.\n\nRecen
+ t changes in the law will mean that for some firms\, reporting emissions f
+ rom digital services will be necessary from 2025 onwards\, so we’ll end 
+ with some pointers on how to tell if the law might apply to your organisat
+ ion\, and where to go to learn more.
+DTSTAMP:20240730T144602Z
+LOCATION:Workshop
+SUMMARY:Greening Digital - how to set up your django app with green coding 
+ metrics in CI - Chris Adams
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/ZP9RWD/
+END:VEVENT
+END:VCALENDAR

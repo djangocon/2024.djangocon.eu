@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//3UZAE7
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-3UZAE7@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240606T151000
+DTEND;TZID=CET:20240606T160000
+DESCRIPTION:VS Code is the most popular editor for Pythonistas. I'll teach 
+ you how to tweak your VS Code environment to support your Python and Djang
+ o workflow. At the end of this workshop you'll understand while large team
+ s build extension packs and profiles to create team alignment\, onboard an
+ d pair program\, and why contractors swear by VS Code's flexibility when j
+ umping from one project to the next.
+DTSTAMP:20240730T144754Z
+LOCATION:Workshop
+SUMMARY:Supercharging your Python Development Environment with VS Code and 
+ Dev Containers - Dawn Michelle Wages
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/3UZAE7/
+END:VEVENT
+END:VCALENDAR

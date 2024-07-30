@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//QAXZWH
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-GKUBFK@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240606T143000
+DTEND;TZID=CET:20240606T150000
+DESCRIPTION:Pair programming is used every day at our company\, Caktus\, to
+  provide new learning opportunities for teammates\, unblock developers\, a
+ nd maximize productivity even among our most senior staff. Often thought o
+ f as a teaching tool\, which it is\, we believe regular pair programming a
+ lso helps establish a cultural standard within engineering organizations t
+ hat breaks down silos and maximizes the amount of work not done.
+DTSTAMP:20240730T144510Z
+LOCATION:Auditorium
+SUMMARY:Pair Programming after the Pandemic and Beyond - Tobias McNulty\, K
+ eanya Phelps
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/GKUBFK/
+END:VEVENT
+END:VCALENDAR

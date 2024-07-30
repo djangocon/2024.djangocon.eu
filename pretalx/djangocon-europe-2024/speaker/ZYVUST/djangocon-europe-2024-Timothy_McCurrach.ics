@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//ZYVUST
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-GPAVGH@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240607T161000
+DTEND;TZID=CET:20240607T164000
+DESCRIPTION:Grab your SCUBA gear - it's time for a deep dive!! Building fro
+ m the ground up\, we'll re-implement Django's URL routing machinery and le
+ arn about best practices\, bugs\, and URL design along the way.
+DTSTAMP:20240730T144508Z
+LOCATION:Auditorium
+SUMMARY:Navigating the maze of Django's URL routing: a deep dive - Timothy 
+ McCurrach
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/GPAVGH/
+END:VEVENT
+END:VCALENDAR
