@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//8VSAP9
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-ZGBQ9K@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240606T112000
+DTEND;TZID=CET:20240606T125000
+DESCRIPTION:Companies crave LLM integrations. Have you built one in Django?
+  \n\nThis workshop provides a step-by-step guide on how to let LLMs take c
+ ontrol of your Django application\, both on the server-side and the client
+ -side.
+DTSTAMP:20240730T104613Z
+LOCATION:Workshop
+SUMMARY:Functional LLM Chatbots - HTMX\, Function Calling & LLama 3 - Chris
+ tian Tanul
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/ZGBQ9K/
+END:VEVENT
+END:VCALENDAR

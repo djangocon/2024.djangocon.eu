@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//RR3LPM
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-QGLCYX@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240607T151000
+DTEND;TZID=CET:20240607T154000
+DESCRIPTION:Once your application accumulates more data\, you will inevitab
+ ly run into performance issues that you are unable to reproduce on your de
+ velopment machine. Let's look at strategies on solving these
+DTSTAMP:20240730T104715Z
+LOCATION:Auditorium
+SUMMARY:Fast on my machine: How to debug slow requests in production - Raph
+ ael Michel
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/QGLCYX/
+END:VEVENT
+END:VCALENDAR

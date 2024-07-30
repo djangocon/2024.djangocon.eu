@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//A8TUFL
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-A8TUFL@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240605T152000
+DTEND;TZID=CET:20240605T161000
+DESCRIPTION:I realise that many people who are ready and competent to make 
+ useful\, welcome improvements to Django's documentation hesitate. Often al
+ l they need to get them over that first bump is a bit of extra confidence\
+ , and the blessing of someone who seems to have some authority.\n\nThat's 
+ what I want to give\, in a short and practical workshop.
+DTSTAMP:20240730T105340Z
+LOCATION:Workshop
+SUMMARY:The confidence and blessing to make Django documentation improvemen
+ ts - Daniele Procida
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/A8TUFL/
+END:VEVENT
+END:VCALENDAR

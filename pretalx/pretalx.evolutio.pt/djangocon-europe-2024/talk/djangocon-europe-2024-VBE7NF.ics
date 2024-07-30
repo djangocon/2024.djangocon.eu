@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//VBE7NF
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-VBE7NF@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240605T100000
+DTEND;TZID=CET:20240605T105500
+DESCRIPTION:On the 21st of July 2014\, the first day of EuroPython 2014 in 
+ Berlin\, the first-ever Django Girls workshop was held. This year\, Django
+  Girls turns 10! As we celebrate our 10th anniversary\, we invite you to j
+ oin us as we examine the transformational decade of Django Girls\, a globa
+ l movement dedicated to empowering women in technology and strengthening t
+ he Django community through fostering diversity.
+DTSTAMP:20240730T104326Z
+LOCATION:Auditorium
+SUMMARY:Django Girls: Decade in Review and Beyond - Anna Makarudze\, Rachel
+ l Calhoun
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/VBE7NF/
+END:VEVENT
+END:VCALENDAR

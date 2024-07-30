@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!-- Mirrored from 2024.djangocon.eu/home/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 11:11:41 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>
+    
+    DjangoCon Europe 2024
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="The official Django conference at Europe - run by the community for the community. June 5th-9th @ Vigo, Spain. Grab your ticket!">
+
+  <link rel="apple-touch-icon" sizes="180x180"
+        href="../static/images/favicons/apple-touch-icon.f26364f2cb98.png">
+  <link rel="icon" type="image/png" sizes="32x32"
+        href="../static/images/favicons/favicon-32x32.f8fb9583fc65.png">
+  <link rel="icon" type="image/png" sizes="16x16"
+        href="../static/images/favicons/favicon-16x16.1e4102f80c10.png">
+  <link rel="manifest" href="../static/images/favicons/site.053100cb84a5.webmanifest">
+
+  <script>if (!sessionStorage.getItem("_swa") && document.referrer.indexOf(location.protocol + "//" + location.host) !== 0) {
+      fetch("https://counter.dev/track?" + new URLSearchParams({
+          referrer: document.referrer,
+          screen: screen.width + "x" + screen.height,
+          user: "magamig",
+          utcoffset: "1"
+      }))
+  }
+  ;sessionStorage.setItem("_swa", "1");</script>
+
+  
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css"
+          integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w=="
+          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+    <!-- Your stuff: Third-party CSS libraries go here -->
+    <!-- This file stores project-specific CSS -->
+    <link href="../static/css/project.9de161ade796.css" rel="stylesheet">
+  
+  <!-- Le javascript
+  ================================================== -->
+  
+  
+    <!-- Bootstrap JS -->
+    <script defer
+            src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"
+            integrity="sha512-pax4MlgXjHEPfCwcJLQhigY7+N8rt6bVvWLFyUMuxShv170X53TRzGPmPkZmGBhk+jikR8WBM4yl7A9WMHHqvg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Your stuff: Third-party javascript libraries go here -->
+
+    <!-- place project specific Javascript in this file -->
+    <script defer src="../static/js/project.97c6c042e38a.js"></script>
+
+  
+
+</head>
+
+<body>
+<h1 style="display: none; margin: 0px; padding: 0px;">Home</h1>
+
+
+
+
+<div class="container-fluid header sticky-top">
+  <div class="container ">
+    <div class="row justify-content-between">
+
+      <!-- small screens -->
+      <div class="d-flex d-lg-none col align-self-center justify-content-center">
+        <div class="nav w-100 justify-content-between">
+          <button class="btn navbar-light mobile-navbar-btn" type="button"
+                  data-bs-toggle="collapse" data-bs-target="#collapseNavigation"
+                  aria-expanded="false" aria-controls="collapseNavigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <a class="nav-link header-logo w-50" href="index.html">
+                <img src="../static/images/logo/logo_coloured.dba0cd7fd712.png" alt="Logo" class="img-fluid">
+            </a>
+        </div>
+      </div>
+
+      <div class="collapse container-fluid text-center" id="collapseNavigation">
+        <ul class="nav nav-sm">
+          
+
+            
+            
+              <li><a class="nav-link btn btn-primary"
+                     data-bs-toggle="collapse" role="button" aria-expanded="false"
+                     aria-controls="collapseSubNavtalks"
+                     href="#collapseSubNavtalks"> Talks </a></li>
+              <div class="subnav collapse container-fluid text-center"
+                   id="collapseSubNavtalks">
+                <ul class="nav nav-sm">
+                  
+                    <li><a href="../talks/cfp/index.html"
+                           class="nav-link text-white"> Call for Participation </a></li>
+                  
+                    <li><a href="../talks/selection_process/index.html"
+                           class="nav-link text-white"> Selection Process </a></li>
+                  
+                    <li><a href="../talks/schedule/index.html"
+                           class="nav-link text-white"> Schedule </a></li>
+                  
+                </ul>
+              </div>
+            
+          
+
+            
+            
+              <li><a class="nav-link btn btn-primary"
+                     data-bs-toggle="collapse" role="button" aria-expanded="false"
+                     aria-controls="collapseSubNavinformation"
+                     href="#collapseSubNavinformation"> Information </a></li>
+              <div class="subnav collapse container-fluid text-center"
+                   id="collapseSubNavinformation">
+                <ul class="nav nav-sm">
+                  
+                    <li><a href="../information/vigo/index.html"
+                           class="nav-link text-white"> Vigo </a></li>
+                  
+                    <li><a href="../information/venue/index.html"
+                           class="nav-link text-white"> Venue </a></li>
+                  
+                    <li><a href="../information/grants/index.html"
+                           class="nav-link text-white"> Grants </a></li>
+                  
+                    <li><a href="../information/sprints/index.html"
+                           class="nav-link text-white"> Sprints </a></li>
+                  
+                    <li><a href="../information/django_girls/index.html"
+                           class="nav-link text-white"> Django Girls </a></li>
+                  
+                    <li><a href="../information/hospitality/index.html"
+                           class="nav-link text-white"> Hospitality </a></li>
+                  
+                    <li><a href="../information/social_events/index.html"
+                           class="nav-link text-white"> Social Events </a></li>
+                  
+                    <li><a href="../information/tshirts/index.html"
+                           class="nav-link text-white"> T-Shirts </a></li>
+                  
+                    <li><a href="../information/announcements/index.html"
+                           class="nav-link text-white"> Announcements </a></li>
+                  
+                </ul>
+              </div>
+            
+          
+
+            
+            
+              <li><a class="nav-link btn btn-primary"
+                     data-bs-toggle="collapse" role="button" aria-expanded="false"
+                     aria-controls="collapseSubNavsponsors-jobs"
+                     href="#collapseSubNavsponsors-jobs"> Sponsors &amp; Jobs </a></li>
+              <div class="subnav collapse container-fluid text-center"
+                   id="collapseSubNavsponsors-jobs">
+                <ul class="nav nav-sm">
+                  
+                    <li><a href="../sponsors/sponsors/index.html"
+                           class="nav-link text-white"> Sponsors </a></li>
+                  
+                    <li><a href="../sponsors/jobs/index.html"
+                           class="nav-link text-white"> Jobs </a></li>
+                  
+                    <li><a href="../sponsors/sponsorship/index.html"
+                           class="nav-link text-white"> Sponsorship </a></li>
+                  
+                </ul>
+              </div>
+            
+          
+
+            
+            
+              <li><a class="nav-link btn btn-primary"
+                     data-bs-toggle="collapse" role="button" aria-expanded="false"
+                     aria-controls="collapseSubNavconduct"
+                     href="#collapseSubNavconduct"> Conduct </a></li>
+              <div class="subnav collapse container-fluid text-center"
+                   id="collapseSubNavconduct">
+                <ul class="nav nav-sm">
+                  
+                    <li><a href="../conduct/code_of_conduct/index.html"
+                           class="nav-link text-white"> Code of Conduct </a></li>
+                  
+                    <li><a href="../conduct/response_guide/index.html"
+                           class="nav-link text-white"> Response Guide </a></li>
+                  
+                    <li><a href="../conduct/privacy_guide/index.html"
+                           class="nav-link text-white"> Privacy Guide </a></li>
+                  
+                </ul>
+              </div>
+            
+          
+
+            
+              <li><a href="https://pretix.evolutio.pt/evolutio/djceu2024/"
+                     class="nav-link btn btn-primary"> Tickets </a></li>
+            
+            
+          
+
+            
+            
+              <li><a class="nav-link btn btn-primary"
+                     data-bs-toggle="collapse" role="button" aria-expanded="false"
+                     aria-controls="collapseSubNavabout"
+                     href="#collapseSubNavabout"> About </a></li>
+              <div class="subnav collapse container-fluid text-center"
+                   id="collapseSubNavabout">
+                <ul class="nav nav-sm">
+                  
+                    <li><a href="../about/contact/index.html"
+                           class="nav-link text-white"> Contact </a></li>
+                  
+                    <li><a href="../about/credits/index.html"
+                           class="nav-link text-white"> Credits </a></li>
+                  
+                    <li><a href="../about/cfp_report/index.html"
+                           class="nav-link text-white"> Call for Proposals report </a></li>
+                  
+                </ul>
+              </div>
+            
+          
+        </ul>
+      </div>
+
+      <!-- big screens -->
+      <ul class="nav nav-pills d-none d-lg-flex col justify-content-between align-items-center">
+        <!-- inverted order due to flex:left -->
+        
+
+          
+          
+
+          
+
+          
+            <li class="nav-item nav-item-lg dropdown">
+              <a class="nav-link dropdown-toggle nav-link-lg"
+                 data-bs-toggle="dropdown" role="button"
+                 aria-expanded="false"> Talks </a>
+              <ul class="dropdown-menu">
+                
+                  <li><a class="dropdown-item"
+                         href="../talks/cfp/index.html"> Call for Participation </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../talks/selection_process/index.html"> Selection Process </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../talks/schedule/index.html"> Schedule </a></li>
+                
+              </ul>
+            </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+            <li class="nav-item nav-item-lg dropdown">
+              <a class="nav-link dropdown-toggle nav-link-lg"
+                 data-bs-toggle="dropdown" role="button"
+                 aria-expanded="false"> Information </a>
+              <ul class="dropdown-menu">
+                
+                  <li><a class="dropdown-item"
+                         href="../information/vigo/index.html"> Vigo </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/venue/index.html"> Venue </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/grants/index.html"> Grants </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/sprints/index.html"> Sprints </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/django_girls/index.html"> Django Girls </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/hospitality/index.html"> Hospitality </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/social_events/index.html"> Social Events </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/tshirts/index.html"> T-Shirts </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../information/announcements/index.html"> Announcements </a></li>
+                
+              </ul>
+            </li>
+          
+
+        
+
+          
+          
+
+          
+
+          
+            <li class="nav-item nav-item-lg dropdown">
+              <a class="nav-link dropdown-toggle nav-link-lg"
+                 data-bs-toggle="dropdown" role="button"
+                 aria-expanded="false"> Sponsors &amp; Jobs </a>
+              <ul class="dropdown-menu">
+                
+                  <li><a class="dropdown-item"
+                         href="../sponsors/sponsors/index.html"> Sponsors </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../sponsors/jobs/index.html"> Jobs </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../sponsors/sponsorship/index.html"> Sponsorship </a></li>
+                
+              </ul>
+            </li>
+          
+
+        
+
+          
+          
+            <li>
+              <div class="align-self-center justify-content-end header-logo-container">
+                <a class="nav-link header-logo" href="index.html">
+                  <img src="../static/images/logo/logo_coloured.dba0cd7fd712.png" alt="Logo"
+                       height="66rem">
+                </a>
+              </div>
+            </li>
+          
+
+          
+
+          
+            <li class="nav-item nav-item-lg dropdown">
+              <a class="nav-link dropdown-toggle nav-link-lg"
+                 data-bs-toggle="dropdown" role="button"
+                 aria-expanded="false"> Conduct </a>
+              <ul class="dropdown-menu">
+                
+                  <li><a class="dropdown-item"
+                         href="../conduct/code_of_conduct/index.html"> Code of Conduct </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../conduct/response_guide/index.html"> Response Guide </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../conduct/privacy_guide/index.html"> Privacy Guide </a></li>
+                
+              </ul>
+            </li>
+          
+
+        
+
+          
+          
+
+          
+            <li class="nav-item nav-item-lg">
+              <a class="nav-link nav-link-lg"
+                 href="https://pretix.evolutio.pt/evolutio/djceu2024/"> Tickets </a>
+            </li>
+          
+
+          
+
+        
+
+          
+          
+
+          
+
+          
+            <li class="nav-item nav-item-lg dropdown">
+              <a class="nav-link dropdown-toggle nav-link-lg"
+                 data-bs-toggle="dropdown" role="button"
+                 aria-expanded="false"> About </a>
+              <ul class="dropdown-menu">
+                
+                  <li><a class="dropdown-item"
+                         href="../about/contact/index.html"> Contact </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../about/credits/index.html"> Credits </a></li>
+                
+                  <li><a class="dropdown-item"
+                         href="../about/cfp_report/index.html"> Call for Proposals report </a></li>
+                
+              </ul>
+            </li>
+          
+
+        
+      </ul>
+
+      <div class="d-none d-lg-flex header-margin"></div>
+
+
+    </div>
+  </div>
+</div>
+
+
+<style>
+.innerBody {
+    background-color: rgba(242, 231, 220, 0.6);
+}
+</style>
+<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
+  <iframe frameborder="0" height="100%" width="100%" allow="autoplay"
+    src="https://youtube.com/embed/PGq7MZdhWCU?autoplay=1&amp;mute=1&amp;controls=0&amp;loop=1&amp;playlist=PGq7MZdhWCU">
+  </iframe>
+</div>
+
+<div class="innerBody">
+
+  
+
+
+
+<!-- script for pop starts -->
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-8f8c9b45-32fa-42fd-86de-57dac5995e26" data-elfsight-app-lazy></div>
+
+
+<!-- script for pop up ends -->
+<div class="container text-center">
+  <div id="dates_title"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script>
+  var typed = new Typed('#dates_title', {
+    strings: ["WE'RE BACK - JUNE 5TH-9TH"],
+    typeSpeed: 50,
+    showCursor: false
+
+  });
+</script>
+
+<div class="centered-logo text-center">
+  <div id="main_logo">
+    <img src="../static/images/logo/main_logo.b3feb7e798bc.png" alt="Djangocon 2024 logo" class="img-fluid px-4 px-lg-0">
+  </div>
+</div>
+
+<div class="row px-5 mainbutton">
+  <div class="container-button pt-5 px-3 d-flex justify-content-center">
+    <a href="../talks/schedule/index.html" class="mx-2">
+      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn" role="button">
+        View our Schedule <span class="pl-2">🔊</span>
+      </button>
+    </a>
+
+
+    <a href="https://pretix.evolutio.pt/evolutio/djceu2024/" class="mx-2">
+      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn" role="button">
+        Buy your Tickets <span class="pl-2">🎫</span>
+      </button>
+    </a>
+  </div>
+</div>
+
+
+
+
+<div class="slide_info-content my-4">
+  
+
+<div class="scrolling_text" style="font-size: 10;">
+  <div class="text">
+    <span style="color:#f79999;"> JOIN US FOR FIVE DAYS OF TALKS, SPRINTS AND TUTORIALS. </span>
+    <span style="color:#73d0ff;"> CFP is now open! <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/cfp">Submit your Talk/Workshop now</a></span>
+    <span style="color:#f2b950;"> Early Bird prices! Don't miss out on this offer and <a
+      href="https://pretix.evolutio.pt/evolutio/djceu2024/">grab your tickets</a></span>
+    <span style="color:lightgreen;"> <a href="../sponsors/sponsorship/index.html"> Become a Sponsor!</a> Gain valuable exposure for your brand</span>
+  </div>
+</div>
+ 
+</div>
+
+
+
+
+
+
+<div class="home_about-content my-4">
+  
+
+<div class="container">
+  <div class="container-fluid home-subheader">
+    <div class=" justify-content-center home-about">
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-12 custom-left-content text-left">
+          <p><span id ="about_title">RUN BY THE COMMUNITY FOR THE COMMUNITY</span></p>
+<p><br></p>
+<p>This is the 16th edition of the Conference and it is organized by a team made up of Django practitioners from all levels. We welcome people from all over the world.</p>
+<p>Our conference seeks to educate and develop new skills, best practices and ideas for the benefit of attendees, developers, speakers and everyone in our global Django Community, not least those watching the talks online.</p>
+<p><br></p>
+<!--
+<p><iframe id="vid" width="100%" height="315"x src="https://www.youtube.com/embed/4zgNG4-VDOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
+        </div>
+        <div class="col-12">
+          <div id="home-images-carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button class="indicator active" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="0" aria-current="true"
+                      aria-label="Slide 1"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="2" aria-label="Slide 3"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="3" aria-label="Slide 4"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="4" aria-label="Slide 5"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="5" aria-label="Slide 6"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="6" aria-label="Slide 7"></button>
+              <button class="indicator" type="button" data-bs-target="#home-images-carousel"
+                      data-bs-slide-to="7" aria-label="Slide 8"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="../static/images/home_carousel/hp-carousel-img-1.d9b9709448a8.jpg" class="d-block w-100" alt="DJCEU 2023 Breakroom">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-2.06a1a8b34002.jpg" class="d-block w-100" alt="DJCEU 2023 Talk">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-3.5186e469a8ee.jpg" class="d-block w-100" alt="DJCEU 2023 Party">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-4.68b20d44361d.jpg" class="d-block w-100" alt="DJCEU 2023 Group Picture">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-5.f3191feccbcf.jpg" class="d-block w-100" alt="DJCEU 2022 Party">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-6.098999c4f3f3.jpg" class="d-block w-100" alt="DJCEU 2022 Boat Trip">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-7.6fde0e813b2e.jpg" class="d-block w-100" alt="DJCEU 2022 Talk">
+              </div>
+              <div class="carousel-item">
+                <img src="../static/images/home_carousel/hp-carousel-img-8.a241caad152b.jpg" class="d-block w-100" alt="DJCEU 2022 Group Picture">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+</div>
+
+
+
+
+
+
+<div class="home_tickets-content my-4">
+  
+
+<div class="container">
+  <div class="title-container">
+    <img src="../static/images/other/tickets.ded64194af96.png" class="tickets_image"
+         alt="tickets">
+  </div>
+
+  <div>
+
+    <div class="image-container" id="ticket_containers">
+      <div id="tickets_menu" class="row h-100 g-4">
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button0">
+          <div class="button-overlay-header button0">
+            <span>Virtual</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button1">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€55</span>
+            </div>
+            <span class="ticket-description">If you wish to attend DjangoCon Europe from the comfort of your place.</span>
+            <div class="button-container">
+              <img src="../static/images/other/ticket-divider.020e39b318cc.png" alt=""
+                   class="ticket-divider">
+              <a href="https://pretix.evolutio.pt/evolutio/djceu2024/" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+          </div>
+        </div>
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button1">
+          <div class="button-overlay-header button1">
+            <span>Student</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button1">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€150</span>
+            </div>
+            <span class="ticket-description">If you are currently enrolled as a full-time student or if you are currently without regular income.</span>
+            <div class="button-container">
+              <img src="../static/images/other/ticket-divider.020e39b318cc.png" alt=""
+                   class="ticket-divider">
+              <a href="https://pretix.evolutio.pt/evolutio/djceu2024/" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+
+          </div>
+        </div>
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button2">
+          <div class="button-overlay-header button2">
+            <span>Individual</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button2">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€285</span>
+            </div>
+            <span class="ticket-description">If you are paying your ticket from your personal money and are not being reimbursed by your employer.</span>
+            <div class="button-container">
+              <img src="../static/images/other/ticket-divider.020e39b318cc.png" alt=""
+                   class="ticket-divider">
+              <a href="https://pretix.evolutio.pt/evolutio/djceu2024/" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+
+          </div>
+        </div>
+        <div class="button-overlay-container col-12 col-md-6 col-xl-3 button3">
+          <div class="button-overlay-header button3">
+            <span>Business</span>
+          </div>
+          <div class="button-overlay-body d-flex flex-column justify-content-between button3">
+            <div class="d-flex flex-column price-container">
+              <span class="small-top-text">from</span>
+              <span class="price-text">€385</span>
+            </div>
+            <span class="ticket-description">If your employer is paying for the ticket or reimbursing you for your conference expenses.</span>
+            <div class="button-container">
+              <img src="../static/images/other/ticket-divider.020e39b318cc.png" alt=""
+                   class="ticket-divider">
+              <a href="https://pretix.evolutio.pt/evolutio/djceu2024/" class="button">BUY YOUR TICKET NOW</a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+ 
+</div>
+
+
+
+
+
+<div class="home_dates-content my-4">
+  
+
+
+<div class="container">
+  <div class="title-container">
+    <img src="../static/images/other/important_dates.b7085568adad.svg" class="dates_logo img-fluid" alt="tickets">
+  </div>
+
+  <div class="d-flex flex-column align-items-start important-dates-container w-100">
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        December
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li class="text-decoration-line-through">
+          🎫 31st - Holidays Special Super Early Bird Deadline ✅
+        </li>
+      </ul>
+    </div>
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        January
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li class="text-decoration-line-through">
+          🎤 1st - Call For Participation Opening ✅
+        </li>
+        <li class="text-decoration-line-through">
+          🎫 1st - Early Bird Ticket Sales Opening ✅
+        </li>
+      </ul>
+    </div>
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        February
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li class="text-decoration-line-through">
+          🎤 29th - Call For Participation Deadline ✅
+        </li>
+      </ul>
+    </div>
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        March
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li class="text-decoration-line-through">
+          📝 1st - Content Review & Selection Kickoff ✅
+        </li>
+        <li class="text-decoration-line-through">
+          ✈️ 15th - Grants Applications Opening ✅
+        </li>
+      </ul>
+    </div>
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        April
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li class="text-decoration-line-through">
+          🎙 1st - Talks Publication ✅
+        </li>
+        <li class="text-decoration-line-through">
+          👶 1st - Childcare Applications Opening ✅
+        </li>
+        <li class="text-decoration-line-through">
+          🗓 15th - Schedule Publication ✅
+        </li>
+        <li class="text-decoration-line-through">
+          ✈️ 15th - Grants Applications Deadline ✅
+        </li>
+        <li class="text-decoration-line-through">
+          🎫 30th - Early Bird Ticket Sales Closes✅
+        </li>
+      </ul>
+    </div>
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        May
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li class="text-decoration-line-through">
+          👶 5th - Childcare Applications Deadline✅
+        </li>
+        <li class="text-decoration-line-through">
+          👕 10th - T-shirt Sales Deadline (for deliveries at the conference)✅
+        </li>
+      </ul>
+    </div>
+    <div class="month-container d-flex flex-column flex-lg-row justify-content-start w-100">
+      <span class="align-self-center align-self-lg-start text-uppercase w-25">
+        June
+      </span>
+      <ul class="important-dates-text w-100 mt-3 mt-lg-0">
+        <li>
+          🎪 5-7th - Main Conference, Workshops & Lightning Talks
+        </li>
+        <li>
+          💻 8-9th - Sprints
+        </li>
+        <li>
+          💻 8th - Django Girls
+        </li>
+      </ul>
+    </div>
+  </div>
+</div> 
+</div>
+
+
+
+
+
+
+
+<div class="home_speakers-content my-4">
+  
+
+<div class="col-12 swiper-wrapper">
+  
+  <div class="container">
+<img src="../static/images/other/speakers.png" class="speaker-logo img-fluid" alt="speakers" />
+    <div class="row">
+        <!-- First Speaker -->
+<div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="swiper-slide" onclick="window.open('../../pretalx.evolutio.pt/djangocon-europe-2024/speaker/BJM3EY/index.html','_blank')">
+                <img class='speaker' src="../../pretalx.evolutio.pt/media/anna_3.jpg" alt="Speaker 1">
+                <div class='speaker-name'>Anna Makarudze</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Django Girls: Decade in Review and Beyond </div>
+        <div style="display: flex; justify-content: center;">
+                <img src="../static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="../static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <!-- Second Speaker -->
+<div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="swiper-slide" onclick="window.open('../../pretalx.evolutio.pt/djangocon-europe-2024/speaker/3TG9VD/index.html','_blank')">
+                <img class='speaker' src="../../pretalx.evolutio.pt/media/avatars/Antonis_Kalipetis_Platform_D3mrWrg.png" alt="Speaker 1">
+                <div class='speaker-name'>Antonis Kalipetis</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Up(sun) and running with Django description:..</div>
+        <div style="display: flex; justify-content: center;">
+                <img src="../static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="../static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <!-- Third Speaker -->
+ <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="swiper-slide" onclick="window.open('../../pretalx.evolutio.pt/djangocon-europe-2024/speaker/DGGFQB/index.html','_blank')">
+                <img class='speaker' src="../../pretalx.evolutio.pt/media/avatars/12b7e40ed1ebd4846746004c77020183_91b8QTD.jpg" alt="Speaker 1">
+                <div class='speaker-name'>Anze</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Django, SQLite, and Production</div>
+        <div style="display: flex; justify-content: center;">
+                <img src="../static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="../static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <!-- Fourth Speaker -->
+ <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="swiper-slide" onclick="window.open('../../pretalx.evolutio.pt/djangocon-europe-2024/speaker/XWXU3M/index.html','_blank')">
+                <img class='speaker' src="../../pretalx.evolutio.pt/media/avatars/Screenshot_2024-01-26_130522-min_KwTGpat.png" alt="Speaker 1">
+                <div class='speaker-name'>Dawn Michelle Wages</div>
+                <div class='speaker-title'><span style="color:#863b35; font-weight:bold">Talk: </span>Supercharging your Python Dev Environment...</div>
+        <div style="display: flex; justify-content: center;">
+                <img src="../static/images/Icons/x.png" class="iconlogo img-fluid" alt="icons" />
+                <img src="../static/images/Icons/linkedin.png" class="iconlogo img-fluid" alt="icons" />
+            </div>
+            </div>
+        </div>
+        <div class="row px-5 mainbutton">
+  <div class="container-button pt-5 px-3 d-flex justify-content-center">
+    <a href="../../pretalx.evolutio.pt/djangocon-europe-2024/speaker/index.html" class="mx-2">
+      <button class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase home-btn" role="button">
+        ALL Speakers <span class="pl-2"></span>
+      </button>
+    </a>
+        <!-- More speakers can be added following the same pattern -->
+    </div>
+</div>
+  
+
+</div>
+
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    const swiper = new Swiper('.swiper', {
+      slidesPerView: "auto",
+      grabCursor: true,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  });
+
+
+</script> 
+</div>
+
+
+
+
+
+<div class="home_sponsors-content my-4">
+  
+<div class="container-fluid sponsors py-3">
+  <div class="container">
+    <div class="title-container">
+      <img src="../static/images/other/sponsors.4a97fce1695e.png" class="sponsors_image" alt="sponsors" />
+    </div>
+    <div class="sponsors_content">
+      <!-- Platinum sponsors -->
+      <h3 class="sponsor-category-title">Platinum</h3>
+      <!-- Platform Sh logo -->
+      <a href="https://www.platformsh.com/">
+        <img src="../static/images/sponsors/platformsh.97da40a4d780.png" class="sponsor large" alt="Platform SH Logo" />
+      </a>
+
+      <!-- Kraken logo -->
+      <a href="https://kraken.tech/">
+        <img src="../static/images/sponsors/kraken.102147bde276.svg" class="sponsor large" alt="Kraken Logo" />
+      </a>
+
+      <!-- end of platinumsponsors  -->
+      <hr class="sponsor-category-divider gold" />
+
+      <h3 class="sponsor-category-title">Gold</h3>
+      <!--Kolo logo -->
+      <a href="https://www.kolo.app/">
+        <img src="../static/images/sponsors/kolo.1d90fac405d9.svg" class="sponsor large" alt="Kolo Logo" />
+      </a>
+
+      <!-- Foxley logo -->
+      <a href="https://foxleytalent.com/">
+        <img src="../static/images/sponsors/foxley.57cc64eca0b5.png" class="sponsor large" alt="Foxley Talent Logo" />
+      </a>
+
+      <hr class="sponsor-category-divider gold" />
+
+      <h3 class="sponsor-category-title">Silver</h3>
+      <!-- Maykin logo -->
+      <a href="https://www.maykinmedia.nl/">
+        <img src="../static/images/sponsors/maykin_logo.26d634002f71.png" class="sponsor large" alt="Maykin Media Logo" />
+      </a>
+
+      <hr class="sponsor-category-divider gold" />
+
+      <!-- Bronze -->
+
+      <h3 class="sponsor-category-title">Bronze</h3>
+      <!-- Monit logo -->
+
+      <a href="https://monitdata.com/">
+        <img src="../static/images/sponsors/monit.1c50efcf78e6.png" class="sponsor large" alt="Monit Logo" /></a>
+
+      <!-- Ambient logo  -->
+
+      <a href="https://ambient.digital/">
+        <img src="../static/images/sponsors/ambient.05ee1278b244.svg" class="sponsor large" alt="Ambient Logo" />
+      </a>
+      <!-- AppSignal logo  -->
+      <a href="https://www.appsignal.com/">
+        <img src="../static/images/sponsors/signal.159f4f0e16cf.svg" class="sponsor large" alt="AppSignal Logo" />
+      </a>
+      <!-- No Tier start -->
+      <hr class="sponsor-category-divider gold" />
+      <h3 class="sponsor-category-title">Sponsor</h3>
+
+      <!-- Scout Monitoriong logo  -->
+      <a href="https://www.scoutapm.com/">
+        <img src="../static/images/sponsors/scout.e4e02fc62ea6.png" class="sponsor large" alt="Scout Monitoring  Logo" />
+      </a>
+
+      <!-- No Tier End -->
+
+      <hr class="sponsor-category-divider gold" />
+      <h3 class="sponsor-category-title">Grants</h3>
+      <!-- DSF Logo -->
+      <a href="https://www.djangoproject.com/foundation/">
+        <img src="../static/images/sponsors/dsf.1d528e2cb5fb.png" class="sponsor large" alt="DSF Logo" />
+      </a>
+      <!-- EPS Logo -->
+
+      <a href="https://www.europython-society.org/about/">
+        <img src="../static/images/sponsors/eps.e5ab4e31f54c.png" class="sponsor large" alt="EPS Logo" />
+      </a>
+
+      <!-- PSF LOGO -->
+      <a href="https://www.python.org/psf/">
+        <img src="../static/images/sponsors/psf.0345e6d426ce.png" class="sponsor large" alt="PSF Logo" />
+      </a>
+      <hr class="sponsor-category-divider gold" />
+      <h3 class="sponsor-category-title">Organizer</h3>
+      <!-- Evolutio logo -->
+      <a href="https://www.evolutio.pt/">
+        <img src="../static/images/sponsors/evolutio.b8a1911f9c24.png" class="sponsor large" alt="Evolutio Logo" />
+      </a>
+      <div class="become_sponsor">
+        <div class="sponsor-container">
+          <div class="left-side">
+            <h2 class="fw-bolder">Become a Sponsor</h2>
+            <p class="mb-0">
+              Gain valuable exposure for your brand and help us ensure the
+              success of DjangoCon Europe by becoming a sponsor or exhibitor!
+            </p>
+          </div>
+          <div class="right-side">
+            <p>
+              By tapping into this community, your brand can leverage value. We
+              deliver stock sponsorship packages and/or custom sponsorship
+              opportunities with high impact in terms of increased visibility
+              and lead generation, such as prime booth locations, speaking
+              opportunities, and branding exposure.
+            </p>
+            <a type="button" class="btn btn-primary btn-lg pycon-btn yellow-btn text-uppercase"
+              href="../sponsors/sponsorship/index.html" target="_blank">DISCOVER THE AVAILABLE SPONSORSHIP OPPORTUNITIES</a>
+          </div>
+        </div>
+        <!-- Become a mentor -->
+      </div>
+    </div>
+  </div>
+</div> 
+</div>
+
+
+
+
+
+
+<div class="home_news-content my-4">
+  
+<div class="container-fluid latest-news-page">
+  <div class="container">
+    <div class="latest_news_content">
+      <div class="news_item">
+        <div class="news-container">
+          <div class="left-side">
+            <div class="title-container">
+              <img src="../static/images/other/latest-news.b64b57dec079.png" class="news_logo img-fluid" alt="latest news" />
+            </div>
+            <p class="mb-0">
+              <a href="../sponsors/jobs/index.html" style="text-decoration: none; color: #005e83">
+                Exciting news!📰 Our sponsors for DjangoCon Europe 2024 are now hiring! This is a unique
+                opportunity to work with some of the leading companies in the industry. Don't miss out - explore these
+                opportunities now!🚀
+              </a>
+            </p>
+            <small class="published" style="color: black">Published: 21 May. 2024</small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> 
+</div>
+
+<br class="my-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> <!-- /container -->
+
+
+
+
+  
+
+
+
+
+
+<div class="container-fluid footer custom-footer">
+  <div class="container-footer">
+    <div class="d-flex flex-column flex-lg-row gap-4 justify-content-evenly align-items-center py-5">
+
+      <div class="footer-links">
+        <a class="nav-link" href="index.html">
+          <img src="../static/images/logo/logo_white.5c582ca80b79.png" alt="Logo">
+        </a>
+      </div>
+
+      <div class="d-flex gap-5">
+        
+          
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="https://twitter.com/DjangoConEurope/" target="_blank" rel="me">
+                <img src="../static/images/external_logo/logo_twitter.530bdb61c12d.svg" alt="twitter" height="33rem;">
+              </a>
+            </div>
+          
+        
+          
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="https://fosstodon.org/@djangoconeurope/" target="_blank" rel="me">
+                <img src="../static/images/external_logo/logo_fosstodon.27706d378bbc.svg" alt="fosstodon" height="33rem;">
+              </a>
+            </div>
+          
+        
+          
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="https://join.slack.com/t/djangoconeurope/shared_invite/zt-2k5nh67xv-MjbZzLZ100br1Hhb~aG1Jg" target="_blank" rel="me">
+                <img src="../static/images/external_logo/logo_slack.27be5c06bfb7.svg" alt="slack" height="33rem;">
+              </a>
+            </div>
+          
+        
+          
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="https://youtube.com/user/djangoconeurope/" target="_blank" rel="me">
+                <img src="../static/images/external_logo/logo_youtube.ff0d08897000.svg" alt="youtube" height="33rem;">
+              </a>
+            </div>
+          
+        
+          
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="https://linkedin.com/company/djangocon-europe/" target="_blank" rel="me">
+                <img src="../static/images/external_logo/logo_linkedin.12b0639eb25e.svg" alt="linkedin" height="33rem;">
+              </a>
+            </div>
+          
+        
+          
+            <div class="col-2 text-center footer-social-media-link">
+              <a class="nav-link" href="https://github.com/djangocon/2024.djangocon.eu/" target="_blank" rel="me">
+                <img src="../static/images/external_logo/logo_github.c9468edef9db.svg" alt="github" height="33rem;">
+              </a>
+            </div>
+          
+        
+      </div>
+
+      <div class="d-flex flex-column align-items-center djangocon-list">
+        <h4 class="footer-title">Looking for another DjangoCon?</h4>
+        <ul>
+          <li><a href="https://2023.djangocon.africa/">DjangoCon Africa</a></li>
+          <li><a href="https://2023.djangocon.com.au/">DjangoCon Australia</a></li>
+          <li><a href="https://djangocon.us/">DjangoCon US</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="row justify-content-center footer-end">
+    <div class="col row text-center align-self-center justify-content-center ">
+      <p class="col-12">© 2024 DjangoCon Europe </p>
+      <p class="col-12"><span class="d-none d-md-inline">·</span> developed in <a
+              href="https://djangoproject.com/">django</a> with ♥ by <a
+              href="https://evolutio.pt/">evolutio</a> <span class="d-none d-md-inline">·</span>
+      </p>
+      <p class="col-12"> help us improve on <a
+              href="https://github.com/djangocon/2024.djangocon.eu/">GitHub</a></p>
+    </div>
+  </div>
+</div>
+
+
+</body>
+
+<!-- Mirrored from 2024.djangocon.eu/home/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Jul 2024 11:11:41 GMT -->
+</html>

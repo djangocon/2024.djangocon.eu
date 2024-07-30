@@ -1,0 +1,1484 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+    <vcalendar>
+        <version>2.0</version>
+        <prodid>-//Pentabarf//Schedule//EN</prodid>
+        <x-wr-caldesc></x-wr-caldesc>
+        <x-wr-calname></x-wr-calname>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>FTJWJA@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-FTJWJA</pentabarf:event-slug>
+            <pentabarf:title>Welcome Session</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T093000</dtstart>
+            <dtend>20240605T100000</dtend>
+            <duration>0.03000</duration>
+            <summary>Welcome Session</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/FTJWJA/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>VBE7NF@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-VBE7NF</pentabarf:event-slug>
+            <pentabarf:title>Django Girls: Decade in Review and Beyond</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T100000</dtstart>
+            <dtend>20240605T105500</dtend>
+            <duration>0.05500</duration>
+            <summary>Django Girls: Decade in Review and Beyond</summary>
+            <description>On the 21st of July 2014, the first day of EuroPython 2014 in Berlin, the first-ever Django Girls workshop was held. This year, Django Girls turns 10! As we celebrate our 10th anniversary, we invite you to join us as we examine the transformational decade of Django Girls, a global movement dedicated to empowering women in technology and strengthening the Django community through fostering diversity. 
+
+In this talk, we will explore the milestones, achievements and impact Django Girls has made over the past ten years. We will also celebrate the incredible individuals who have embraced our goals and coding through our workshops. We will reflect on the profound changes witnessed in the world of tech by breaking through barriers and fostering a supportive community. We will, of course, unveil our exciting plans for the future, outline new initiatives to broaden our reach and enhance inclusivity and continue our mission to inspire more folks to fall in love with programming. 
+
+The structure of our talk will be as follows: 
+- The Origins
+- How it evolved over time
+- Challenges
+- Successes
+- Individual Success Stories
+- Going Forward
+- Call For Action
+
+We invite you to be a part of this retrospective analysis and to look ahead with us as we chart a course for even greater accomplishments in the coming years in our Django Girls: A Decade in Review and Beyond synopsis.
+
+Video: https://youtu.be/WA6TyBRM_PA</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Keynote</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/VBE7NF/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Anna Makarudze</attendee>
+            
+            <attendee>Rachell Calhoun</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>HRRDK9@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-HRRDK9</pentabarf:event-slug>
+            <pentabarf:title>Django + Alpine.js + htmx Ups &amp; Downs</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T113000</dtstart>
+            <dtend>20240605T120000</dtend>
+            <duration>0.03000</duration>
+            <summary>Django + Alpine.js + htmx Ups &amp; Downs</summary>
+            <description>A few years ago we started to hear about the toolkits htmx and Alpine.js as a powerful combination that could  be used with Django to enable development of web applications that offer user experience akin to a single page application without the overhead of adopting a heavyweight front-end framework such as React. We were excited by the promise and adopted these tools in a few projects. In this talk we&#x27;ll cover:
+
+- The promise we saw in this tool combination
+- The upside: examples of exciting wins in ways of using these tools that we recommend continuing
+- The downside: some rough edges and areas of concern where we recommend caution
+- Our overall assessment and plans regarding continued use of this combination
+
+Video: https://youtu.be/AVqjbUqT8ck</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/HRRDK9/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Karen Tracey</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>MP98WP@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-MP98WP</pentabarf:event-slug>
+            <pentabarf:title>Django 5.0: Elevating Experiences with Server-Sent Events – A Journey from Polling to Real-Time Vibes</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T120500</dtstart>
+            <dtend>20240605T123500</dtend>
+            <duration>0.03000</duration>
+            <summary>Django 5.0: Elevating Experiences with Server-Sent Events – A Journey from Polling to Real-Time Vibes</summary>
+            <description>Embarking on our exploration, we&#x27;ll first examine the traditional polling system, unraveling its structure and limitations. Moving forward, we&#x27;ll delve into the intricacies of structuring an asynchronous Django application that seamlessly complements its synchronous counterpart. Our journey encompasses a concise overview of Server-Sent Events (SSE) and their implementation within the Django framework.
+
+Engaging in discussions, we&#x27;ll tackle authentication and strategies for handling client disconnections, ensuring a comprehensive understanding of real-time communication in the Django ecosystem.
+
+The session emphasizes a server-side approach, utilizing elementary JavaScript and htmx to augment real-time interactivity. Our aim is to showcase how you can offer real-time solutions without the need to rewrite your applications, leveraging the existing work you&#x27;ve already invested in your apps. Additionally, we&#x27;ll explore Django Channels, appreciating some of the concepts implemented there to avoid reinventing the wheel and to import relevant ideas.
+
+Furthermore, we&#x27;ll discuss deployment options and how to seamlessly pair them with a synchronous app.
+
+Moreover, the concepts discussed can be easily adapted to other frameworks, extending the session&#x27;s applicability and insights beyond the Django ecosystem.
+
+Additionally, we&#x27;ll delve into load testing for our application, covering the how-to, key parameters, potential pitfalls, and the assumptions guiding our process.
+
+As a bonus, witness a real-time Mastodon firehose-based system demonstration, adding an exciting layer to our exploration.
+
+Video: https://youtu.be/g3AzY9sVg-w</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/MP98WP/</url>
+            <location>Auditorium</location>
+            
+            <attendee>melhin</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>KJCFU7@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-KJCFU7</pentabarf:event-slug>
+            <pentabarf:title>API Maybe: Bootstrapping a Web Application circa 2024</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T124000</dtstart>
+            <dtend>20240605T131000</dtend>
+            <duration>0.03000</duration>
+            <summary>API Maybe: Bootstrapping a Web Application circa 2024</summary>
+            <description>The last couple of years seem to have changed everything. Particularly with HTMX, but also related technologies like Alpine.js and Tailwind CSS, we&#x27;ve rapidly gone from a world where seemingly the only option was &quot;API First&quot;. 
+
+This is the story of bootstrapping a new application in these latter days. On a core of almost old-school Django combined with HTMX, with a just sprinkling of Alpine.js, we&#x27;ve been able to build a rich and interactive web application, with hardly a JSON response or payload in sight. 
+
+We&#x27;ll show the integration patterns we&#x27;ve learnt, and what the limits of those might be. 
+
+Finally, we&#x27;ll look at what the future might bring. As we grow the application we&#x27;re looking whether we will need edge computing, offline, and richer behaviour purely on the client. Is that the limit of the hypermedia driven approach? Is that where we need an API? It&#x27;s not clear: it&#x27;s still very much &quot;API Maybe&quot;.
+
+Video: https://youtu.be/cLHVM31Rv6A</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/KJCFU7/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Carlton Gibson</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>YFEMJ9@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-YFEMJ9</pentabarf:event-slug>
+            <pentabarf:title>Careful what you search for! - or, how to make a computation 20,000 times faster</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T141000</dtstart>
+            <dtend>20240605T144000</dtend>
+            <duration>0.03000</duration>
+            <summary>Careful what you search for! - or, how to make a computation 20,000 times faster</summary>
+            <description>Regular expressions provide a powerful search mechanism. The theory behind them promises the search can also be efficient, but practice (and specifically the stdlib `re` library) deviates from theory.
+We&#x27;ll start from a vulnerability and its fix (with the titular 20,000x improvement).
+To explain it:
+- We will show the regex/state-machine equivalence, and the promise of linear time
+- We will explore the features of Python regex&#x27;s and how they break the promise
+- We will discuss features which seem like they don&#x27;t have to break the promise, but do anyway
+- Then we&#x27;ll analyze the fix and the speedup
+
+Finally, we&#x27;ll introduce `re2` which can completely prevent the problem, at some cost.
+
+Video: https://youtu.be/jYIw4JD7Nko</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/YFEMJ9/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Shai Berger</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>QP39VQ@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-QP39VQ</pentabarf:event-slug>
+            <pentabarf:title>Greening Digital With Django</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T144000</dtstart>
+            <dtend>20240605T151000</dtend>
+            <duration>0.03000</duration>
+            <summary>Greening Digital With Django</summary>
+            <description>This talk is a companion to the workshop &quot;Greening Digital - how to set up your django app with green coding metrics in CI&quot;, it provides an easy introduction to developers taking their first steps into the world of digital sustainability.
+
+It will also provide ways to make sense of the fast growing range of tools being built to help organisations undestand and manage the carbon emissions associated with their softwarem with a particular focus on open source tools that django developers can use, or might even already have installed on their laptops already.
+
+Audiences will leave with clear ideas of what options exist out there, and what steps they might take to continue their journey as djangonaughts exploring digital sustainability.
+
+Video: https://youtu.be/ok_xqkBJXP8</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/QP39VQ/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Chris Adams</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>QQGHXX@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-QQGHXX</pentabarf:event-slug>
+            <pentabarf:title>How to monetize your side project for fun &amp; profit</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T152000</dtstart>
+            <dtend>20240605T155000</dtend>
+            <duration>0.03000</duration>
+            <summary>How to monetize your side project for fun &amp; profit</summary>
+            <description>Structure:
+- Describe the ideal end state that we&#x27;d like to get to: autonomy, passive income, freedom to work on whatever we&#x27;d like, flexibility
+- This is now more possible than ever, as engineers we are very well set up to achieve this
+
+- The Key Lessons Learned from Simple Poll + Practical Tips
+- Making “Build it and they will come” work for you
+- The advantages of selling to businesses
+- Legal things to be aware of
+- Building on top of platforms
+- Distribution is king
+- How we&#x27;re applying some of the lessons from Simple Poll to building Kolo.
+
+- Opportunity to make something you want to see in the world
+- Rob walling stair stepping approach to building businesses 
+
+- Finish with
+- Considerations &amp; trade offs – when may you not want to monetize your side project?
+- Conclusion
+
+Video: https://youtu.be/OyPRpK2URd0</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/QQGHXX/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Wilhelm Klopp</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>PTVDBL@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-PTVDBL</pentabarf:event-slug>
+            <pentabarf:title>Django For Half A Billion People</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T155500</dtstart>
+            <dtend>20240605T162500</dtend>
+            <duration>0.03000</duration>
+            <summary>Django For Half A Billion People</summary>
+            <description>Django powers web applications from all around the globe. English has dominated the tech scene, and that&#x27;s ok for developers. But it&#x27;s not that great for the non-English users of those web apps! This talk is about simple and not-so-simple considerations you, as a developer, can take into account if you&#x27;re building for people around the globe!
+
+The talk will start by putting you in the shoes of the average Arabic-speaking user. We&#x27;ll go through examples of not-so-great UX—even established web apps have problems!
+
+The talk will then shed light on the two main problems it targets:
+1. Right-to-left support.
+2. Localization.
+
+
+Here&#x27;s a rough overview of the talk&#x27;s structure:
+
+* Introduction.
+* How Arabic-speaking users experience the web.
+* CSS logical properties: quick win, high impact.
+* Right-to-left challenges when JavaScript is involved.
+* Fonts: nobody notices them unless they&#x27;re ugly.
+* Internationalization and localization.
+* GNU&#x27;s gettext.
+* A quick overview of internationalization in Django.
+* Translating Python code.
+* Translating templates.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/PTVDBL/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Moe</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>ZY7T3J@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-ZY7T3J</pentabarf:event-slug>
+            <pentabarf:title>How we can build web applications that respect the user’s privacy</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T170000</dtstart>
+            <dtend>20240605T173000</dtend>
+            <duration>0.03000</duration>
+            <summary>How we can build web applications that respect the user’s privacy</summary>
+            <description>Privacy on the web is a hot topic, and there are more and more regulations to ensure that IT platforms respect it. That is a good thing. In this talk I would like to speak about how we, developers and operators of web platforms, can develop a mindset that puts user privacy at the center.
+
+The first thing we need to master is to actually understand the user, and their reasons for wanting privacy. Children are amazing in helping us there. I have been giving tech talks to schoolchildren in my free time, and they have been teaching me the most in this topic. I will tell you some anecdotes about the questions they asked.
+
+Then, we will go into more technical areas. I will talk about access restrictions, data retention policies, K-anonymity and differential privacy. And I will touch a bit on how to do this at scale
+
+Video: https://youtu.be/Jc_oDg8ertI</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/ZY7T3J/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Hanna Kollo</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>XQFNCU@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-XQFNCU</pentabarf:event-slug>
+            <pentabarf:title>Lightning Talks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T173500</dtstart>
+            <dtend>20240605T182000</dtend>
+            <duration>0.04500</duration>
+            <summary>Lightning Talks</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/XQFNCU/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>XLYKCP@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-XLYKCP</pentabarf:event-slug>
+            <pentabarf:title>Django schema migrations and deployments minus the misery</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T113000</dtstart>
+            <dtend>20240605T122000</dtend>
+            <duration>0.05000</duration>
+            <summary>Django schema migrations and deployments minus the misery</summary>
+            <description>Video: https://youtu.be/Iw1_wsd3dhI</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/XLYKCP/</url>
+            <location>Workshop</location>
+            
+            <attendee>Antonis Kalipetis</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>WN3GGN@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-WN3GGN</pentabarf:event-slug>
+            <pentabarf:title>Building high-performance, type-safe GraphQL APIs with Strawberry and Django</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T141000</dtstart>
+            <dtend>20240605T150000</dtend>
+            <duration>0.05000</duration>
+            <summary>Building high-performance, type-safe GraphQL APIs with Strawberry and Django</summary>
+            <description>In this talk, we will explore the world of GraphQL APIs with Strawberry 🍓, a new Python library that makes it easy to create GraphQL APIs with Django. We will dive into what GraphQL is, how it compares to traditional RESTful APIs, and what makes Strawberry stand out from other Python GraphQL libraries.
+
+One of the biggest challenges in GraphQL API development is the *N+1* problem, where queries can become exponentially slow as more data is requested. We will discuss how data loaders can help solve this problem, and go in-depth on how to use them in Strawberry. In this topic we will also cover how the Strawberry Django integration leverages query introspection and user defined hints to automatically call `.only(…)`/`.select_related(…)`/`.prefetch_related(…)` on querysets, making your queries more efficient and avoiding common pitfalls. This is especially important in high-traffic, production environments where performance is critical.
+
+Finally, we will showcase some of the benefits of using Strawberry and Django together, including a type-safe approach to API development and streamlined code maintenance. By the end of this talk, you’ll have the knowledge and tools you need to create high-performance GraphQL APIs with Strawberry and Django.
+
+It will be presented in the following order:
+
+* Intro
+* Quick overview of what a GraphQL API looks like and its advantages
+* Writing general GraphQL APIs using Strawberry
+* Integrating the Django ORM with Strawberry
+* Some common pitfalls, with emphasis on the N+1 problem
+* GraphQL tools to avoid those pitfalls and how to use them with Strawberry
+How the Strawberry Django integration uses introspection to automatically overcome those pitfalls and also improve performance when executing Django querysets
+
+Video: https://youtu.be/ObOvfBklw8U</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/WN3GGN/</url>
+            <location>Workshop</location>
+            
+            <attendee>Thiago Bellini Ribeiro</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>A8TUFL@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-A8TUFL</pentabarf:event-slug>
+            <pentabarf:title>The confidence and blessing to make Django documentation improvements</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240605T152000</dtstart>
+            <dtend>20240605T161000</dtend>
+            <duration>0.05000</duration>
+            <summary>The confidence and blessing to make Django documentation improvements</summary>
+            <description>For the Djangonauts Space initiative, I recently held an online workshop to help people understand what a welcome, good first contribution to Django&#x27;s documentation could look like. I want to follow that up with something similar here. 
+
+I will support it by being at the sprints too, so that we can shepherd some actual contributions into the repository.
+
+My workshop will not be about Git, or workflow, but about documentation content, and it will be very concrete and outcome-focused.
+
+Video: https://youtu.be/4fdcXTR6TLg</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/A8TUFL/</url>
+            <location>Workshop</location>
+            
+            <attendee>Daniele Procida</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>LLCEKS@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-LLCEKS</pentabarf:event-slug>
+            <pentabarf:title>Welcome 2 Day</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T090000</dtstart>
+            <dtend>20240606T091500</dtend>
+            <duration>0.01500</duration>
+            <summary>Welcome 2 Day</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/LLCEKS/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>LAFKT7@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-LAFKT7</pentabarf:event-slug>
+            <pentabarf:title>AI, away from the hype</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T091500</dtstart>
+            <dtend>20240606T101000</dtend>
+            <duration>0.05500</duration>
+            <summary>AI, away from the hype</summary>
+            <description>As we marvel at the new features of generative AI and look forward to
+what&#x27;s coming next, it&#x27;s crucial to revisit foundational questions: Why did
+we start working on AI? What needs are we aiming to fulfil? Does AI serve
+as an appropriate solution across its vast application spectrum? We will
+explore the genesis and intent behind AI development, critically examining
+its suitability and effectiveness in various scenarios. We&#x27;ll also talk
+about the prerequisites for leveraging AI wisely, emphasising the
+importance of mindful engagement with this, perhaps, game-changing
+technology.
+
+Video: https://youtu.be/1NkZEQ8g6OU</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Keynote</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/LAFKT7/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Meritxell Sardà Ventosa</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>E7JYC8@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-E7JYC8</pentabarf:event-slug>
+            <pentabarf:title>Building a Django-Powered Laboratory Information Management Systems (LIMS) for the Genomics Era</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T101500</dtstart>
+            <dtend>20240606T104500</dtend>
+            <duration>0.03000</duration>
+            <summary>Building a Django-Powered Laboratory Information Management Systems (LIMS) for the Genomics Era</summary>
+            <description>The exponential growth of genomic data poses unique challenges for research laboratories, demanding sophisticated tools for efficient management, analysis, and interpretation. This presentation will delve into the development of cutting-edge Laboratory Information Management Systems (LIMS) specifically designed for the genomics era.
+Attendees will discover how the Django web framework offers a powerful foundation for building LIMS solutions with the flexibility to adapt to the dynamic needs of genomics research. We will address the complexities of large-scale genomic data handling, ensuring data integrity and quality, and navigating regulatory compliance.
+
+Outline:
+I. Introduction
+Overview of Laboratory Information Management Systems (LIMS)
+Importance of LIMS in genomics research
+II. Challenges in Genomics Research
+Managing large-scale genomic data
+Ensuring data integrity and quality
+Regulatory compliance and data security concerns
+
+III. Django: The Ideal Framework for LIMS
+Advantages of Django for building LIMS platforms
+Flexibility, scalability, and robustness
+IV. Key Features of a Django-Powered LIMS
+Sample tracking and management
+Data visualization and analysis tools
+Integration with bioinformatics resources
+V. Data Management and Security
+Strategies for managing and securing genomic data
+Encryption, access controls, and compliance with regulations
+VI. Customization and Extensibility
+Tailoring LIMS functionalities to specific research needs
+Integrating additional features and modules
+
+
+VII. Future Directions and Opportunities
+Emerging trends in genomics research and LIMS development
+The evolving role of Django in the genomics era
+VIII. Conclusion
+Summary of key takeaways
+Inspiration for attendees to leverage Django in genomics research
+
+Video: https://youtu.be/CAyN4S52U0c</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/E7JYC8/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Isaiah Olatunbosun</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>3VPDUW@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-3VPDUW</pentabarf:event-slug>
+            <pentabarf:title>Layered Django project structure for large-scale collaboration</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T112000</dtstart>
+            <dtend>20240606T115000</dtend>
+            <duration>0.03000</duration>
+            <summary>Layered Django project structure for large-scale collaboration</summary>
+            <description>This talk will explore the challenges encountered by a large team of engineers working on a complex codebase, and how to effectively manage the process of building a successful tech business.
+
+The key to success lies in organising the codebase in a clear and concise manner, enabling easy comprehension and modification by team members. Failure to do so can lead to confusion and hinder progress, potentially resulting in an unsuccessful project.
+
+This talk will specifically focus on organising a Django project using a layered architecture. This involves structuring the codebase into distinct layers, each with a unique purpose, to facilitate separation of concerns. In an MVC framework, this typically involves separating the data, domain, application, and interface layers.
+
+By understanding the fundamentals of layered architecture and applying these principles to future projects, attendees will learn how to effectively manage complex codebases and successfully build thriving businesses with technology.
+
+Video: https://youtu.be/cD0QFAIk2nw</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/3VPDUW/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Çağıl Uluşahin Sönmez</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>VDYCVB@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-VDYCVB</pentabarf:event-slug>
+            <pentabarf:title>Empowering Django with Background Workers</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T115500</dtstart>
+            <dtend>20240606T122500</dtend>
+            <duration>0.03000</duration>
+            <summary>Empowering Django with Background Workers</summary>
+            <description>There&#x27;s a lot more to a web application than just the request/response cycle. Running tasks in the background, whether on a trigger or schedule unlocks a lot of extra functionality, performance and reliability.
+
+Whilst Django is a web framework, it doesn&#x27;t have a good first-party story for background workers right now. When most people think of background workers, they lean immediately to Celery, but other tools are out there which might be better and easier to work with.
+
+The lack of first-party support results in diverging implementations, added complexity for developers, and a learning cliff for new developers. If Django had a first-party solution, it could help unify these implementations, and make Django more &quot;batteries included&quot;. The lack of first-party support is also a challenge to Wagtail, where many potentially intensive tasks have to be run in the request/response cycle, slowing down user actions.
+
+Video: https://youtu.be/RxcRBNqxjeY</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/VDYCVB/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Jake Howard</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>JX9H3D@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-JX9H3D</pentabarf:event-slug>
+            <pentabarf:title>The attentive programmer</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T123000</dtstart>
+            <dtend>20240606T130000</dtend>
+            <duration>0.03000</duration>
+            <summary>The attentive programmer</summary>
+            <description>&quot;I photograph to find out what something will look like photographed&quot;, said the great photographer Garry Winogrand. The genius of his work lies in his phenomenal powers of *attention*, his ability to see. *Seeing* is a deliberate act.
+
+What do programmers &quot;see&quot;? How well do we do it? And are we so full of intention that we fail to pay attention? 
+
+I want to pursue this question, with the aid of philosophers, poets and photography, and I want to light up a potential dimension in programming that I haven&#x27;t seen explored. For example: why is it that a story or photograph can be *about* something, but we never hear of a computer programme that is *about* something? Is it not possible? Or have we just missed it? We&#x27;re all familiar with love poems and love songs - could a love program exist? What would it look like?
+
+I think we can answer all those questions in interesting ways, that connect our understanding and appreciation of the world and our arts with programming. I think that they can suggest new opportunities and ideas to us. And, I think that it can make a difference to us, even as practically-minded Django programmers doing practical work.
+
+Video: https://youtu.be/I89B5wdb0BQ</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/JX9H3D/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Daniele Procida</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>NGXABE@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-NGXABE</pentabarf:event-slug>
+            <pentabarf:title>Combining Django ORM &amp; FastAPI in a Single App</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T140000</dtstart>
+            <dtend>20240606T143000</dtend>
+            <duration>0.03000</duration>
+            <summary>Combining Django ORM &amp; FastAPI in a Single App</summary>
+            <description>Django is the most extensive Python framework, which is also very opinionated and synchronous. In contrast, FastAPI emerges as a more recent, asynchronous framework.
+
+As a developer and the maintainer of several services, one of which is a data visualization tool deployed in production across various companies, I have had the unique opportunity to use Django ORM with FastAPI. If you take a look through GitHub or other resources, you’ll notice there’s not much out there about combining Django and FastAPI — it’s a bit of an unconventional setup. The aim of my talk is to share insights from my experience with this setup, highlighting its practical implementation and the lessons learned along the way.
+
+This talk is aimed at programmers from beginners to more experienced ones familiar with either of these frameworks. You’ll gain insights into combining asynchronous frameworks with synchronous ones, along with understanding the benefits and challenges of this approach.
+
+Video: https://youtu.be/AERuDe9YxWE</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/NGXABE/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Mia Bajić</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GKUBFK@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-GKUBFK</pentabarf:event-slug>
+            <pentabarf:title>Pair Programming after the Pandemic and Beyond</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T143000</dtstart>
+            <dtend>20240606T150000</dtend>
+            <duration>0.03000</duration>
+            <summary>Pair Programming after the Pandemic and Beyond</summary>
+            <description>From the early days of Caktus through the COVID-19 pandemic and beyond, Caktus developers can regularly be found pair programming with one another. Keanya(2nd year developer), Jeanette(senior developer) and Tobias(Co-founder of Caktus) Pair program together often and  based on their experience, they will share:
+
+Common types of engineering and data analysis problems that are a good fit for pair programming
+How to wade into pair programming, for those who haven&#x27;t tried it before
+Software tools to improve your pair programming experience
+How to share authorship on Git commits when code was written together
+Other types of (non-programming) work that may benefit from having a friendly colleague to partner with
+
+Video: https://youtu.be/_wFRdJaGO9g</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/GKUBFK/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Keanya Phelps</attendee>
+            
+            <attendee>Tobias McNulty</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>JSM7ES@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-JSM7ES</pentabarf:event-slug>
+            <pentabarf:title>My step-by-step guide to becoming a Django core contributor</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T151000</dtstart>
+            <dtend>20240606T154000</dtend>
+            <duration>0.03000</duration>
+            <summary>My step-by-step guide to becoming a Django core contributor</summary>
+            <description>In this talk, I will present my journey from doubting myself to joining an established Django contributor team. I will show examples of different tasks I did along the way, and cover questions I and my fellow Djangonaut Space contributors would ask ourselves during this journey. We will also cover a few possible improvements to the contributor experience, and my personal tips on how to navigate common situations for Django contributors.
+
+The steps we’ll cover are:
+
+1. Self doubt, think you can’t do it
+2. Meet the Django community
+3. Get encouragement from others to overcome impostor syndrome
+4. Join DjangoCon Contributor Sprints. First contribution!
+5. Apply to Djangonaut Space
+6. Selected! 8-week mentoring program
+7. Make pull requests, report issues, post in the Django forum, ask questions!
+8. Apply to join a team of your interest (accessibility team)
+9. Selected! Team meetings &amp; collaboration
+
+Having been through all of this journey, we’ll be able to look back on achievements and learnings from those experiences. Sharing this, I hope to inspire others who might not feel like they are able to contribute and to encourage them to begin their own contribution journey.
+
+Video: https://youtu.be/VyVfgrl3B7Y</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/JSM7ES/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Eliana Rosselli</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>87BXRT@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-87BXRT</pentabarf:event-slug>
+            <pentabarf:title>ProBo: 240.000+ Django Admin Staff Users in one SaaS (What you are not supposed to do, we did it!)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T154500</dtstart>
+            <dtend>20240606T161500</dtend>
+            <duration>0.03000</duration>
+            <summary>ProBo: 240.000+ Django Admin Staff Users in one SaaS (What you are not supposed to do, we did it!)</summary>
+            <description>ProBo: 1 Django App, 4 admin sites, 14 user groups, 240.000+ users as admin staff. 
+Many say you shouldn&#x27;t, we did it by heavily extending the admin and lastly integrated HTMX.
+
+The talk will get into why this path was chosen in the first place 7 years ago, and what the admin journey has been like getting to the point of being acquired and now covering 80% of the Proptech Market in greater Copenhagen, Denmark.  
+
+We will get in details with examples of our extended admin and use of HTMX inside the admin and present our pragmatic take on using the admin superpower and stretching them to the limit.
+Topics such as permissions, use of HTMX for changelists and filters, our shortcut menu, as well as restyling and ripping templates apart, will be on the menu.
+
+You should do it too for you next SaaS product. We will tell you why!
+
+Video: https://youtu.be/AkvkI-nIfT0</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/87BXRT/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Erik Guldager Laustsen</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>YGMPZW@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-YGMPZW</pentabarf:event-slug>
+            <pentabarf:title>Ramping up the Django admin</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T164500</dtstart>
+            <dtend>20240606T171500</dtend>
+            <duration>0.03000</duration>
+            <summary>Ramping up the Django admin</summary>
+            <description>Though the Django admin has been around for a while, it’s far from “done” as a piece of software. Expectations on user experience are changing. There’s ongoing work on much needed accessibility improvements. We’ll briefly introduce the curb cut effect and accessibility fundamentals, then review such a range of “curb cut” improvements, and discuss how they’re made possible in Django.
+
+We’ll cover the following UX improvements, with a mixture of visual prototypes, demos, and a quick look at the underlying tech:
+
+- Keyboard shortcuts!
+- Command palettes for keyboard power users.
+- A redesigned dashboard view, with quick access to the right information.
+- A built in language switcher.
+- Django admin user documentation.
+
+With this talk, we hope to motivate potential contributors, and showcase practical examples of leveraging the curb cut effect to make accessibility improvements happen.
+
+Video: https://youtu.be/JUCo9I08tgc</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/YGMPZW/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Tom Carrick</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>DWWRWX@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-DWWRWX</pentabarf:event-slug>
+            <pentabarf:title>Lightning Talks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T171500</dtstart>
+            <dtend>20240606T180000</dtend>
+            <duration>0.04500</duration>
+            <summary>Lightning Talks</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/DWWRWX/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>ZGBQ9K@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-ZGBQ9K</pentabarf:event-slug>
+            <pentabarf:title>Functional LLM Chatbots - HTMX, Function Calling &amp; LLama 3</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T112000</dtstart>
+            <dtend>20240606T125000</dtend>
+            <duration>1.03000</duration>
+            <summary>Functional LLM Chatbots - HTMX, Function Calling &amp; LLama 3</summary>
+            <description>`{% extends &quot;abstract.html&quot; %}`
+
+`{% block repository %}` 
+Link to the GitHub repository: https://github.com/scriptogre/functional-chatbots
+
+Includes useful patterns you can reuse.
+`{% endblock %}`
+
+`{% block content %}`
+
+This workshop is a practical guide to creating dynamic Django applications that are deeply integrated with LLM models using HTMX.
+
+Participants will learn how LLMs can trigger UI changes that are immediately visible to the user, handle CRUD functionality, or any other server-side tasks - in an elegant and concise manner.
+
+The session offers hands-on experience and valuable tips for efficient LLM integrations. You will leave with the knowledge and resources necessary to implement a LLM in your own Django project.
+
+`{% block steps %}`
+1. Sneak peak at final result &amp; cloning the GitHub repository (2 min)
+2. Get you up to speed (10 min)
+
+ `{% if attendees.care %}`
+
+3. Explain 2 methods of rendering chat messages dynamically with htmx (2 min)
+4. Implement (one of) them yourself (10 min) 
+
+ `{% endif %}`
+
+5. Explain how the LLM can modify the UI state in a session (2 min)
+6. Implement it yourself (10 min)
+7. Explain how the LLM can trigger CRUD functionality (2 min)
+8. Implement it yourself (10 min)
+
+`{% endblock steps %}`
+
+
+`{% block questions %}`
+
+I will be free to discuss anything about function-calling, possible security practices against prompt injection, and tools for prompt engineering at the end of the workshop. The very limited time doesn&#x27;t permit it during the workshop.
+
+`{% endblock %}`
+
+`{% endblock content %}`
+
+Video: https://youtu.be/jtjMR47AAd8</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Long Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/ZGBQ9K/</url>
+            <location>Workshop</location>
+            
+            <attendee>Christian Tanul</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>S7PV7R@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-S7PV7R</pentabarf:event-slug>
+            <pentabarf:title>Diving into the DSF Rhythm: A session on Django Governance</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T140000</dtstart>
+            <dtend>20240606T145000</dtend>
+            <duration>0.05000</duration>
+            <summary>Diving into the DSF Rhythm: A session on Django Governance</summary>
+            <description>Join us for an insightful session as we provide an introductory overview of DSF and Django governance, featuring members of the DSF board, teams and Django fellows.
+
+Video: https://youtu.be/I88ZaATF12Q</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/S7PV7R/</url>
+            <location>Workshop</location>
+            
+            <attendee>Çağıl Uluşahin Sönmez</attendee>
+            
+            <attendee>Sarah Abderemane</attendee>
+            
+            <attendee>Kátia Nakamura</attendee>
+            
+            <attendee>Thibaud Colas</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>3UZAE7@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-3UZAE7</pentabarf:event-slug>
+            <pentabarf:title>Supercharging your Python Development Environment with VS Code and Dev Containers</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240606T151000</dtstart>
+            <dtend>20240606T160000</dtend>
+            <duration>0.05000</duration>
+            <summary>Supercharging your Python Development Environment with VS Code and Dev Containers</summary>
+            <description>VS Code is the editor with the marketplace inside. This means thousands of extensions and features at your disposal and sometimes it can be hard to know what and how to customize your settings. The key is that you can tweak your environment as much as you want without having to commit to what works best for most people, you can pick what works best for you.
+
+We&#x27;ll go through: 
+- the best VS Code extensions, essential for Python development. 
+- how to test and debug your Django code 
+- using GitHub Copilot with VS Code
+- using Codespaces and Dev Containers, your development container locally or in the cloud
+
+Video: https://youtu.be/gCUJW70gRog</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/3UZAE7/</url>
+            <location>Workshop</location>
+            
+            <attendee>Dawn Michelle Wages</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>Z3YH9H@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-Z3YH9H</pentabarf:event-slug>
+            <pentabarf:title>Welcome 3 Day</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T090000</dtstart>
+            <dtend>20240607T091500</dtend>
+            <duration>0.01500</duration>
+            <summary>Welcome 3 Day</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/Z3YH9H/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>DY3QTG@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-DY3QTG</pentabarf:event-slug>
+            <pentabarf:title>When I Grow up I Want to be a Database Administrator (said no one ever)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T091500</dtstart>
+            <dtend>20240607T101000</dtend>
+            <duration>0.05500</duration>
+            <summary>When I Grow up I Want to be a Database Administrator (said no one ever)</summary>
+            <description>Video: https://youtu.be/N4JWRmPNENs</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Keynote</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/DY3QTG/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Karen Jex</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>EGHBKP@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-EGHBKP</pentabarf:event-slug>
+            <pentabarf:title>Django, SQLite, and Production</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T101500</dtstart>
+            <dtend>20240607T104500</dtend>
+            <duration>0.03000</duration>
+            <summary>Django, SQLite, and Production</summary>
+            <description>SQLite is the most widely deployed database in the world, and it&#x27;s the default database for Django when starting a new project with the startproject command. However, the Django documentation warns users against using SQLite in production. In this talk, we will look at the most common issues with SQLite and how to mitigate them.
+
+We will look at issues like database lock errors, timeouts, concurrent reads and writes, and slow performance and show how to work around some of these limitations. We will also show how to manage backups, replicas, and point-in-time recovery, which is necessary for many production applications.
+
+We will look at the issues I had with SQLite on my side projects (fedidevs.com), how I overcame them, and how people use SQLite outside of the Django/Python community. We will also look at benchmarks to see how SQLite compares to PostgreSQL.
+
+We will also cover some recent patches merged into Django that make it much easier to configure SQLite for web application use cases, starting with Django 5.1.
+
+The talk&#x27;s goal is not to convince you that your next application should use SQLite in production but to help you understand the trade-offs and make a good decision for your specific use case.
+
+Video: https://youtu.be/GTDYwEXv-sE</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/EGHBKP/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Anže</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>LJBJ7Q@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-LJBJ7Q</pentabarf:event-slug>
+            <pentabarf:title>Modernizing CRUD Operations in Django with a Declarative Interface using Django Ninja CRUD</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T111500</dtstart>
+            <dtend>20240607T114500</dtend>
+            <duration>0.03000</duration>
+            <summary>Modernizing CRUD Operations in Django with a Declarative Interface using Django Ninja CRUD</summary>
+            <description>This session delves into simplifying repetitive CRUD operations in Django through a declarative interface, ensuring codebase efficiency and maintainability. We&#x27;ll demonstrate how this approach maintains transparency while offering customization and modularity, addressing common and unique endpoint patterns. The talk highlights innovative solutions for schema migrations and custom endpoint creation, showcasing how to tackle production requirements and repetitive endpoint challenges with ease. Join us to discover how to elevate your Django projects with structured, scalable, and adaptable practices for CRUD operations and beyond.
+
+Video: https://youtu.be/r8yRxZPcy9k</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/LJBJ7Q/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Hicham Bakri</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>YXAWAD@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-YXAWAD</pentabarf:event-slug>
+            <pentabarf:title>Tying up a loose end - How class-based emails will save your day</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T114500</dtstart>
+            <dtend>20240607T121500</dtend>
+            <duration>0.03000</duration>
+            <summary>Tying up a loose end - How class-based emails will save your day</summary>
+            <description>Yes, it&#x27;s possible to send emails from your Django application. And in most business cases, it&#x27;s required. But is it fun? Is it DRY? Where do my variables for my base template go? Does it feel like reinventing the wheel when implementing some level of abstraction? And how the heck am I supposed to write a proper unit test? Well, in most cases, most of the Djangonauts I know including myself would go for a &quot;no&quot; or at least “dunno”.
+
+That’s why I implemented &quot;django-pony-express&quot; to tackle those problems. Like existing djangoesque patterns and therefore easy to grasp, you&#x27;ll define your emails in a neat class instead of a bunch of similar looking functions. The presented approach will take care of having duplicated templates for the plain-text and HTML parts, variables needed for your base template and much more. 
+But the best part: It ships with a test suite which transforms the Django test mailbox to a QuerySet-like object which can be worked with without having to have a diploma. Furthermore, it provides a best-practice to unit-test your emails to finally enable every developer in the team to test even those parts of your code.
+
+I’m going to present the package “django-pony-express” which delivers a class-based abstraction layer like the Django Class-based views.
+
+Emails are a crucial part of many business applications. Having worked on many (&gt;15) different projects in various industry sectors over the last 11 years, I realised that implementing clean, reusable code for your emails is always a challenge. The whole project is neat and DRY – except your email setup and of course the duplicated templates for the plain-text and HTML part.
+Here’s what I want to talk about:
+
+•	Motivation how a professional email setup looks like and what issues you must tackle to achieve it.
+
+•	Introducing the solution and its benefits and tweaks.
+
+•	Presenting the test suite and demonstrate the best practices to write unittests with it.
+
+•	Critical review and outlook to the future.
+
+As a take-away, every attendee should have gotten an idea what’s required to create a professional email setup, why the package will help them achieve that (in less time) and how to write neat unit-tests for your mails.
+
+Video: https://youtu.be/Be0qOagM6xs</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/YXAWAD/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Ronny Vedrilla</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GYMVHC@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-GYMVHC</pentabarf:event-slug>
+            <pentabarf:title>Django Classy All The Things!!!</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T122500</dtstart>
+            <dtend>20240607T125500</dtend>
+            <duration>0.03000</duration>
+            <summary>Django Classy All The Things!!!</summary>
+            <description>Django is incredibly powerful, but as your project grows, it also often gains in complexity. This can be daunting for new members on your team or even future you. Class methods and fields can be inherited from multiple parent classes and mixins, making it hard to get a complete picture of what a model can do at a glance. And when I say &quot;class&quot; I mean any type of class, including models!
+
+If you&#x27;ve ever used sites like ccbv.co.uk, cdrf.co, and cdf.9vo.lt you will know how powerful such API documentation can be.
+
+In this talk, I&#x27;ll demonstrate how you can leverage Python&#x27;s reflection capabilities to automatically generate detailed API documentation similar to those sites but for your own Django projects and your own custom classes whether they are models, views or anything else.
+
+You&#x27;ll learn how reflection makes this possible, how to automate this process, and how to integrate it into your developer workflow. Stop wondering what your classes can do - let them tell you directly!
+
+Video: https://youtu.be/xHXRdMEgU9A</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/GYMVHC/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Emma Delescolle</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>FTQEBD@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-FTQEBD</pentabarf:event-slug>
+            <pentabarf:title>Data-Oriented Django Deux</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T140000</dtstart>
+            <dtend>20240607T143000</dtend>
+            <duration>0.03000</duration>
+            <summary>Data-Oriented Django Deux</summary>
+            <description>Computing: software controls hardware to consume input data and emit output data.
+
+Data-Oriented Design: when writing software, remember it’s all about controlling hardware to consume input data and emit output data.
+
+Building on my DjangoCon Europe 2022 talk, this “second part” will reintroduce Data-Oriented Design and cover some of its consequent principles for writing fast software. These principles will be illustrated with examples from client projects, open-source packgaes, and even Django itself, especially my recent push to optimize the system checks framework.
+
+The aim is to make you reconsider some common practices that may hinder your development and runtime performance.
+
+Video: https://youtu.be/_0F6fyI5u8w</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/FTQEBD/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Adam Johnson</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>NRQTA3@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-NRQTA3</pentabarf:event-slug>
+            <pentabarf:title>Developing Scalable Tests in Python with Django</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T143000</dtstart>
+            <dtend>20240607T150000</dtend>
+            <duration>0.03000</duration>
+            <summary>Developing Scalable Tests in Python with Django</summary>
+            <description>In this talk, we&#x27;ll explore the art of creating scalable tests in Python. In an increasingly test and code quality-oriented world, mastering the correct techniques to create robust tests is essential.
+
+Additionally, we&#x27;ll dive into the world of Faker, a widely used Python library for generating fake data. We&#x27;ll see how Faker can be a valuable tool for creating realistic and diversified datasets for your tests, ensuring comprehensive and accurate coverage.
+
+The talk will also cover the fundamentals of unit and integration testing, and how the Pytest framework can simplify and enhance your testing experience in Python. You&#x27;ll learn best practices for writing concise and effective unit tests, ensuring that each component of your code is tested individually and in isolation.
+
+Throughout the presentation, we&#x27;ll share practical examples and real-world use cases to illustrate the techniques and concepts discussed. You&#x27;ll walk away from this talk equipped with the knowledge and skills necessary to create scalable and reliable tests for your Python projects.
+
+Join us on this exciting journey through the world of Python testing and elevate the quality and reliability of your code to the next level!
+
+Video: https://youtu.be/FXaANMK_CeM</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/NRQTA3/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Abraão Állysson dos Santos Honório</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>QGLCYX@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-QGLCYX</pentabarf:event-slug>
+            <pentabarf:title>Fast on my machine: How to debug slow requests in production</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T151000</dtstart>
+            <dtend>20240607T154000</dtend>
+            <duration>0.03000</duration>
+            <summary>Fast on my machine: How to debug slow requests in production</summary>
+            <description>Your Django-based application is deployed and running smoothly, accumulating more users and more rows in your database every day. One day, you will inevitably and suddenly encounter an unexpected performance problem, either because a specific page of your application suddenly loads slowly and your users complain, or because the load on your servers is a lot higher than usual – even though you are experiencing normal levels of traffic to your application. Using your development instance, you’ve already checked that you use select_related() and prefetch_related() properly and do not cause unexpected numbers of database queries and your caching works properly.
+
+What most likely happened is that one or more SQL queries suddenly turned pretty slow since your data set has grown and the database is choosing a non-optimal way to execute your queries. But now what?
+
+In this talk, I’ll show some tips and tricks on how to find the slow SQL query among all the other ones, even if you have no fancy instrumentation tooling in use. I will then show you how to use the EXPLAIN command to find out what the database is actually doing and how to identify and fix common problem sources such as a missing index, or – even worse – an index that exists but is not actually used.
+
+This talk will mostly focus on PostgreSQL, but the basic strategies also translate to other database engines.
+
+Video: https://youtu.be/sPO6wDlvKVI</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/QGLCYX/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Raphael Michel</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GPAVGH@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-GPAVGH</pentabarf:event-slug>
+            <pentabarf:title>Navigating the maze of Django&#x27;s URL routing: a deep dive</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T161000</dtstart>
+            <dtend>20240607T164000</dtend>
+            <duration>0.03000</duration>
+            <summary>Navigating the maze of Django&#x27;s URL routing: a deep dive</summary>
+            <description>How exactly does Django match a path to a view? What does good URL design look like? and why should you care about it? How can your URL schema even affect things like security and performance?
+
+Starting with a basic pattern matcher that we could use with Django to route paths to views, we&#x27;ll incrementally add features and enhancements until we have a fully-fledged URL-routing system similar to the one that Django ships with. As we add match objects, path converters, reverse functions, internationalisation features, URL resolvers and more, we&#x27;ll think about why things have been implemented the way they have been, and how we should best utilise them to avoid bugs and keep our URLs clean.
+
+As we build the router, we will occasionally step back from the intricate implementation details to consider the fundamental principles of effective URL design that guide its development.
+
+This talk is aimed at intermediate users. Nonetheless, it may well be of interest to the newer Django developer as well. The approach is based on the philosophy that having a deeper understanding of the implementation of something equips you with the ability to better recognize its nuances, which in turn enhances your proficiency in using it. I also hope that this talk will provide the confidence to start exploring more of Django’s internals if that’s not something you’ve done already.
+
+Video: https://youtu.be/lQuM8HDCdM4</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/GPAVGH/</url>
+            <location>Auditorium</location>
+            
+            <attendee>Timothy McCurrach</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>MBUHHU@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-MBUHHU</pentabarf:event-slug>
+            <pentabarf:title>Lightning Talks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T164500</dtstart>
+            <dtend>20240607T173000</dtend>
+            <duration>0.04500</duration>
+            <summary>Lightning Talks</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/MBUHHU/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>YZJEAF@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-YZJEAF</pentabarf:event-slug>
+            <pentabarf:title>Closing Session</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T173000</dtstart>
+            <dtend>20240607T174500</dtend>
+            <duration>0.01500</duration>
+            <summary>Closing Session</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Other</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/YZJEAF/</url>
+            <location>Auditorium</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>ZP9RWD@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-ZP9RWD</pentabarf:event-slug>
+            <pentabarf:title>Greening Digital - how to set up your django app with green coding metrics in CI</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T121500</dtstart>
+            <dtend>20240607T130500</dtend>
+            <duration>0.05000</duration>
+            <summary>Greening Digital - how to set up your django app with green coding metrics in CI</summary>
+            <description>### Why this is relevant to django developers
+
+In Europe, as a result of the changes in corporate reporting laws agreed in 2023, if digital services make up a material part of a firm&#x27;s activity and the firm has more than 250 employees, then the firm will be required by law to report their emissions from digital services from 2025 onwards.
+
+If your organisation has fewer than 250 employees, _but you sell hosted services to a firm that the law applies to_, because firms need to report emissions in their supply chain, as a supplier it is increasingly likely that you will be asked to provide similar numbers that _they_ will need for their own reporting.
+
+### Where python and django fit in
+
+Fortunately in the last couple of years, the open source tooling to measure the energy, and subsequent carbon emissions from web applications has come a long way, and a lot of them are written in python!
+
+In addition, there are a number of well documented Django projects where effort has been put into creating sustainability roadmaps, continuous measurement setups, with helpful examples to learn from.
+
+### What to expect in the workshop
+
+In this workshop attendees will learn how carbon emissions from digital services are measured, and what tooling exists to track them, with a specific focus on the open source Green Metrics Tool (GMT), from Green Coding Solutions Gmbh, which is also helpfully written mostly in python.
+
+This is one of the tools used for understanding and measuring the carbon emissions associated with Wagtail, a well known open source django CMS in the Google Summer of Code of 2023.
+
+We’ll also run through a worked example of an open source django project setup, and show how it is possible to reuse many of the ideas around end-to-end testing that developers may already be familiar with, to measure and report carbon emissions associated with code paths for delivering common functionality. 
+
+While this workshop is designed not to require attendees to have a working development environment, for those who bring a laptop with one, there will be chances to play with some of the more common meaurement tooling available.
+
+### Who will be delivering the workshop?
+
+This workshop will be delivered by Chris Adams of the Green Web Foundation. The foundation has been tracking the transition of the internet from fossil fuels since the early 2010&#x27;s, and is focussed on reaching a fossil free internet by 2030. It is the non-profit that contributed the code to build carbon measurement capabilities into the Firefox browser, and the foundation uses Django extensively.
+
+Chris first started using Django in 2008, has been delivering climate themed talks at DjangoCon conferences in Europe since 2017. As part of his role at the Green Web Foundation, he designs and delivers hands-on workshops to help developers take their first steps into the growing field of digital sustainability.
+
+Video: https://youtu.be/UWT105b_x3Y</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/ZP9RWD/</url>
+            <location>Workshop</location>
+            
+            <attendee>Chris Adams</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>PNWU9L@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-PNWU9L</pentabarf:event-slug>
+            <pentabarf:title>Blogging with Django: get started with Wagtail</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T140000</dtstart>
+            <dtend>20240607T145000</dtend>
+            <duration>0.05000</duration>
+            <summary>Blogging with Django: get started with Wagtail</summary>
+            <description>During this beginner-friendly workshop, we’ll go from nothing to a live site on a cloud platform. We’ll briefly introduce Wagtail, then get straight to building – starting from a minimal template and then adding more blogging features to learn different concepts.
+
+During the interactive part of the workshop, we’ll cover:
+
+1. Starting a new Wagtail site (5min)
+2. Customizing models and views to suit your needs (10min)
+3. Customizing templates (5min)
+4. Support for images and videos (5min)
+5. Deploying to the cloud platform (10min)
+
+Attendees will be able to either go through the tutorial steps on their own device, or follow along without coding. This will be taught by people who create and teach a Wagtail developer training course professionally, based on existing material curated to fit within the DjangoCon Europe format.
+
+Video: https://youtu.be/mH56TqETi6A</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/PNWU9L/</url>
+            <location>Workshop</location>
+            
+            <attendee>Thibaud Colas</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>LBTVBN@@pretalx.evolutio.pt</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-LBTVBN</pentabarf:event-slug>
+            <pentabarf:title>Accessibility for the Django Community</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20240607T150000</dtstart>
+            <dtend>20240607T155000</dtend>
+            <duration>0.05000</duration>
+            <summary>Accessibility for the Django Community</summary>
+            <description>Outline of the workshop:
+- Introduction
+- Who uses the Web? (Talk about different assistive tech users)
+- In-depth backend code related to accessibility:
+  - Contextual alt-text in CMS
+  - Determine lang attribute for a page
+  - Avoid empty links
+- Authoring Tool Accessibility Guidelines (ATAG)
+- Accessibility considerations in community, events, and contributors
+
+Video: https://youtu.be/uC49aH6rw3o</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>https://pretalx.evolutio.pt//djangocon-europe-2024/talk/LBTVBN/</url>
+            <location>Workshop</location>
+            
+            <attendee>Saptak S</attendee>
+            
+        </vevent>
+        
+    </vcalendar>
+</iCalendar>

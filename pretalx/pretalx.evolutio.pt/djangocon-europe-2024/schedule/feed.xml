@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><title>DjangoCon Europe 2024 schedule updates</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/" rel="alternate"/><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/feed.xml" rel="self"/><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/feed.xml</id><updated>2024-06-06T10:39:58.031439+00:00</updated><entry><title>New DjangoCon Europe 2024 schedule released (0.12)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.12" rel="alternate"/><published>2024-06-06T10:39:58.031439+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.12</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have a new session: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/JX9H3D/"&gt;
+                        “The attentive programmer”
+                        
+                            by Daniele Procida
+                        
+                    &lt;/a&gt;.
+                
+        &lt;/p&gt;
+    
+
+    
+        
+            &lt;p&gt;We sadly had to cancel a session: 
+                
+                    “Effective Strategies for Disability Inclusion in Open Source Communities”
+                    
+                        by Brayan Kai Mwanyumba.
+                    
+                &lt;/p&gt;
+        
+    
+
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.11)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.11" rel="alternate"/><published>2024-06-06T08:29:48.307310+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.11</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;We have moved a session around: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/LBTVBN/"&gt;
+                        “Accessibility for the Django Community”
+                        
+                            by Saptak S
+                        
+                    &lt;/a&gt;
+                    
+                        (June 7, 2024, 3:10 p.m. → June 7, 2024, 3 p.m.)
+                    
+                &lt;/p&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.10)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.10" rel="alternate"/><published>2024-06-05T08:28:46.029955+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.10</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;We have moved a session around: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/ZP9RWD/"&gt;
+                        “Greening Digital - how to set up your django app with green coding metrics in CI”
+                        
+                            by Chris Adams
+                        
+                    &lt;/a&gt;
+                    
+                        (June 7, 2024, noon → June 7, 2024, 12:15 p.m.)
+                    
+                &lt;/p&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.9)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.9" rel="alternate"/><published>2024-06-04T21:06:43.985273+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.9</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.8)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.8" rel="alternate"/><published>2024-06-04T20:55:30.457869+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.8</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have a new session: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/QP39VQ/"&gt;
+                        “Greening Digital With Django”
+                        
+                            by Chris Adams
+                        
+                    &lt;/a&gt;.
+                
+        &lt;/p&gt;
+    
+
+    
+
+    
+        
+            &lt;p&gt;We have moved a session around: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/FTJWJA/"&gt;
+                        “Welcome Session”
+                        
+                    &lt;/a&gt;
+                    
+                        (June 5, 2024, 9 a.m. → June 5, 2024, 9:30 a.m.)
+                    
+                &lt;/p&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.7)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.7" rel="alternate"/><published>2024-06-04T15:52:47.084276+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.7</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.6)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.6" rel="alternate"/><published>2024-06-04T15:36:43.599518+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.6</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have a new session: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/E7JYC8/"&gt;
+                        “Building a Django-Powered Laboratory Information Management Systems (LIMS) for the Genomics Era”
+                        
+                            by Isaiah Olatunbosun
+                        
+                    &lt;/a&gt;.
+                
+        &lt;/p&gt;
+    
+
+    
+
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.5)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.5" rel="alternate"/><published>2024-06-04T14:00:46.945074+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.5</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+        
+            &lt;p&gt;Sadly, we had to cancel sessions:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        “Django: the web framework that changed my life”
+                        
+                            by Sage Abdullah
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        “Building a Django-Powered Laboratory Information Management Systems (LIMS) for the Genomics Era”
+                        
+                            by Isaiah Olatunbosun
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;We have moved a session around: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/QGLCYX/"&gt;
+                        “Fast on my machine: How to debug slow requests in production”
+                        
+                            by Raphael Michel
+                        
+                    &lt;/a&gt;
+                    
+                        (June 5, 2024, 2:45 p.m. → June 7, 2024, 3:10 p.m.)
+                    
+                &lt;/p&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.4)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.4" rel="alternate"/><published>2024-05-29T14:08:26.247205+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.4</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;Added Boat Ride&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.3)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.3" rel="alternate"/><published>2024-05-25T08:26:16.563549+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.3</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have a new session: 
+                
+                    &lt;a href="/djangocon-europe-2024/talk/GPAVGH/"&gt;
+                        “Navigating the maze of Django&amp;#x27;s URL routing: a deep dive”
+                        
+                            by Timothy McCurrach
+                        
+                    &lt;/a&gt;.
+                
+        &lt;/p&gt;
+    
+
+    
+        
+            &lt;p&gt;We sadly had to cancel a session: 
+                
+                    “Testing your web app with Playwright”
+                    
+                        by Sheena O&amp;#x27;Connell.
+                    
+                &lt;/p&gt;
+        
+    
+
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.2)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.2" rel="alternate"/><published>2024-05-18T05:35:13.171421+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.2</id><summary type="html">
+
+&lt;p&gt;
+    
+        A new DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have new sessions!&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;&lt;a href="/djangocon-europe-2024/talk/YXAWAD/"&gt;
+                        “Tying up a loose end - How class-based emails will save your day”
+                        
+                    &lt;/a&gt;&lt;/li&gt;
+                
+                    &lt;li&gt;&lt;a href="/djangocon-europe-2024/talk/QQGHXX/"&gt;
+                        “How to monetize your side project for fun &amp;amp; profit”
+                        
+                    &lt;/a&gt;&lt;/li&gt;
+                
+            &lt;/ul&gt;
+        &lt;/p&gt;
+    
+
+    
+        
+            &lt;p&gt;Sadly, we had to cancel sessions:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        “Streaming Video in Django | Demystified”
+                        
+                            by Vaarun Sinha
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        “The case of django-simple-history and 200M DB rows”
+                        
+                            by Syed Muhammad Dawoud Sheraz Ali
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;We had to move some sessions, so if you were planning on seeing them, check their new dates or locations:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;&lt;a href="/djangocon-europe-2024/talk/WN3GGN/"&gt;
+                        “Building high-performance, type-safe GraphQL APIs with Strawberry and Django”
+                        
+                            by Thiago Bellini Ribeiro
+                        
+                    &lt;/a&gt;
+                        
+                            (June 6, 2024, 2 p.m. → June 5, 2024, 2:10 p.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;&lt;a href="/djangocon-europe-2024/talk/S7PV7R/"&gt;
+                        “Diving into the DSF Rhythm: A session on Django Governance”
+                        
+                            by Thibaud Colas, Çağıl Uluşahin Sönmez, Sarah Abderemane, Kátia Nakamura
+                        
+                    &lt;/a&gt;
+                        
+                            (June 5, 2024, 2:10 p.m. → June 6, 2024, 2 p.m.)
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2024 schedule released (0.1)</title><link href="https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.1" rel="alternate"/><published>2024-04-30T15:30:14.624499+00:00</published><id>https://pretalx.evolutio.pt/djangocon-europe-2024/schedule/changelog/#0.1</id><summary type="html">
+
+&lt;p&gt;
+    
+        The first DjangoCon Europe 2024 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released our first schedule!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry></feed>

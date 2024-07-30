@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//9CXK7V
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-LAFKT7@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240606T091500
+DTEND;TZID=CET:20240606T101000
+DESCRIPTION:Beyond the excitement about the new generation of LLMs\, AI is 
+ just an\necosystem inside the wider tech-biome. We are going to revisit th
+ e\nfundamentals to examine sensible AI projects and systems that can healt
+ hily\nbe integrated into the wider tech world.
+DTSTAMP:20240730T104707Z
+LOCATION:Auditorium
+SUMMARY:AI\, away from the hype - Meritxell Sardà Ventosa
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/LAFKT7/
+END:VEVENT
+END:VCALENDAR

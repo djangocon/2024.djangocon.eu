@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//F9WGV7
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-DY3QTG@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240607T091500
+DTEND;TZID=CET:20240607T101000
+DESCRIPTION:Most people don't dream of being a database administrator when 
+ they grow up. I've worked with databases for over 25 years because I love 
+ them so much\, but I'm aware that most people don't feel the same way! Mos
+ t of the developers I know just want the database to quietly do its thing 
+ in the background so they can concentrate on coding. Which seems like a re
+ asonable request.\n\nBut the world of databases is changing. The tradition
+ al DBA role is becoming less common\, and developers are increasingly expe
+ cted to manage their own databases. Let's talk about how you\, as a develo
+ per\, can navigate this new reality\, and what you actually need to know a
+ bout databases.\n\nWho knows - maybe\, along the way\, I can even convince
+  you to love databases just a little bit!
+DTSTAMP:20240730T104655Z
+LOCATION:Auditorium
+SUMMARY:When I Grow up I Want to be a Database Administrator (said no one e
+ ver) - Karen Jex
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/DY3QTG/
+END:VEVENT
+END:VCALENDAR

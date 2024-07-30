@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//djangocon-europe-2024//3TG9VD
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-XLYKCP@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240605T113000
+DTEND;TZID=CET:20240605T122000
+DESCRIPTION:Django powers some of the world’s leading websites\, offering
+  a robust framework that propels projects from conception to production wi
+ th ease. At its core\, Django's migration framework and static asset manag
+ ement streamline development\, but the journey doesn’t stop there. As ap
+ plications expand and evolve\, scaling introduces new challenges\, particu
+ larly when deploying updates across multiple instances.\n\nHow do we manag
+ e schema and static asset versions during rolling updates or blue/green de
+ ployments without disrupting the user experience? This presentation dives 
+ into the trenches of scaling Django applications. We’ll unravel the comp
+ lexities of running multiple instances with varying schema and static asse
+ ts\, exploring the intricacies of forward and backward-compatible migratio
+ ns and the nuances of serving static assets in a distributed environment. 
+ Prepare to get your hands dirty as we navigate through real-world scenario
+ s\, weighing compromises and strategizing for success. Whether you’re sc
+ aling your first project or optimizing an enterprise-level system\, this s
+ ession will arm you with the knowledge to tackle these challenges head-on.
+DTSTAMP:20240730T111700Z
+LOCATION:Workshop
+SUMMARY:Django schema migrations and deployments minus the misery - Antonis
+  Kalipetis
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/XLYKCP/
+END:VEVENT
+END:VCALENDAR

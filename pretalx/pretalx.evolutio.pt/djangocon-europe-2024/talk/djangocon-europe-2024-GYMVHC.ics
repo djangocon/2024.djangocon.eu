@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//GYMVHC
+BEGIN:VTIMEZONE
+TZID:CET
+BEGIN:STANDARD
+DTSTART:20001029T040000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-djangocon-europe-2024-GYMVHC@pretalx.evolutio.pt
+DTSTART;TZID=CET:20240607T122500
+DTEND;TZID=CET:20240607T125500
+DESCRIPTION:Some love it\, some hate it but Django has a whole second docum
+ entation site called CCBV. No matter what team you're in\, such documentat
+ ion interface is very useful but... what if we could document whole Django
+  projects that way?
+DTSTAMP:20240730T105346Z
+LOCATION:Auditorium
+SUMMARY:Django Classy All The Things!!! - Emma Delescolle
+URL:https://pretalx.evolutio.pt/djangocon-europe-2024/talk/GYMVHC/
+END:VEVENT
+END:VCALENDAR
